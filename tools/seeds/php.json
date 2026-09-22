@@ -1,0 +1,2929 @@
+[
+  {
+    "name": "laravel/framework",
+    "tags": [
+      "Web框架",
+      "MVC",
+      "脚手架"
+    ]
+  },
+  {
+    "name": "laravel/laravel",
+    "tags": [
+      "Web框架",
+      "脚手架"
+    ]
+  },
+  {
+    "name": "laravel/installer",
+    "tags": [
+      "命令行",
+      "脚手架"
+    ]
+  },
+  {
+    "name": "laravel/sail",
+    "tags": [
+      "Docker",
+      "开发环境"
+    ]
+  },
+  {
+    "name": "laravel/pint",
+    "tags": [
+      "代码规范",
+      "格式化"
+    ]
+  },
+  {
+    "name": "laravel/sanctum",
+    "tags": [
+      "认证",
+      "API"
+    ]
+  },
+  {
+    "name": "laravel/passport",
+    "tags": [
+      "认证",
+      "OAuth"
+    ]
+  },
+  {
+    "name": "laravel/cashier",
+    "tags": [
+      "支付",
+      "订阅"
+    ]
+  },
+  {
+    "name": "laravel/horizon",
+    "tags": [
+      "队列",
+      "监控"
+    ]
+  },
+  {
+    "name": "laravel/telescope",
+    "tags": [
+      "调试",
+      "监控"
+    ]
+  },
+  {
+    "name": "laravel/dusk",
+    "tags": [
+      "测试",
+      "浏览器"
+    ]
+  },
+  {
+    "name": "laravel/socialite",
+    "tags": [
+      "认证",
+      "OAuth"
+    ]
+  },
+  {
+    "name": "laravel/octane",
+    "tags": [
+      "高性能",
+      "常驻进程"
+    ]
+  },
+  {
+    "name": "laravel/breeze",
+    "tags": [
+      "认证",
+      "脚手架"
+    ]
+  },
+  {
+    "name": "laravel/jetstream",
+    "tags": [
+      "认证",
+      "脚手架"
+    ]
+  },
+  {
+    "name": "laravel/prompts",
+    "tags": [
+      "命令行",
+      "交互"
+    ]
+  },
+  {
+    "name": "laravel/serializable-closure",
+    "tags": [
+      "序列化",
+      "闭包"
+    ]
+  },
+  {
+    "name": "symfony/framework-bundle",
+    "tags": [
+      "Web框架",
+      "MVC"
+    ]
+  },
+  {
+    "name": "symfony/console",
+    "tags": [
+      "命令行",
+      "CLI"
+    ]
+  },
+  {
+    "name": "symfony/http-foundation",
+    "tags": [
+      "HTTP",
+      "基础库"
+    ]
+  },
+  {
+    "name": "symfony/http-kernel",
+    "tags": [
+      "HTTP",
+      "内核"
+    ]
+  },
+  {
+    "name": "symfony/routing",
+    "tags": [
+      "路由",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "symfony/dependency-injection",
+    "tags": [
+      "依赖注入",
+      "IoC"
+    ]
+  },
+  {
+    "name": "symfony/config",
+    "tags": [
+      "配置",
+      "基础库"
+    ]
+  },
+  {
+    "name": "symfony/filesystem",
+    "tags": [
+      "文件系统",
+      "基础库"
+    ]
+  },
+  {
+    "name": "symfony/finder",
+    "tags": [
+      "文件遍历",
+      "基础库"
+    ]
+  },
+  {
+    "name": "symfony/process",
+    "tags": [
+      "进程",
+      "基础库"
+    ]
+  },
+  {
+    "name": "symfony/event-dispatcher",
+    "tags": [
+      "事件",
+      "消息"
+    ]
+  },
+  {
+    "name": "symfony/cache",
+    "tags": [
+      "缓存",
+      "PSR-6"
+    ]
+  },
+  {
+    "name": "symfony/var-dumper",
+    "tags": [
+      "调试",
+      "输出"
+    ]
+  },
+  {
+    "name": "symfony/var-exporter",
+    "tags": [
+      "序列化",
+      "导出"
+    ]
+  },
+  {
+    "name": "symfony/yaml",
+    "tags": [
+      "YAML",
+      "解析器"
+    ]
+  },
+  {
+    "name": "symfony/serializer",
+    "tags": [
+      "序列化",
+      "对象映射"
+    ]
+  },
+  {
+    "name": "symfony/validator",
+    "tags": [
+      "校验",
+      "表单"
+    ]
+  },
+  {
+    "name": "symfony/form",
+    "tags": [
+      "表单",
+      "Web"
+    ]
+  },
+  {
+    "name": "symfony/mailer",
+    "tags": [
+      "邮件",
+      "SMTP"
+    ]
+  },
+  {
+    "name": "symfony/mime",
+    "tags": [
+      "MIME",
+      "邮件"
+    ]
+  },
+  {
+    "name": "symfony/notifier",
+    "tags": [
+      "通知",
+      "消息"
+    ]
+  },
+  {
+    "name": "symfony/translation",
+    "tags": [
+      "国际化",
+      "i18n"
+    ]
+  },
+  {
+    "name": "symfony/string",
+    "tags": [
+      "字符串",
+      "基础库"
+    ]
+  },
+  {
+    "name": "symfony/stopwatch",
+    "tags": [
+      "计时",
+      "性能"
+    ]
+  },
+  {
+    "name": "symfony/browser-kit",
+    "tags": [
+      "测试",
+      "浏览器模拟"
+    ]
+  },
+  {
+    "name": "symfony/dom-crawler",
+    "tags": [
+      "HTML",
+      "解析"
+    ]
+  },
+  {
+    "name": "symfony/css-selector",
+    "tags": [
+      "CSS",
+      "选择器"
+    ]
+  },
+  {
+    "name": "symfony/panther",
+    "tags": [
+      "测试",
+      "浏览器"
+    ]
+  },
+  {
+    "name": "symfony/phpunit-bridge",
+    "tags": [
+      "测试",
+      "集成"
+    ]
+  },
+  {
+    "name": "symfony/messenger",
+    "tags": [
+      "消息队列",
+      "异步"
+    ]
+  },
+  {
+    "name": "symfony/workflow",
+    "tags": [
+      "状态机",
+      "流程"
+    ]
+  },
+  {
+    "name": "symfony/mercure",
+    "tags": [
+      "实时推送",
+      "SSE"
+    ]
+  },
+  {
+    "name": "symfony/webhook",
+    "tags": [
+      "Webhook",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "symfony/uid",
+    "tags": [
+      "UUID",
+      "基础库"
+    ]
+  },
+  {
+    "name": "symfony/http-client",
+    "tags": [
+      "HTTP",
+      "客户端"
+    ]
+  },
+  {
+    "name": "symfony/runtime",
+    "tags": [
+      "运行时",
+      "启动"
+    ]
+  },
+  {
+    "name": "symfony/error-handler",
+    "tags": [
+      "错误处理",
+      "调试"
+    ]
+  },
+  {
+    "name": "symfony/flex",
+    "tags": [
+      "Composer插件",
+      "脚手架"
+    ]
+  },
+  {
+    "name": "symfony/maker-bundle",
+    "tags": [
+      "代码生成",
+      "脚手架"
+    ]
+  },
+  {
+    "name": "symfony/security-bundle",
+    "tags": [
+      "安全",
+      "认证"
+    ]
+  },
+  {
+    "name": "symfony/security-core",
+    "tags": [
+      "安全",
+      "认证"
+    ]
+  },
+  {
+    "name": "symfony/security-http",
+    "tags": [
+      "安全",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "symfony/security-csrf",
+    "tags": [
+      "安全",
+      "CSRF"
+    ]
+  },
+  {
+    "name": "symfony/rate-limiter",
+    "tags": [
+      "限流",
+      "安全"
+    ]
+  },
+  {
+    "name": "symfony/lock",
+    "tags": [
+      "锁",
+      "并发"
+    ]
+  },
+  {
+    "name": "symfony/property-access",
+    "tags": [
+      "属性访问",
+      "基础库"
+    ]
+  },
+  {
+    "name": "symfony/property-info",
+    "tags": [
+      "类型推导",
+      "基础库"
+    ]
+  },
+  {
+    "name": "symfony/expression-language",
+    "tags": [
+      "表达式",
+      "解析"
+    ]
+  },
+  {
+    "name": "symfony/asset",
+    "tags": [
+      "静态资源",
+      "Web"
+    ]
+  },
+  {
+    "name": "symfony/twig-bridge",
+    "tags": [
+      "模板",
+      "Twig集成"
+    ]
+  },
+  {
+    "name": "symfony/twig-bundle",
+    "tags": [
+      "模板",
+      "Twig集成"
+    ]
+  },
+  {
+    "name": "twig/twig",
+    "tags": [
+      "模板",
+      "渲染"
+    ]
+  },
+  {
+    "name": "twig/extra-bundle",
+    "tags": [
+      "模板",
+      "扩展"
+    ]
+  },
+  {
+    "name": "nette/application",
+    "tags": [
+      "Web框架",
+      "MVC"
+    ]
+  },
+  {
+    "name": "nette/di",
+    "tags": [
+      "依赖注入",
+      "IoC"
+    ]
+  },
+  {
+    "name": "nette/utils",
+    "tags": [
+      "工具库",
+      "基础库"
+    ]
+  },
+  {
+    "name": "nette/http",
+    "tags": [
+      "HTTP",
+      "基础库"
+    ]
+  },
+  {
+    "name": "nette/mail",
+    "tags": [
+      "邮件",
+      "SMTP"
+    ]
+  },
+  {
+    "name": "nette/caching",
+    "tags": [
+      "缓存",
+      "基础库"
+    ]
+  },
+  {
+    "name": "nette/forms",
+    "tags": [
+      "表单",
+      "Web"
+    ]
+  },
+  {
+    "name": "nette/schema",
+    "tags": [
+      "配置",
+      "校验"
+    ]
+  },
+  {
+    "name": "nette/tester",
+    "tags": [
+      "测试",
+      "框架"
+    ]
+  },
+  {
+    "name": "nette/php-generator",
+    "tags": [
+      "代码生成",
+      "PHP"
+    ]
+  },
+  {
+    "name": "latte/latte",
+    "tags": [
+      "模板",
+      "渲染"
+    ]
+  },
+  {
+    "name": "laminas/laminas-mvc",
+    "tags": [
+      "Web框架",
+      "MVC"
+    ]
+  },
+  {
+    "name": "laminas/laminas-view",
+    "tags": [
+      "视图",
+      "模板"
+    ]
+  },
+  {
+    "name": "laminas/laminas-router",
+    "tags": [
+      "路由",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "laminas/laminas-http",
+    "tags": [
+      "HTTP",
+      "客户端"
+    ]
+  },
+  {
+    "name": "laminas/laminas-db",
+    "tags": [
+      "数据库",
+      "SQL"
+    ]
+  },
+  {
+    "name": "laminas/laminas-cache",
+    "tags": [
+      "缓存",
+      "PSR-6"
+    ]
+  },
+  {
+    "name": "laminas/laminas-filter",
+    "tags": [
+      "过滤",
+      "基础库"
+    ]
+  },
+  {
+    "name": "laminas/laminas-validator",
+    "tags": [
+      "校验",
+      "基础库"
+    ]
+  },
+  {
+    "name": "laminas/laminas-form",
+    "tags": [
+      "表单",
+      "Web"
+    ]
+  },
+  {
+    "name": "laminas/laminas-stdlib",
+    "tags": [
+      "标准库",
+      "基础库"
+    ]
+  },
+  {
+    "name": "laminas/laminas-eventmanager",
+    "tags": [
+      "事件",
+      "消息"
+    ]
+  },
+  {
+    "name": "laminas/laminas-code",
+    "tags": [
+      "反射",
+      "代码生成"
+    ]
+  },
+  {
+    "name": "laminas/laminas-diactoros",
+    "tags": [
+      "PSR-7",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "laminas/laminas-stratigility",
+    "tags": [
+      "PSR-7",
+      "中间件"
+    ]
+  },
+  {
+    "name": "laminas/laminas-httphandlerrunner",
+    "tags": [
+      "PSR-15",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "laminas/laminas-servicemanager",
+    "tags": [
+      "依赖注入",
+      "IoC"
+    ]
+  },
+  {
+    "name": "mezzio/mezzio",
+    "tags": [
+      "Web框架",
+      "PSR-15"
+    ]
+  },
+  {
+    "name": "slim/slim",
+    "tags": [
+      "Web框架",
+      "微框架"
+    ]
+  },
+  {
+    "name": "slim/psr7",
+    "tags": [
+      "PSR-7",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "slim/slim-skeleton",
+    "tags": [
+      "Web框架",
+      "脚手架"
+    ]
+  },
+  {
+    "name": "flightphp/core",
+    "tags": [
+      "Web框架",
+      "微框架"
+    ]
+  },
+  {
+    "name": "cakephp/cakephp",
+    "tags": [
+      "Web框架",
+      "ORM"
+    ]
+  },
+  {
+    "name": "cakephp/orm",
+    "tags": [
+      "ORM",
+      "数据库"
+    ]
+  },
+  {
+    "name": "cakephp/http",
+    "tags": [
+      "HTTP",
+      "基础库"
+    ]
+  },
+  {
+    "name": "cakephp/routing",
+    "tags": [
+      "路由",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "cakephp/cache",
+    "tags": [
+      "缓存",
+      "基础库"
+    ]
+  },
+  {
+    "name": "cakephp/console",
+    "tags": [
+      "命令行",
+      "CLI"
+    ]
+  },
+  {
+    "name": "cakephp/utility",
+    "tags": [
+      "工具库",
+      "基础库"
+    ]
+  },
+  {
+    "name": "codeigniter4/framework",
+    "tags": [
+      "Web框架",
+      "MVC"
+    ]
+  },
+  {
+    "name": "codeigniter/framework",
+    "tags": [
+      "Web框架",
+      "MVC"
+    ]
+  },
+  {
+    "name": "yiisoft/yii2",
+    "tags": [
+      "Web框架",
+      "MVC"
+    ]
+  },
+  {
+    "name": "yiisoft/yii2-queue",
+    "tags": [
+      "队列",
+      "异步"
+    ]
+  },
+  {
+    "name": "yiisoft/yii2-redis",
+    "tags": [
+      "Redis",
+      "缓存"
+    ]
+  },
+  {
+    "name": "yiisoft/yii2-swiftmailer",
+    "tags": [
+      "邮件",
+      "SMTP"
+    ]
+  },
+  {
+    "name": "yiisoft/yii2-authclient",
+    "tags": [
+      "认证",
+      "OAuth"
+    ]
+  },
+  {
+    "name": "yiisoft/yii2-imagine",
+    "tags": [
+      "图像",
+      "处理"
+    ]
+  },
+  {
+    "name": "yiisoft/yii2-gii",
+    "tags": [
+      "代码生成",
+      "脚手架"
+    ]
+  },
+  {
+    "name": "yiisoft/yii2-debug",
+    "tags": [
+      "调试",
+      "Web"
+    ]
+  },
+  {
+    "name": "yiisoft/yii2-elasticsearch",
+    "tags": [
+      "Elasticsearch",
+      "搜索"
+    ]
+  },
+  {
+    "name": "yiisoft/yii2-mongodb",
+    "tags": [
+      "MongoDB",
+      "数据库"
+    ]
+  },
+  {
+    "name": "yiisoft/yii2-bootstrap",
+    "tags": [
+      "Bootstrap",
+      "UI"
+    ]
+  },
+  {
+    "name": "yiisoft/yii-web",
+    "tags": [
+      "Web框架",
+      "MVC"
+    ]
+  },
+  {
+    "name": "yiisoft/yii-core",
+    "tags": [
+      "Web框架",
+      "MVC"
+    ]
+  },
+  {
+    "name": "yiisoft/db",
+    "tags": [
+      "数据库",
+      "ORM"
+    ]
+  },
+  {
+    "name": "yiisoft/cache",
+    "tags": [
+      "缓存",
+      "PSR-6"
+    ]
+  },
+  {
+    "name": "yiisoft/mailer",
+    "tags": [
+      "邮件",
+      "SMTP"
+    ]
+  },
+  {
+    "name": "yiisoft/log",
+    "tags": [
+      "日志",
+      "PSR-3"
+    ]
+  },
+  {
+    "name": "topthink/framework",
+    "tags": [
+      "Web框架",
+      "ThinkPHP"
+    ]
+  },
+  {
+    "name": "topthink/think-orm",
+    "tags": [
+      "ORM",
+      "数据库"
+    ]
+  },
+  {
+    "name": "topthink/think-queue",
+    "tags": [
+      "队列",
+      "异步"
+    ]
+  },
+  {
+    "name": "topthink/think-swoole",
+    "tags": [
+      "Swoole",
+      "高性能"
+    ]
+  },
+  {
+    "name": "topthink/think-migration",
+    "tags": [
+      "迁移",
+      "数据库"
+    ]
+  },
+  {
+    "name": "hyperf/framework",
+    "tags": [
+      "Web框架",
+      "Swoole"
+    ]
+  },
+  {
+    "name": "hyperf/http-server",
+    "tags": [
+      "HTTP",
+      "服务器"
+    ]
+  },
+  {
+    "name": "hyperf/rpc-server",
+    "tags": [
+      "RPC",
+      "服务"
+    ]
+  },
+  {
+    "name": "hyperf/grpc-server",
+    "tags": [
+      "gRPC",
+      "RPC"
+    ]
+  },
+  {
+    "name": "hyperf/grpc-client",
+    "tags": [
+      "gRPC",
+      "客户端"
+    ]
+  },
+  {
+    "name": "hyperf/redis",
+    "tags": [
+      "Redis",
+      "缓存"
+    ]
+  },
+  {
+    "name": "hyperf/cache",
+    "tags": [
+      "缓存",
+      "PSR-6"
+    ]
+  },
+  {
+    "name": "hyperf/database",
+    "tags": [
+      "数据库",
+      "ORM"
+    ]
+  },
+  {
+    "name": "hyperf/validation",
+    "tags": [
+      "校验",
+      "表单"
+    ]
+  },
+  {
+    "name": "hyperf/command",
+    "tags": [
+      "命令行",
+      "CLI"
+    ]
+  },
+  {
+    "name": "hyperf/crontab",
+    "tags": [
+      "定时任务",
+      "调度"
+    ]
+  },
+  {
+    "name": "hyperf/queue",
+    "tags": [
+      "队列",
+      "异步"
+    ]
+  },
+  {
+    "name": "hyperf/websocket-server",
+    "tags": [
+      "WebSocket",
+      "实时"
+    ]
+  },
+  {
+    "name": "hyperf/process",
+    "tags": [
+      "进程",
+      "多进程"
+    ]
+  },
+  {
+    "name": "hyperf/config",
+    "tags": [
+      "配置",
+      "基础库"
+    ]
+  },
+  {
+    "name": "hyperf/utils",
+    "tags": [
+      "工具库",
+      "基础库"
+    ]
+  },
+  {
+    "name": "workerman/workerman",
+    "tags": [
+      "网络",
+      "常驻进程"
+    ]
+  },
+  {
+    "name": "workerman/webman-framework",
+    "tags": [
+      "Web框架",
+      "高性能"
+    ]
+  },
+  {
+    "name": "workerman/gateway-worker",
+    "tags": [
+      "网关",
+      "实时通信"
+    ]
+  },
+  {
+    "name": "workerman/crontab",
+    "tags": [
+      "定时任务",
+      "调度"
+    ]
+  },
+  {
+    "name": "react/react",
+    "tags": [
+      "事件驱动",
+      "异步"
+    ]
+  },
+  {
+    "name": "react/http",
+    "tags": [
+      "HTTP",
+      "异步"
+    ]
+  },
+  {
+    "name": "react/event-loop",
+    "tags": [
+      "事件循环",
+      "异步"
+    ]
+  },
+  {
+    "name": "react/socket",
+    "tags": [
+      "Socket",
+      "网络"
+    ]
+  },
+  {
+    "name": "react/stream",
+    "tags": [
+      "流",
+      "异步"
+    ]
+  },
+  {
+    "name": "react/child-process",
+    "tags": [
+      "子进程",
+      "异步"
+    ]
+  },
+  {
+    "name": "amphp/amp",
+    "tags": [
+      "异步",
+      "协程"
+    ]
+  },
+  {
+    "name": "amphp/http-client",
+    "tags": [
+      "HTTP",
+      "异步客户端"
+    ]
+  },
+  {
+    "name": "amphp/websocket-client",
+    "tags": [
+      "WebSocket",
+      "客户端"
+    ]
+  },
+  {
+    "name": "amphp/websocket-server",
+    "tags": [
+      "WebSocket",
+      "服务器"
+    ]
+  },
+  {
+    "name": "amphp/parallel",
+    "tags": [
+      "并行",
+      "多进程"
+    ]
+  },
+  {
+    "name": "amphp/process",
+    "tags": [
+      "进程",
+      "异步"
+    ]
+  },
+  {
+    "name": "amphp/byte-stream",
+    "tags": [
+      "流",
+      "异步"
+    ]
+  },
+  {
+    "name": "amphp/cache",
+    "tags": [
+      "缓存",
+      "异步"
+    ]
+  },
+  {
+    "name": "amphp/socket",
+    "tags": [
+      "Socket",
+      "异步"
+    ]
+  },
+  {
+    "name": "spatie/laravel-permission",
+    "tags": [
+      "权限",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "spatie/laravel-medialibrary",
+    "tags": [
+      "媒体",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "spatie/laravel-translatable",
+    "tags": [
+      "翻译",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "spatie/laravel-query-builder",
+    "tags": [
+      "查询",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "spatie/laravel-backup",
+    "tags": [
+      "备份",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "spatie/laravel-activitylog",
+    "tags": [
+      "日志",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "spatie/laravel-data",
+    "tags": [
+      "数据传输",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "spatie/laravel-ignition",
+    "tags": [
+      "错误",
+      "调试"
+    ]
+  },
+  {
+    "name": "spatie/laravel-health",
+    "tags": [
+      "健康检查",
+      "监控"
+    ]
+  },
+  {
+    "name": "spatie/laravel-model-states",
+    "tags": [
+      "状态机",
+      "模型"
+    ]
+  },
+  {
+    "name": "spatie/laravel-login-link",
+    "tags": [
+      "认证",
+      "免密登录"
+    ]
+  },
+  {
+    "name": "spatie/ray",
+    "tags": [
+      "调试",
+      "客户端"
+    ]
+  },
+  {
+    "name": "spatie/phpunit-watcher",
+    "tags": [
+      "测试",
+      "监听"
+    ]
+  },
+  {
+    "name": "spatie/image",
+    "tags": [
+      "图像",
+      "处理"
+    ]
+  },
+  {
+    "name": "spatie/url",
+    "tags": [
+      "URL",
+      "解析"
+    ]
+  },
+  {
+    "name": "spatie/macroable",
+    "tags": [
+      "宏",
+      "扩展"
+    ]
+  },
+  {
+    "name": "spatie/async",
+    "tags": [
+      "异步",
+      "并行"
+    ]
+  },
+  {
+    "name": "spatie/emoji",
+    "tags": [
+      "Emoji",
+      "基础库"
+    ]
+  },
+  {
+    "name": "spatie/icalendar-generator",
+    "tags": [
+      "日历",
+      "iCal"
+    ]
+  },
+  {
+    "name": "spatie/pdf-to-text",
+    "tags": [
+      "PDF",
+      "解析"
+    ]
+  },
+  {
+    "name": "spatie/browsershot",
+    "tags": [
+      "截图",
+      "浏览器"
+    ]
+  },
+  {
+    "name": "spatie/simple-excel",
+    "tags": [
+      "Excel",
+      "导入导出"
+    ]
+  },
+  {
+    "name": "spatie/db-dumper",
+    "tags": [
+      "数据库",
+      "备份"
+    ]
+  },
+  {
+    "name": "spatie/flysystem-dropbox",
+    "tags": [
+      "Flysystem",
+      "Dropbox"
+    ]
+  },
+  {
+    "name": "spatie/laravel-google-calendar",
+    "tags": [
+      "日历",
+      "Google"
+    ]
+  },
+  {
+    "name": "spatie/laravel-csp",
+    "tags": [
+      "安全",
+      "CSP"
+    ]
+  },
+  {
+    "name": "spatie/laravel-robots-middleware",
+    "tags": [
+      "SEO",
+      "爬虫"
+    ]
+  },
+  {
+    "name": "filament/filament",
+    "tags": [
+      "管理后台",
+      "UI"
+    ]
+  },
+  {
+    "name": "livewire/livewire",
+    "tags": [
+      "组件",
+      "响应式"
+    ]
+  },
+  {
+    "name": "livewire/volt",
+    "tags": [
+      "组件",
+      "模板"
+    ]
+  },
+  {
+    "name": "inertiajs/inertia-laravel",
+    "tags": [
+      "SPA",
+      "中间件"
+    ]
+  },
+  {
+    "name": "pestphp/pest",
+    "tags": [
+      "测试",
+      "框架"
+    ]
+  },
+  {
+    "name": "pestphp/pest-plugin-laravel",
+    "tags": [
+      "测试",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "pestphp/pest-plugin-mockery",
+    "tags": [
+      "测试",
+      "Mock"
+    ]
+  },
+  {
+    "name": "phpunit/phpunit",
+    "tags": [
+      "测试",
+      "框架"
+    ]
+  },
+  {
+    "name": "phpunit/php-code-coverage",
+    "tags": [
+      "测试",
+      "覆盖率"
+    ]
+  },
+  {
+    "name": "sebastian/global-state",
+    "tags": [
+      "测试",
+      "状态"
+    ]
+  },
+  {
+    "name": "sebastian/comparator",
+    "tags": [
+      "测试",
+      "比较"
+    ]
+  },
+  {
+    "name": "sebastian/exporter",
+    "tags": [
+      "导出",
+      "调试"
+    ]
+  },
+  {
+    "name": "sebastian/diff",
+    "tags": [
+      "差异",
+      "文本"
+    ]
+  },
+  {
+    "name": "sebastian/type",
+    "tags": [
+      "类型",
+      "基础库"
+    ]
+  },
+  {
+    "name": "phpspec/prophecy",
+    "tags": [
+      "测试",
+      "Mock"
+    ]
+  },
+  {
+    "name": "mockery/mockery",
+    "tags": [
+      "Mock",
+      "测试"
+    ]
+  },
+  {
+    "name": "fakerphp/faker",
+    "tags": [
+      "伪造数据",
+      "测试"
+    ]
+  },
+  {
+    "name": "phpstan/phpstan",
+    "tags": [
+      "静态分析",
+      "类型"
+    ]
+  },
+  {
+    "name": "phpstan/phpstan-deprecation-rules",
+    "tags": [
+      "静态分析",
+      "规则"
+    ]
+  },
+  {
+    "name": "phpstan/phpstan-strict-rules",
+    "tags": [
+      "静态分析",
+      "规则"
+    ]
+  },
+  {
+    "name": "phpstan/phpstan-doctrine",
+    "tags": [
+      "静态分析",
+      "Doctrine"
+    ]
+  },
+  {
+    "name": "phpstan/phpstan-phpunit",
+    "tags": [
+      "静态分析",
+      "PHPUnit"
+    ]
+  },
+  {
+    "name": "psalm/psalm",
+    "tags": [
+      "静态分析",
+      "类型"
+    ]
+  },
+  {
+    "name": "psr/log",
+    "tags": [
+      "日志",
+      "PSR-3"
+    ]
+  },
+  {
+    "name": "psr/http-message",
+    "tags": [
+      "HTTP",
+      "PSR-7"
+    ]
+  },
+  {
+    "name": "psr/http-factory",
+    "tags": [
+      "HTTP",
+      "PSR-17"
+    ]
+  },
+  {
+    "name": "psr/http-client",
+    "tags": [
+      "HTTP",
+      "PSR-18"
+    ]
+  },
+  {
+    "name": "psr/container",
+    "tags": [
+      "容器",
+      "PSR-11"
+    ]
+  },
+  {
+    "name": "psr/simple-cache",
+    "tags": [
+      "缓存",
+      "PSR-16"
+    ]
+  },
+  {
+    "name": "psr/event-dispatcher",
+    "tags": [
+      "事件",
+      "PSR-14"
+    ]
+  },
+  {
+    "name": "psr/cache",
+    "tags": [
+      "缓存",
+      "PSR-6"
+    ]
+  },
+  {
+    "name": "guzzlehttp/guzzle",
+    "tags": [
+      "HTTP",
+      "客户端"
+    ]
+  },
+  {
+    "name": "guzzlehttp/psr7",
+    "tags": [
+      "PSR-7",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "guzzlehttp/promises",
+    "tags": [
+      "异步",
+      "Promise"
+    ]
+  },
+  {
+    "name": "guzzlehttp/uri-template",
+    "tags": [
+      "URI",
+      "模板"
+    ]
+  },
+  {
+    "name": "monolog/monolog",
+    "tags": [
+      "日志",
+      "PSR-3"
+    ]
+  },
+  {
+    "name": "nesbot/carbon",
+    "tags": [
+      "日期",
+      "时间"
+    ]
+  },
+  {
+    "name": "brick/math",
+    "tags": [
+      "数学",
+      "大数"
+    ]
+  },
+  {
+    "name": "brick/date",
+    "tags": [
+      "日期",
+      "时间"
+    ]
+  },
+  {
+    "name": "brick/money",
+    "tags": [
+      "货币",
+      "金额"
+    ]
+  },
+  {
+    "name": "brick/varexporter",
+    "tags": [
+      "序列化",
+      "导出"
+    ]
+  },
+  {
+    "name": "ramsey/uuid",
+    "tags": [
+      "UUID",
+      "标识符"
+    ]
+  },
+  {
+    "name": "ramsey/collection",
+    "tags": [
+      "集合",
+      "数据结构"
+    ]
+  },
+  {
+    "name": "vlucas/phpdotenv",
+    "tags": [
+      "环境变量",
+      "配置"
+    ]
+  },
+  {
+    "name": "doctrine/orm",
+    "tags": [
+      "ORM",
+      "数据库"
+    ]
+  },
+  {
+    "name": "doctrine/dbal",
+    "tags": [
+      "数据库",
+      "SQL"
+    ]
+  },
+  {
+    "name": "doctrine/migrations",
+    "tags": [
+      "迁移",
+      "数据库"
+    ]
+  },
+  {
+    "name": "doctrine/collections",
+    "tags": [
+      "集合",
+      "数据结构"
+    ]
+  },
+  {
+    "name": "doctrine/common",
+    "tags": [
+      "基础库",
+      "Doctrine"
+    ]
+  },
+  {
+    "name": "doctrine/annotations",
+    "tags": [
+      "注解",
+      "元数据"
+    ]
+  },
+  {
+    "name": "doctrine/cache",
+    "tags": [
+      "缓存",
+      "Doctrine"
+    ]
+  },
+  {
+    "name": "doctrine/event-manager",
+    "tags": [
+      "事件",
+      "Doctrine"
+    ]
+  },
+  {
+    "name": "doctrine/inflector",
+    "tags": [
+      "词形变化",
+      "基础库"
+    ]
+  },
+  {
+    "name": "doctrine/instantiator",
+    "tags": [
+      "实例化",
+      "反射"
+    ]
+  },
+  {
+    "name": "doctrine/lexer",
+    "tags": [
+      "词法",
+      "解析"
+    ]
+  },
+  {
+    "name": "doctrine/sql-formatter",
+    "tags": [
+      "SQL",
+      "格式化"
+    ]
+  },
+  {
+    "name": "doctrine/doctrine-bundle",
+    "tags": [
+      "Symfony集成",
+      "ORM"
+    ]
+  },
+  {
+    "name": "doctrine/doctrine-migrations-bundle",
+    "tags": [
+      "迁移",
+      "Symfony集成"
+    ]
+  },
+  {
+    "name": "doctrine/mongodb-odm",
+    "tags": [
+      "MongoDB",
+      "ODM"
+    ]
+  },
+  {
+    "name": "propel/propel",
+    "tags": [
+      "ORM",
+      "数据库"
+    ]
+  },
+  {
+    "name": "propel/propel2",
+    "tags": [
+      "ORM",
+      "数据库"
+    ]
+  },
+  {
+    "name": "redbeanphp/redbean",
+    "tags": [
+      "ORM",
+      "数据库"
+    ]
+  },
+  {
+    "name": "medoo/medoo",
+    "tags": [
+      "数据库",
+      "轻量"
+    ]
+  },
+  {
+    "name": "illuminate/database",
+    "tags": [
+      "ORM",
+      "数据库"
+    ]
+  },
+  {
+    "name": "illuminate/support",
+    "tags": [
+      "工具库",
+      "集合"
+    ]
+  },
+  {
+    "name": "illuminate/collections",
+    "tags": [
+      "集合",
+      "数据结构"
+    ]
+  },
+  {
+    "name": "illuminate/validation",
+    "tags": [
+      "校验",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/events",
+    "tags": [
+      "事件",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/http",
+    "tags": [
+      "HTTP",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/routing",
+    "tags": [
+      "路由",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/cache",
+    "tags": [
+      "缓存",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/config",
+    "tags": [
+      "配置",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/console",
+    "tags": [
+      "命令行",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/encryption",
+    "tags": [
+      "加密",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/filesystem",
+    "tags": [
+      "文件系统",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/hashing",
+    "tags": [
+      "哈希",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/mail",
+    "tags": [
+      "邮件",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/notifications",
+    "tags": [
+      "通知",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/queue",
+    "tags": [
+      "队列",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/redis",
+    "tags": [
+      "Redis",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/session",
+    "tags": [
+      "会话",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/translation",
+    "tags": [
+      "国际化",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/view",
+    "tags": [
+      "视图",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/auth",
+    "tags": [
+      "认证",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/broadcasting",
+    "tags": [
+      "广播",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/bus",
+    "tags": [
+      "总线",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/container",
+    "tags": [
+      "容器",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "illuminate/pipeline",
+    "tags": [
+      "管道",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "league/flysystem",
+    "tags": [
+      "文件系统",
+      "抽象层"
+    ]
+  },
+  {
+    "name": "league/flysystem-aws-s3-v3",
+    "tags": [
+      "文件系统",
+      "S3"
+    ]
+  },
+  {
+    "name": "league/flysystem-ftp",
+    "tags": [
+      "文件系统",
+      "FTP"
+    ]
+  },
+  {
+    "name": "league/flysystem-sftp-v3",
+    "tags": [
+      "文件系统",
+      "SFTP"
+    ]
+  },
+  {
+    "name": "league/flysystem-google-cloud-storage",
+    "tags": [
+      "文件系统",
+      "GCS"
+    ]
+  },
+  {
+    "name": "league/flysystem-azure-blob-storage",
+    "tags": [
+      "文件系统",
+      "Azure"
+    ]
+  },
+  {
+    "name": "league/flysystem-local",
+    "tags": [
+      "文件系统",
+      "本地"
+    ]
+  },
+  {
+    "name": "league/flysystem-memory",
+    "tags": [
+      "文件系统",
+      "内存"
+    ]
+  },
+  {
+    "name": "league/flysystem-read-only",
+    "tags": [
+      "文件系统",
+      "只读"
+    ]
+  },
+  {
+    "name": "league/flysystem-path-prefixing",
+    "tags": [
+      "文件系统",
+      "前缀"
+    ]
+  },
+  {
+    "name": "league/commonmark",
+    "tags": [
+      "Markdown",
+      "解析"
+    ]
+  },
+  {
+    "name": "league/oauth2-client",
+    "tags": [
+      "OAuth2",
+      "客户端"
+    ]
+  },
+  {
+    "name": "league/oauth2-server",
+    "tags": [
+      "OAuth2",
+      "服务端"
+    ]
+  },
+  {
+    "name": "league/csv",
+    "tags": [
+      "CSV",
+      "解析"
+    ]
+  },
+  {
+    "name": "league/uri",
+    "tags": [
+      "URI",
+      "解析"
+    ]
+  },
+  {
+    "name": "league/container",
+    "tags": [
+      "容器",
+      "DI"
+    ]
+  },
+  {
+    "name": "league/route",
+    "tags": [
+      "路由",
+      "PSR-15"
+    ]
+  },
+  {
+    "name": "league/event",
+    "tags": [
+      "事件",
+      "消息"
+    ]
+  },
+  {
+    "name": "league/tactician",
+    "tags": [
+      "命令总线",
+      "CQRS"
+    ]
+  },
+  {
+    "name": "league/pipeline",
+    "tags": [
+      "管道",
+      "中间件"
+    ]
+  },
+  {
+    "name": "league/color-extractor",
+    "tags": [
+      "图像",
+      "取色"
+    ]
+  },
+  {
+    "name": "league/oauth2-facebook",
+    "tags": [
+      "OAuth2",
+      "Facebook"
+    ]
+  },
+  {
+    "name": "league/oauth2-github",
+    "tags": [
+      "OAuth2",
+      "GitHub"
+    ]
+  },
+  {
+    "name": "league/oauth2-google",
+    "tags": [
+      "OAuth2",
+      "Google"
+    ]
+  },
+  {
+    "name": "league/oauth2-instagram",
+    "tags": [
+      "OAuth2",
+      "Instagram"
+    ]
+  },
+  {
+    "name": "league/oauth2-linkedin",
+    "tags": [
+      "OAuth2",
+      "LinkedIn"
+    ]
+  },
+  {
+    "name": "league/oauth2-microsoft",
+    "tags": [
+      "OAuth2",
+      "Microsoft"
+    ]
+  },
+  {
+    "name": "league/oauth2-slack",
+    "tags": [
+      "OAuth2",
+      "Slack"
+    ]
+  },
+  {
+    "name": "league/oauth2-twitter",
+    "tags": [
+      "OAuth2",
+      "Twitter"
+    ]
+  },
+  {
+    "name": "league/oauth2-server-bundle",
+    "tags": [
+      "OAuth2",
+      "Symfony集成"
+    ]
+  },
+  {
+    "name": "lcobucci/jwt",
+    "tags": [
+      "JWT",
+      "认证"
+    ]
+  },
+  {
+    "name": "firebase/php-jwt",
+    "tags": [
+      "JWT",
+      "认证"
+    ]
+  },
+  {
+    "name": "paragonie/paseto",
+    "tags": [
+      "PASETO",
+      "认证"
+    ]
+  },
+  {
+    "name": "paragonie/sodium_compat",
+    "tags": [
+      "加密",
+      "兼容"
+    ]
+  },
+  {
+    "name": "paragonie/random_compat",
+    "tags": [
+      "随机数",
+      "兼容"
+    ]
+  },
+  {
+    "name": "paragonie/halite",
+    "tags": [
+      "加密",
+      "库"
+    ]
+  },
+  {
+    "name": "paragonie/constant_time_encoding",
+    "tags": [
+      "编码",
+      "加密"
+    ]
+  },
+  {
+    "name": "phpseclib/phpseclib",
+    "tags": [
+      "加密",
+      "SSH"
+    ]
+  },
+  {
+    "name": "defuse/php-encryption",
+    "tags": [
+      "加密",
+      "库"
+    ]
+  },
+  {
+    "name": "symfony/password-hasher",
+    "tags": [
+      "密码",
+      "哈希"
+    ]
+  },
+  {
+    "name": "intervention/image",
+    "tags": [
+      "图像",
+      "处理"
+    ]
+  },
+  {
+    "name": "intervention/image-laravel",
+    "tags": [
+      "图像",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "imagine/imagine",
+    "tags": [
+      "图像",
+      "处理"
+    ]
+  },
+  {
+    "name": "phpoffice/phpspreadsheet",
+    "tags": [
+      "Excel",
+      "表格"
+    ]
+  },
+  {
+    "name": "phpoffice/phpword",
+    "tags": [
+      "Word",
+      "文档"
+    ]
+  },
+  {
+    "name": "maatwebsite/excel",
+    "tags": [
+      "Excel",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "tecnickcom/tcpdf",
+    "tags": [
+      "PDF",
+      "生成"
+    ]
+  },
+  {
+    "name": "setasign/fpdf",
+    "tags": [
+      "PDF",
+      "生成"
+    ]
+  },
+  {
+    "name": "setasign/fpdi",
+    "tags": [
+      "PDF",
+      "合并"
+    ]
+  },
+  {
+    "name": "dompdf/dompdf",
+    "tags": [
+      "PDF",
+      "HTML转换"
+    ]
+  },
+  {
+    "name": "barryvdh/laravel-dompdf",
+    "tags": [
+      "PDF",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "mpdf/mpdf",
+    "tags": [
+      "PDF",
+      "生成"
+    ]
+  },
+  {
+    "name": "smalot/pdfparser",
+    "tags": [
+      "PDF",
+      "解析"
+    ]
+  },
+  {
+    "name": "php-http/httplug",
+    "tags": [
+      "HTTP",
+      "客户端抽象"
+    ]
+  },
+  {
+    "name": "php-http/message",
+    "tags": [
+      "HTTP",
+      "消息"
+    ]
+  },
+  {
+    "name": "php-http/discovery",
+    "tags": [
+      "HTTP",
+      "自动发现"
+    ]
+  },
+  {
+    "name": "php-http/guzzle7-adapter",
+    "tags": [
+      "HTTP",
+      "适配器"
+    ]
+  },
+  {
+    "name": "php-http/curl-client",
+    "tags": [
+      "HTTP",
+      "适配器"
+    ]
+  },
+  {
+    "name": "nyholm/psr7",
+    "tags": [
+      "PSR-7",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "aws/aws-sdk-php",
+    "tags": [
+      "云服务",
+      "AWS"
+    ]
+  },
+  {
+    "name": "google/cloud-storage",
+    "tags": [
+      "云服务",
+      "GCS"
+    ]
+  },
+  {
+    "name": "google/cloud-pubsub",
+    "tags": [
+      "云服务",
+      "PubSub"
+    ]
+  },
+  {
+    "name": "google/apiclient",
+    "tags": [
+      "云服务",
+      "Google API"
+    ]
+  },
+  {
+    "name": "google/auth",
+    "tags": [
+      "认证",
+      "Google"
+    ]
+  },
+  {
+    "name": "google/recaptcha",
+    "tags": [
+      "安全",
+      "验证码"
+    ]
+  },
+  {
+    "name": "microsoft/azure-storage-blob",
+    "tags": [
+      "云服务",
+      "Azure"
+    ]
+  },
+  {
+    "name": "azure/azure-storage-blob",
+    "tags": [
+      "云服务",
+      "Azure"
+    ]
+  },
+  {
+    "name": "tencentcloud/tencentcloud-sdk-php",
+    "tags": [
+      "云服务",
+      "腾讯云"
+    ]
+  },
+  {
+    "name": "alibabacloud/sdk",
+    "tags": [
+      "云服务",
+      "阿里云"
+    ]
+  },
+  {
+    "name": "aliyuncs/oss-sdk-php",
+    "tags": [
+      "云服务",
+      "OSS"
+    ]
+  },
+  {
+    "name": "qcloud/cos-sdk-v5",
+    "tags": [
+      "云服务",
+      "COS"
+    ]
+  },
+  {
+    "name": "huaweicloud/huaweicloud-sdk-php-obs",
+    "tags": [
+      "云服务",
+      "OBS"
+    ]
+  },
+  {
+    "name": "stripe/stripe-php",
+    "tags": [
+      "支付",
+      "Stripe"
+    ]
+  },
+  {
+    "name": "paypal/paypal-checkout-sdk",
+    "tags": [
+      "支付",
+      "PayPal"
+    ]
+  },
+  {
+    "name": "paypal/rest-api-sdk-php",
+    "tags": [
+      "支付",
+      "PayPal"
+    ]
+  },
+  {
+    "name": "braintree/braintree_php",
+    "tags": [
+      "支付",
+      "Braintree"
+    ]
+  },
+  {
+    "name": "mollie/mollie-api-php",
+    "tags": [
+      "支付",
+      "Mollie"
+    ]
+  },
+  {
+    "name": "adyen/adyen-php-api-library",
+    "tags": [
+      "支付",
+      "Adyen"
+    ]
+  },
+  {
+    "name": "omnipay/omnipay",
+    "tags": [
+      "支付",
+      "抽象"
+    ]
+  },
+  {
+    "name": "omnipay/paypal",
+    "tags": [
+      "支付",
+      "PayPal"
+    ]
+  },
+  {
+    "name": "omnipay/stripe",
+    "tags": [
+      "支付",
+      "Stripe"
+    ]
+  },
+  {
+    "name": "twilio/sdk",
+    "tags": [
+      "通信",
+      "Twilio"
+    ]
+  },
+  {
+    "name": "vonage/vonage-php-sdk-core",
+    "tags": [
+      "通信",
+      "Vonage"
+    ]
+  },
+  {
+    "name": "messagebird/php-rest-api",
+    "tags": [
+      "通信",
+      "MessageBird"
+    ]
+  },
+  {
+    "name": "pusher/pusher-php-server",
+    "tags": [
+      "实时推送",
+      "Pusher"
+    ]
+  },
+  {
+    "name": "ably/ably-php",
+    "tags": [
+      "实时推送",
+      "Ably"
+    ]
+  },
+  {
+    "name": "php-amqplib/php-amqplib",
+    "tags": [
+      "AMQP",
+      "RabbitMQ"
+    ]
+  },
+  {
+    "name": "enqueue/amqp-lib",
+    "tags": [
+      "AMQP",
+      "队列"
+    ]
+  },
+  {
+    "name": "enqueue/enqueue",
+    "tags": [
+      "队列",
+      "抽象"
+    ]
+  },
+  {
+    "name": "enqueue/redis",
+    "tags": [
+      "队列",
+      "Redis"
+    ]
+  },
+  {
+    "name": "enqueue/sqs",
+    "tags": [
+      "队列",
+      "AWS"
+    ]
+  },
+  {
+    "name": "predis/predis",
+    "tags": [
+      "Redis",
+      "客户端"
+    ]
+  },
+  {
+    "name": "phpredis/phpredis",
+    "tags": [
+      "Redis",
+      "扩展"
+    ]
+  },
+  {
+    "name": "mongodb/mongodb",
+    "tags": [
+      "MongoDB",
+      "驱动"
+    ]
+  },
+  {
+    "name": "doctrine/mongodb",
+    "tags": [
+      "MongoDB",
+      "ODM"
+    ]
+  },
+  {
+    "name": "couchbase/couchbase",
+    "tags": [
+      "Couchbase",
+      "驱动"
+    ]
+  },
+  {
+    "name": "influxdb/influxdb-php",
+    "tags": [
+      "时序数据库",
+      "InfluxDB"
+    ]
+  },
+  {
+    "name": "influxdata/influxdb-client-php",
+    "tags": [
+      "时序数据库",
+      "InfluxDB"
+    ]
+  },
+  {
+    "name": "clickhouse/clickhouse-client",
+    "tags": [
+      "时序数据库",
+      "ClickHouse"
+    ]
+  },
+  {
+    "name": "elasticsearch/elasticsearch",
+    "tags": [
+      "搜索",
+      "Elasticsearch"
+    ]
+  },
+  {
+    "name": "elastic/elasticsearch",
+    "tags": [
+      "搜索",
+      "Elasticsearch"
+    ]
+  },
+  {
+    "name": "solarium/solarium",
+    "tags": [
+      "搜索",
+      "Solr"
+    ]
+  },
+  {
+    "name": "typesense/typesense-php",
+    "tags": [
+      "搜索",
+      "Typesense"
+    ]
+  },
+  {
+    "name": "meilisearch/meilisearch-php",
+    "tags": [
+      "搜索",
+      "Meilisearch"
+    ]
+  },
+  {
+    "name": "algolia/algoliasearch-client-php",
+    "tags": [
+      "搜索",
+      "Algolia"
+    ]
+  },
+  {
+    "name": "onelogin/php-saml",
+    "tags": [
+      "认证",
+      "SAML"
+    ]
+  },
+  {
+    "name": "simplesamlphp/simplesamlphp",
+    "tags": [
+      "认证",
+      "SAML"
+    ]
+  },
+  {
+    "name": "thenetworg/oauth2-azure",
+    "tags": [
+      "认证",
+      "Azure"
+    ]
+  },
+  {
+    "name": "guzzlehttp/oauth-subscriber",
+    "tags": [
+      "OAuth",
+      "Guzzle"
+    ]
+  },
+  {
+    "name": "hwi/oauth-bundle",
+    "tags": [
+      "OAuth",
+      "Symfony"
+    ]
+  },
+  {
+    "name": "phpoffice/phpspreadsheet",
+    "tags": [
+      "Excel",
+      "表格"
+    ]
+  },
+  {
+    "name": "maatwebsite/excel",
+    "tags": [
+      "Excel",
+      "Laravel"
+    ]
+  },
+  {
+    "name": "mtdowling/jmespath.php",
+    "tags": [
+      "JMESPath",
+      "查询"
+    ]
+  },
+  {
+    "name": "symfony/expression-language",
+    "tags": [
+      "表达式",
+      "解析"
+    ]
+  },
+  {
+    "name": "nikic/php-parser",
+    "tags": [
+      "PHP",
+      "解析器"
+    ]
+  },
+  {
+    "name": "nikic/fast-route",
+    "tags": [
+      "路由",
+      "性能"
+    ]
+  },
+  {
+    "name": "phpdocumentor/reflection-docblock",
+    "tags": [
+      "文档",
+      "反射"
+    ]
+  },
+  {
+    "name": "phpdocumentor/type-resolver",
+    "tags": [
+      "反射",
+      "类型"
+    ]
+  },
+  {
+    "name": "phpdocumentor/reflection-common",
+    "tags": [
+      "反射",
+      "基础"
+    ]
+  },
+  {
+    "name": "phpdocumentor/graphviz",
+    "tags": [
+      "图",
+      "可视化"
+    ]
+  },
+  {
+    "name": "php-di/php-di",
+    "tags": [
+      "依赖注入",
+      "IoC"
+    ]
+  },
+  {
+    "name": "php-di/invoker",
+    "tags": [
+      "方法调用",
+      "反射"
+    ]
+  },
+  {
+    "name": "php-di/slim-bridge",
+    "tags": [
+      "依赖注入",
+      "Slim集成"
+    ]
+  },
+  {
+    "name": "opis/closure",
+    "tags": [
+      "序列化",
+      "闭包"
+    ]
+  },
+  {
+    "name": "opis/uri",
+    "tags": [
+      "URI",
+      "解析"
+    ]
+  },
+  {
+    "name": "jeremeamia/superclosure",
+    "tags": [
+      "序列化",
+      "闭包"
+    ]
+  },
+  {
+    "name": "symfony/dotenv",
+    "tags": [
+      "环境变量",
+      "配置"
+    ]
+  },
+  {
+    "name": "symfony/dotenv",
+    "tags": [
+      "环境变量",
+      "配置"
+    ]
+  },
+  {
+    "name": "symfony/finder",
+    "tags": [
+      "文件遍历",
+      "基础库"
+    ]
+  },
+  {
+    "name": "symfony/filesystem",
+    "tags": [
+      "文件系统",
+      "基础库"
+    ]
+  },
+  {
+    "name": "symfony/process",
+    "tags": [
+      "进程",
+      "基础库"
+    ]
+  },
+  {
+    "name": "ramsey/uuid",
+    "tags": [
+      "UUID",
+      "标识符"
+    ]
+  },
+  {
+    "name": "ramsey/collection",
+    "tags": [
+      "集合",
+      "数据结构"
+    ]
+  },
+  {
+    "name": "ramsey/array-or",
+    "tags": [
+      "数组",
+      "基础库"
+    ]
+  },
+  {
+    "name": "ramsey/instanceof",
+    "tags": [
+      "类型",
+      "反射"
+    ]
+  }
+]
