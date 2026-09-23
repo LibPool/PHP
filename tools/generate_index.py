@@ -26,6 +26,7 @@ from pathlib import Path
 
 PACKAGIST_SEARCH = "https://packagist.org/search.json"
 PACKAGIST_POPULAR = "https://packagist.org/explore/popular.json"
+PACKAGIST_LIST = "https://packagist.org/packages/list.json"
 P2 = "https://repo.packagist.org/p2"
 USER_AGENT = "LibPool-Indexer/1.0 (+https://github.com/LibPool)"
 CACHE_PATH = Path(__file__).resolve().parent / "cache" / "php.json"
@@ -132,6 +133,15 @@ def crawl_popular(limit: int) -> list[PhpLib]:
         url = data.get("next")
         time.sleep(0.15)
     return libs
+
+
+def crawl_all(limit: int) -> list[PhpLib]:
+    """Enumerate every Composer package from Packagist's full name list."""
+    print(f"Crawling Packagist full package list, target {limit} packages...", flush=True)
+    data = http_json(PACKAGIST_LIST)
+    names = (data or {}).get("packageNames") or []
+    print(f"  list.json returned {len(names)} package names", flush=True)
+    return [PhpLib(name=name) for name in names[:limit]]
 
 
 def stable_versions(rows: list[dict]) -> list[dict]:
@@ -312,10 +322,11 @@ def write_php_readme(root: Path, libs: list[PhpLib], counts: dict[str, int]) -> 
         "- 大版本目录：`php-v5`、`php-v7`、`php-v8`",
         "- 包路径：`vendor/package/`，例如 `laravel/framework` 位于 `php-v8/laravel/framework/laravel-framework.md`",
         "- 库若兼容多个 PHP 大版本，会同时出现在所有后续版本目录中",
-        f"- 当前共收录 {len(libs)} 个 Composer 包（含按下载量爬取的头部包与人工种子）。",
+        f"- 当前共收录 {len(libs)} 个 Composer 包（来源为 Packagist 全量包名列表、下载量头部包与人工种子）。",
         "",
         "## 数据源",
         "",
+        "- Packagist 全量包名列表：https://packagist.org/packages/list.json",
         "- Packagist 搜索/热门接口：https://packagist.org/explore/popular.json",
         "- Packagist p2 元数据：https://repo.packagist.org/p2/<vendor>/<package>.json",
         "- Packagist 官网：https://packagist.org/",
@@ -324,7 +335,7 @@ def write_php_readme(root: Path, libs: list[PhpLib], counts: dict[str, int]) -> 
         "",
         "```bash",
         "python tools/build_seed_list.py",
-        "python tools/generate_index.py --crawl --crawl-limit 3000",
+        "python tools/generate_index.py --crawl --crawl-mode all --crawl-limit 80000 --workers 40",
         "```",
         "",
         "按 PHP 大版本统计：",
@@ -342,13 +353,17 @@ def main() -> int:
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--crawl", action="store_true")
     ap.add_argument("--crawl-limit", type=int, default=3000)
+    ap.add_argument("--crawl-mode", choices=["all", "popular"], default="all")
     ap.add_argument("--workers", type=int, default=12)
     ap.add_argument("--refresh-cache", action="store_true")
     args = ap.parse_args()
     root = Path(args.out).resolve()
     libs: list[PhpLib] = []
     if args.crawl:
-        libs = crawl_popular(args.crawl_limit)
+        if args.crawl_mode == "popular":
+            libs = crawl_popular(args.crawl_limit)
+        else:
+            libs = crawl_all(args.crawl_limit)
         seed_path = Path(args.seeds)
         if seed_path.exists():
             existing = {lib.name for lib in libs}
