@@ -1,0 +1,28 @@
+# avris/dotenv
+
+> 标签: dotenv, env, enviromental variable
+
+## 简介
+
+.env file handler
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://micrus.avris.it
+- 源码仓库：https://gitlab.com/Avris/Dotenv.git
+- Packagist 页面：https://packagist.org/packages/avris%2Fdotenv
+
+## 历史版本号
+
+- 当前版本：v1.0.0
+
+- v1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require avris/dotenv`
+- Packagist 仓库：https://repo.packagist.org/p2/avris/dotenv.json
+- 许可证：MIT
+- PHP 要求：^7.1

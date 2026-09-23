@@ -1,0 +1,31 @@
+# aisdk/voyageai
+
+> 标签: ai, aisdk, embeddings, voyageai
+
+## 简介
+
+Official Voyage AI provider for the PHP AI SDK.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/phpaisdk/voyageai
+- 源码仓库：https://github.com/phpaisdk/voyageai.git
+- Packagist 页面：https://packagist.org/packages/aisdk%2Fvoyageai
+
+## 历史版本号
+
+- 当前版本：v0.8.0
+
+- v0.5.0
+- v0.6.0
+- v0.7.0
+- v0.8.0
+
+## 获取地址
+
+- Composer 安装：`composer require aisdk/voyageai`
+- Packagist 仓库：https://repo.packagist.org/p2/aisdk/voyageai.json
+- 许可证：MIT
+- PHP 要求：^8.3

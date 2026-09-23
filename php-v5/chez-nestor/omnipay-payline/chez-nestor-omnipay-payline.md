@@ -1,0 +1,28 @@
+# chez-nestor/omnipay-payline
+
+> 标签: Payline, omnipay, payment
+
+## 简介
+
+Payline gateway for the Omnipay PHP payment processing library
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/ck-developer/omnipay-payline
+- 源码仓库：https://github.com/chez-nestor/omnipay-payline.git
+- Packagist 页面：https://packagist.org/packages/chez-nestor%2Fomnipay-payline
+
+## 历史版本号
+
+- 当前版本：v1.0.0
+
+- v1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require chez-nestor/omnipay-payline`
+- Packagist 仓库：https://repo.packagist.org/p2/chez-nestor/omnipay-payline.json
+- 许可证：MIT
+- PHP 要求：>=5.3.0 || >=7.0

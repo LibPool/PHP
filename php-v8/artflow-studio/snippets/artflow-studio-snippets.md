@@ -1,0 +1,40 @@
+# artflow-studio/snippets
+
+> 标签: ajax, form, laravel, snippet
+
+## 简介
+
+A Laravel package for performing basic operations.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/artflow-studio%2Fsnippets
+- 源码仓库：https://github.com/rahee554/AF_Web_Snippets.git
+- Packagist 页面：https://packagist.org/packages/artflow-studio%2Fsnippets
+
+## 历史版本号
+
+- 当前版本：v2.3
+
+- v1.1
+- v1.2
+- v1.3
+- v1.5
+- v1.6
+- v1.7
+- v1.8
+- v1.9
+- v2.0
+- v2.1
+- v2.2
+- v2.3
+- 共 13 个稳定版本，完整清单见 Packagist。
+
+## 获取地址
+
+- Composer 安装：`composer require artflow-studio/snippets`
+- Packagist 仓库：https://repo.packagist.org/p2/artflow-studio/snippets.json
+- 许可证：MIT
+- PHP 要求：^8.0

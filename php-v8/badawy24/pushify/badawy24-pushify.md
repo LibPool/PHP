@@ -1,0 +1,36 @@
+# badawy24/pushify
+
+> 标签: FCM, firebase, laravel, notifications, onesignal, push notification, push notifications
+
+## 简介
+
+Laravel multi-provider push notification package with Firebase and OneSignal support.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/backend-2022/pushify
+- 源码仓库：https://github.com/backend-2022/pushify.git
+- Packagist 页面：https://packagist.org/packages/badawy24%2Fpushify
+
+## 历史版本号
+
+- 当前版本：1.0.10
+
+- 1.0.0
+- 1.0.1
+- 1.0.10
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.6
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- Composer 安装：`composer require badawy24/pushify`
+- Packagist 仓库：https://repo.packagist.org/p2/badawy24/pushify.json
+- 许可证：MIT
+- PHP 要求：^8.2

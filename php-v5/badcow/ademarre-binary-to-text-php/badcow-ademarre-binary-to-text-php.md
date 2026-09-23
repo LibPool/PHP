@@ -1,0 +1,28 @@
+# badcow/ademarre-binary-to-text-php
+
+> 标签: base-4, base-8, base32, binary, octal, rfc4648
+
+## 简介
+
+This is a fork of the original repository. Collection of binary-to-text encoding utilities for PHP. Includes Base32 support and much more.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/ademarre/binary-to-text-php
+- 源码仓库：https://github.com/Badcow/binary-to-text-php.git
+- Packagist 页面：https://packagist.org/packages/badcow%2Fademarre-binary-to-text-php
+
+## 历史版本号
+
+- 当前版本：v2.1.1
+
+- v2.1.1
+
+## 获取地址
+
+- Composer 安装：`composer require badcow/ademarre-binary-to-text-php`
+- Packagist 仓库：https://repo.packagist.org/p2/badcow/ademarre-binary-to-text-php.json
+- 许可证：MIT
+- PHP 要求：>=5.2.14

@@ -1,0 +1,27 @@
+# constantinoricardo/catalog-search-shipping
+
+> 标签: PHP
+
+## 简介
+
+Show shipping methos
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/constantinoricardo%2Fcatalog-search-shipping
+- 源码仓库：https://github.com/constantinoricardo/catalog-search-shipping.git
+- Packagist 页面：https://packagist.org/packages/constantinoricardo%2Fcatalog-search-shipping
+
+## 历史版本号
+
+- 当前版本：1.5
+
+- 1.5
+
+## 获取地址
+
+- Composer 安装：`composer require constantinoricardo/catalog-search-shipping`
+- Packagist 仓库：https://repo.packagist.org/p2/constantinoricardo/catalog-search-shipping.json
+- 许可证：OSL-3.0, AFL-3.0

@@ -1,0 +1,28 @@
+# altheatech/magento2-talkable
+
+> 标签: PHP
+
+## 简介
+
+Talkable extension for Magento 2
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/altheatech%2Fmagento2-talkable
+- 源码仓库：https://github.com/AltheaTechTeam/magento2-talkable.git
+- Packagist 页面：https://packagist.org/packages/altheatech%2Fmagento2-talkable
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- Composer 安装：`composer require altheatech/magento2-talkable`
+- Packagist 仓库：https://repo.packagist.org/p2/altheatech/magento2-talkable.json
+- 许可证：MIT

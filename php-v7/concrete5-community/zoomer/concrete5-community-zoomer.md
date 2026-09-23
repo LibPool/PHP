@@ -1,0 +1,30 @@
+# concrete5-community/zoomer
+
+> 标签: addon, cms, concrete, concrete5, concreteCMS, image, lens, lightbox, package, zoom
+
+## 简介
+
+Simple block for ConcreteCMS/concrete5 that allows you to easily add zoomable thumbnails to your page
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/concrete5-community/zoomer
+- 源码仓库：https://github.com/concrete5-community/zoomer.git
+- Packagist 页面：https://packagist.org/packages/concrete5-community%2Fzoomer
+
+## 历史版本号
+
+- 当前版本：1.1.3
+
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+
+## 获取地址
+
+- Composer 安装：`composer require concrete5-community/zoomer`
+- Packagist 仓库：https://repo.packagist.org/p2/concrete5-community/zoomer.json
+- 许可证：MIT

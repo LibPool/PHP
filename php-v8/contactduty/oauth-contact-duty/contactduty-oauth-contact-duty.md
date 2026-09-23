@@ -1,0 +1,32 @@
+# contactduty/oauth-contact-duty
+
+> 标签: PHP
+
+## 简介
+
+ContactDuty OAuth 2.0 Client Provider for The PHP League OAuth2-Client
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://contactduty.com/
+- 源码仓库：https://github.com/contactduty/oauth-contact-duty.git
+- Packagist 页面：https://packagist.org/packages/contactduty%2Foauth-contact-duty
+
+## 历史版本号
+
+- 当前版本：0.0.5
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+
+## 获取地址
+
+- Composer 安装：`composer require contactduty/oauth-contact-duty`
+- Packagist 仓库：https://repo.packagist.org/p2/contactduty/oauth-contact-duty.json
+- 许可证：MIT
+- PHP 要求：>=5.6.0

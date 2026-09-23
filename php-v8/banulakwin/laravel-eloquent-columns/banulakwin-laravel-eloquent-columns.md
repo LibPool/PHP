@@ -1,0 +1,29 @@
+# banulakwin/laravel-eloquent-columns
+
+> 标签: blueprint, eloquent, laravel, macros, migration, traits
+
+## 简介
+
+Reusable Eloquent traits and Blueprint macros: active, featured, sort order, timestamps/soft deletes, slugs (Spatie), audit columns.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/banulalakwindu/laravel-eloquent-columns
+- 源码仓库：https://github.com/banulalakwindu/laravel-eloquent-columns.git
+- Packagist 页面：https://packagist.org/packages/banulakwin%2Flaravel-eloquent-columns
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require banulakwin/laravel-eloquent-columns`
+- Packagist 仓库：https://repo.packagist.org/p2/banulakwin/laravel-eloquent-columns.json
+- 许可证：MIT
+- PHP 要求：^8.4

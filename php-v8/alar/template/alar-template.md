@@ -1,0 +1,33 @@
+# alar/template
+
+> 标签: PHP
+
+## 简介
+
+A template engine compatible with perl::template
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://bitbucket.org/giovanni_gargani/alartemplate
+- 源码仓库：https://bitbucket.org/giovanni_gargani/alartemplate.git
+- Packagist 页面：https://packagist.org/packages/alar%2Ftemplate
+
+## 历史版本号
+
+- 当前版本：3.0
+
+- 1.0
+- 1.1
+- 1.2
+- 2.0
+- 2.1
+- 3.0
+
+## 获取地址
+
+- Composer 安装：`composer require alar/template`
+- Packagist 仓库：https://repo.packagist.org/p2/alar/template.json
+- 许可证：MIT
+- PHP 要求：>=7.0

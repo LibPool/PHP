@@ -1,0 +1,29 @@
+# apanasenkamaksim/laravel-world
+
+> 标签: city, country, region, world
+
+## 简介
+
+Provide countries, states, and cities relations database.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/apanasenkamaksim%2Flaravel-world
+- 源码仓库：https://github.com/apanasenkamaksim/laravel-world.git
+- Packagist 页面：https://packagist.org/packages/apanasenkamaksim%2Flaravel-world
+
+## 历史版本号
+
+- 当前版本：v9.0.3
+
+- v9.0.2
+- v9.0.3
+
+## 获取地址
+
+- Composer 安装：`composer require apanasenkamaksim/laravel-world`
+- Packagist 仓库：https://repo.packagist.org/p2/apanasenkamaksim/laravel-world.json
+- 许可证：MIT
+- PHP 要求：^8.1

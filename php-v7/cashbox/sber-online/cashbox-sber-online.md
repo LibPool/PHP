@@ -1,0 +1,28 @@
+# cashbox/sber-online
+
+> 标签: Bank, andrey-helldar, billing, cashier, helldar, online, payment, payments, sber
+
+## 简介
+
+Driver for online payments via Sber (see cashier-provider/core)
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/cashbox%2Fsber-online
+- 源码仓库：https://github.com/cashbox-laravel/sber-online.git
+- Packagist 页面：https://packagist.org/packages/cashbox%2Fsber-online
+
+## 历史版本号
+
+- 当前版本：v1.31.0
+
+- v1.31.0
+
+## 获取地址
+
+- Composer 安装：`composer require cashbox/sber-online`
+- Packagist 仓库：https://repo.packagist.org/p2/cashbox/sber-online.json
+- 许可证：MIT
+- PHP 要求：^7.3 || ^8.0

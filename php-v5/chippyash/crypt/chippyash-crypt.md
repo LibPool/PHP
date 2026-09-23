@@ -1,0 +1,31 @@
+# chippyash/crypt
+
+> 标签: decryption, encryption
+
+## 简介
+
+Simple cryptography
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：http://zf4.biz/packages?utm_source=packagist&utm_medium=web&utm_campaign=blinks&utm_content=crypt
+- 源码仓库：https://github.com/chippyash/Crypt.git
+- Packagist 页面：https://packagist.org/packages/chippyash%2Fcrypt
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- Composer 安装：`composer require chippyash/crypt`
+- Packagist 仓库：https://repo.packagist.org/p2/chippyash/crypt.json
+- 许可证：GPL 3.0
+- PHP 要求：>=5.3

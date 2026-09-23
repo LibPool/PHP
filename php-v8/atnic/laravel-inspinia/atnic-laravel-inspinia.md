@@ -1,0 +1,40 @@
+# atnic/laravel-inspinia
+
+> 标签: composer, inspinia, laravel, package
+
+## 简介
+
+Laravel Package for integrating Inspinia template and this package is Laravel Mix friendly.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/atnic%2Flaravel-inspinia
+- 源码仓库：https://github.com/Atnic/laravel-inspinia.git
+- Packagist 页面：https://packagist.org/packages/atnic%2Flaravel-inspinia
+
+## 历史版本号
+
+- 当前版本：v0.4.2
+
+- v0.2.0
+- v0.2.1
+- v0.2.2
+- v0.3.0
+- v0.3.1
+- v0.3.2
+- v0.3.3
+- v0.3.4
+- v0.3.5
+- v0.4.0
+- v0.4.1
+- v0.4.2
+- 共 13 个稳定版本，完整清单见 Packagist。
+
+## 获取地址
+
+- Composer 安装：`composer require atnic/laravel-inspinia`
+- Packagist 仓库：https://repo.packagist.org/p2/atnic/laravel-inspinia.json
+- 许可证：MIT
+- PHP 要求：>=5.6.4

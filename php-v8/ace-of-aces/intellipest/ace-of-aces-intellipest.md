@@ -1,0 +1,34 @@
+# ace-of-aces/intellipest
+
+> 标签: PHP
+
+## 简介
+
+Generate IDE helpers to assist development with PestPHP
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/ace-of-aces%2Fintellipest
+- 源码仓库：https://github.com/ace-of-aces/intellipest.git
+- Packagist 页面：https://packagist.org/packages/ace-of-aces%2Fintellipest
+
+## 历史版本号
+
+- 当前版本：v1.0.1
+
+- v0.1.0
+- v0.2.0
+- v0.3.0
+- v0.3.1
+- v0.4.0
+- v1.0.0
+- v1.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require ace-of-aces/intellipest`
+- Packagist 仓库：https://repo.packagist.org/p2/ace-of-aces/intellipest.json
+- 许可证：MIT
+- PHP 要求：^8.3

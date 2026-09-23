@@ -1,0 +1,32 @@
+# cgo-it/contao-xls_export-bundle
+
+> 标签: bundle, contao, excel
+
+## 简介
+
+xls_export extension for the Contao Open Source CMS as contao 4 bundle
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://cgo-it.de
+- 源码仓库：https://github.com/cgoIT/contao-xls-export-bundle.git
+- Packagist 页面：https://packagist.org/packages/cgo-it%2Fcontao-xls_export-bundle
+
+## 历史版本号
+
+- 当前版本：4.0.1
+
+- 3.0.0
+- 3.0.1
+- 3.1.0
+- 4.0.0
+- 4.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require cgo-it/contao-xls_export-bundle`
+- Packagist 仓库：https://repo.packagist.org/p2/cgo-it/contao-xls_export-bundle.json
+- 许可证：GPL-3.0-or-later
+- PHP 要求：>=7.0

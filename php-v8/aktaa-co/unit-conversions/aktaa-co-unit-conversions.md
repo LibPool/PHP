@@ -1,0 +1,30 @@
+# aktaa-co/unit-conversions
+
+> 标签: Aktaa, unit-conversions
+
+## 简介
+
+Perform unit conversion in PHP
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/mohammedaktaa/unit-conversions
+- 源码仓库：https://github.com/mohammedaktaa/unit-conversions.git
+- Packagist 页面：https://packagist.org/packages/aktaa-co%2Funit-conversions
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- Composer 安装：`composer require aktaa-co/unit-conversions`
+- Packagist 仓库：https://repo.packagist.org/p2/aktaa-co/unit-conversions.json
+- 许可证：MIT
+- PHP 要求：^8.0

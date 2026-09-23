@@ -1,0 +1,27 @@
+# artificertech/laravel-hosted-videos
+
+> 标签: LaravelHostedVideos, laravel
+
+## 简介
+
+A package for utilizing third party hosted videos in laravel
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/artificertech/laravel-hosted-videos
+- 源码仓库：https://github.com/artificertech/laravel-hosted-videos.git
+- Packagist 页面：https://packagist.org/packages/artificertech%2Flaravel-hosted-videos
+
+## 历史版本号
+
+- 当前版本：v1.0-beta.2
+
+- -
+
+## 获取地址
+
+- Composer 安装：`composer require artificertech/laravel-hosted-videos`
+- Packagist 仓库：https://repo.packagist.org/p2/artificertech/laravel-hosted-videos.json
+- 许可证：MIT

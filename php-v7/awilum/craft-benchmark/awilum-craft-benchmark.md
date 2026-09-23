@@ -1,0 +1,28 @@
+# awilum/craft-benchmark
+
+> 标签: Craft, benchmark, craft-plugin, craftcms, profiler, twig, twig profiler
+
+## 简介
+
+Simple benchmark plugin with basic benchmark functionality for Craft CMS.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/awilum%2Fcraft-benchmark
+- 源码仓库：https://github.com/Awilum/craft-benchmark.git
+- Packagist 页面：https://packagist.org/packages/awilum%2Fcraft-benchmark
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- Composer 安装：`composer require awilum/craft-benchmark`
+- Packagist 仓库：https://repo.packagist.org/p2/awilum/craft-benchmark.json
+- 许可证：MIT

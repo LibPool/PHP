@@ -1,0 +1,32 @@
+# beelab/bowerphp
+
+> 标签: bower, dependency, frontend, package
+
+## 简介
+
+An implementation of bower in PHP
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://bowerphp.github.io/
+- 源码仓库：https://github.com/Bee-Lab/bowerphp.git
+- Packagist 页面：https://packagist.org/packages/beelab%2Fbowerphp
+
+## 历史版本号
+
+- 当前版本：v0.5.3
+
+- v0.4.0
+- v0.5.0
+- v0.5.1
+- v0.5.2
+- v0.5.3
+
+## 获取地址
+
+- Composer 安装：`composer require beelab/bowerphp`
+- Packagist 仓库：https://repo.packagist.org/p2/beelab/bowerphp.json
+- 许可证：MIT
+- PHP 要求：>=5.6

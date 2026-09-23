@@ -1,0 +1,27 @@
+# 10up/nodeifywp
+
+> 标签: PHP
+
+## 简介
+
+API for turning a WordPress theme into an isomorphic JavaScript application. Requires V8Js for PHP.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/10up%2Fnodeifywp
+- 源码仓库：https://github.com/10up/nodeifywp.git
+- Packagist 页面：https://packagist.org/packages/10up%2Fnodeifywp
+
+## 历史版本号
+
+- 当前版本：1.0
+
+- 1.0
+
+## 获取地址
+
+- Composer 安装：`composer require 10up/nodeifywp`
+- Packagist 仓库：https://repo.packagist.org/p2/10up/nodeifywp.json
+- 许可证：GPLv2

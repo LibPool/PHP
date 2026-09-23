@@ -1,0 +1,29 @@
+# buxuhunao/laravel-baidu-aip
+
+> 标签: PHP
+
+## 简介
+
+Baidu aip Image Search for Laravel
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/buxuhunao%2Flaravel-baidu-aip
+- 源码仓库：https://github.com/buxuhunao/laravel-baidu-aip.git
+- Packagist 页面：https://packagist.org/packages/buxuhunao%2Flaravel-baidu-aip
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.2.0
+
+## 获取地址
+
+- Composer 安装：`composer require buxuhunao/laravel-baidu-aip`
+- Packagist 仓库：https://repo.packagist.org/p2/buxuhunao/laravel-baidu-aip.json
+- 许可证：MIT
+- PHP 要求：^8.0

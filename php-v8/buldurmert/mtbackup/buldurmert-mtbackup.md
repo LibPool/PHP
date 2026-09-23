@@ -1,0 +1,26 @@
+# buldurmert/mtbackup
+
+> 标签: PHP
+
+## 简介
+
+Php Database Backup Helper
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/buldurmert%2Fmtbackup
+- 源码仓库：https://github.com/mertbuldur/backup-helper.git
+- Packagist 页面：https://packagist.org/packages/buldurmert%2Fmtbackup
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.5
+
+## 获取地址
+
+- Composer 安装：`composer require buldurmert/mtbackup`
+- Packagist 仓库：https://repo.packagist.org/p2/buldurmert/mtbackup.json

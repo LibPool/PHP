@@ -1,0 +1,35 @@
+# brekitomasson/laravel-tagged-cache
+
+> 标签: PHP
+
+## 简介
+
+A wrapper around the cache implementation to reduce complexity regarding caching in your Models
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/brekitomasson%2Flaravel-tagged-cache
+- 源码仓库：https://github.com/BrekiTomasson/laravel-tagged-cache.git
+- Packagist 页面：https://packagist.org/packages/brekitomasson%2Flaravel-tagged-cache
+
+## 历史版本号
+
+- 当前版本：v2.0.6
+
+- v1.0.0
+- v2.0.0
+- v2.0.1
+- v2.0.2
+- v2.0.3
+- v2.0.4
+- v2.0.5
+- v2.0.6
+
+## 获取地址
+
+- Composer 安装：`composer require brekitomasson/laravel-tagged-cache`
+- Packagist 仓库：https://repo.packagist.org/p2/brekitomasson/laravel-tagged-cache.json
+- 许可证：MIT
+- PHP 要求：^8.2

@@ -1,0 +1,30 @@
+# concretecms/incremental-filter-branch
+
+> 标签: bash, filter-branch, git, incremental, posix, progressive, shell
+
+## 简介
+
+Shell script to call git filter-branch in an incremental way
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/concrete5/incremental-filter-branch
+- 源码仓库：https://github.com/concretecms/incremental-filter-branch.git
+- Packagist 页面：https://packagist.org/packages/concretecms%2Fincremental-filter-branch
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- Composer 安装：`composer require concretecms/incremental-filter-branch`
+- Packagist 仓库：https://repo.packagist.org/p2/concretecms/incremental-filter-branch.json
+- 许可证：MIT

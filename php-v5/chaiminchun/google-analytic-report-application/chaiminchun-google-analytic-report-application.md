@@ -1,0 +1,27 @@
+# chaiminchun/google-analytic-report-application
+
+> 标签: analytic, google, php, reporting
+
+## 简介
+
+Use Google reporting v4 API to access report data with email sending feature
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/chaiminchun%2Fgoogle-analytic-report-application
+- 源码仓库：https://github.com/ChaiMinChun/google-analytic-report-application.git
+- Packagist 页面：https://packagist.org/packages/chaiminchun%2Fgoogle-analytic-report-application
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require chaiminchun/google-analytic-report-application`
+- Packagist 仓库：https://repo.packagist.org/p2/chaiminchun/google-analytic-report-application.json
+- 许可证：MIT
