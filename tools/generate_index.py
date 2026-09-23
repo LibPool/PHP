@@ -221,8 +221,11 @@ def enrich_one(lib: PhpLib, cache: dict, use_cache: bool) -> tuple[PhpLib, dict 
         lib.license = ", ".join(str(x) for x in lic if x)
     elif lic:
         lib.license = str(lic)
-    req = cur.get("require") or {}
-    lib.require_php = (req.get("php") or "").strip()
+    req = cur.get("require")
+    if isinstance(req, dict):
+        lib.require_php = (req.get("php") or "").strip()
+    else:
+        lib.require_php = ""
     lib.versions = sorted({r.get("version") for r in stable_versions(rows) if r.get("version")}, key=lambda s: s)
     if not lib.description:
         lib.description = (cur.get("description") or "").strip()
@@ -355,6 +358,7 @@ def main() -> int:
     ap.add_argument("--crawl-mode", choices=["all", "popular"], default="all")
     ap.add_argument("--workers", type=int, default=12)
     ap.add_argument("--refresh-cache", action="store_true")
+    ap.add_argument("--load-cache", action="store_true", help="rebuild index from cache keys instead of seeds")
     args = ap.parse_args()
     root = Path(args.out).resolve()
     libs: list[PhpLib] = []
@@ -374,18 +378,25 @@ def main() -> int:
     if args.limit:
         libs = libs[: args.limit]
     cache = load_cache()
+    if args.load_cache and not args.crawl:
+        libs = [PhpLib(name=key) for key in sorted(cache)]
+        print(f"Loading {len(libs)} packages from cache...", flush=True)
     print(f"Processing {len(libs)} packages...", flush=True)
     results: list[tuple[PhpLib, dict | None]] = []
     with ThreadPoolExecutor(max_workers=args.workers) as ex:
         futures = [ex.submit(enrich_one, lib, cache, not args.refresh_cache) for lib in libs]
         for i, fut in enumerate(as_completed(futures), 1):
-            lib, entry = fut.result()
+            try:
+                lib, entry = fut.result()
+            except Exception as exc:
+                print(f"  enrich error -> {exc}", flush=True)
+                continue
             results.append((lib, entry))
+            if entry:
+                cache[lib.name] = entry
             if i % 100 == 0 or i == len(futures):
+                save_cache(cache)
                 print(f"  enriched {i}/{len(futures)}", flush=True)
-    for lib, entry in results:
-        if entry:
-            cache[lib.name] = entry
     save_cache(cache)
     counts = generate(root, [lib for lib, _ in results])
     print("Generated per PHP major:", json.dumps(counts, sort_keys=True), flush=True)
