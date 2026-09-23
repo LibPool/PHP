@@ -203,8 +203,7 @@ def enrich_one(lib: PhpLib, cache: dict, use_cache: bool) -> tuple[PhpLib, dict 
         if lib.description or lib.version:
             return lib, None
 
-    with API_LOCK:
-        data = http_json(f"{P2}/{lib.vendor}/{lib.package}.json")
+    data = http_json(f"{P2}/{lib.vendor}/{lib.package}.json")
     if not data:
         return lib, None
     rows = (data.get("packages") or {}).get(lib.name) or []
