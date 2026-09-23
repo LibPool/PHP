@@ -98,7 +98,7 @@ def load_cache() -> dict:
 
 def save_cache(data: dict) -> None:
     CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
-    CACHE_PATH.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    CACHE_PATH.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
 
 def crawl_popular(limit: int) -> list[PhpLib]:
@@ -394,7 +394,7 @@ def main() -> int:
             results.append((lib, entry))
             if entry:
                 cache[lib.name] = entry
-            if i % 100 == 0 or i == len(futures):
+            if i % 1000 == 0 or i == len(futures):
                 save_cache(cache)
                 print(f"  enriched {i}/{len(futures)}", flush=True)
     save_cache(cache)
