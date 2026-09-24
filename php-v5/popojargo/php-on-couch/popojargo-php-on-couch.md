@@ -1,0 +1,34 @@
+# popojargo/php-on-couch
+
+> 标签: apache, couch, couchdb, db, driver, nosql
+
+## 简介
+
+CouchDB NoSQL database access in PHP
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/PHP-on-Couch/PHP-on-Couch
+- 源码仓库：https://github.com/popojargo/PHP-on-Couch.git
+- Packagist 页面：https://packagist.org/packages/popojargo%2Fphp-on-couch
+
+## 历史版本号
+
+- 当前版本：2.0.3
+
+- 1.0.1-p1
+- 1.0.1-p2
+- 1.6.1
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.0.3
+
+## 获取地址
+
+- Composer 安装：`composer require popojargo/php-on-couch`
+- Packagist 仓库：https://repo.packagist.org/p2/popojargo/php-on-couch.json
+- 许可证：GPLv3
+- PHP 要求：>=5.2.0

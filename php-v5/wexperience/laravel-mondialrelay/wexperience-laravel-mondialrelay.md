@@ -1,0 +1,33 @@
+# wexperience/laravel-mondialrelay
+
+> 标签: api, laravel, laravel5, mondial relay
+
+## 简介
+
+Client Laravel pour l'API Mondial Relay
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/wexperience%2Flaravel-mondialrelay
+- 源码仓库：https://github.com/pierre-wexperience/LaravelMondialRelay.git
+- Packagist 页面：https://packagist.org/packages/wexperience%2Flaravel-mondialrelay
+
+## 历史版本号
+
+- 当前版本：1.0.7
+
+- 1.0.0
+- 1.0.1
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+
+## 获取地址
+
+- Composer 安装：`composer require wexperience/laravel-mondialrelay`
+- Packagist 仓库：https://repo.packagist.org/p2/wexperience/laravel-mondialrelay.json
+- 许可证：MIT

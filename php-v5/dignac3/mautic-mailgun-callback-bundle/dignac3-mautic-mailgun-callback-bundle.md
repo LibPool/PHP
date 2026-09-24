@@ -1,0 +1,27 @@
+# dignac3/mautic-mailgun-callback-bundle
+
+> 标签: Mautic, bounce, dnc, email, mailgun, plugin, webhook
+
+## 简介
+
+Mailgun callback handler for Mautic 7: processes bounces, spam complaints and unsubscribes into Mautic DNC.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/dignac3%2Fmautic-mailgun-callback-bundle
+- 源码仓库：https://github.com/dignac3/mautic-mailgun-callback.git
+- Packagist 页面：https://packagist.org/packages/dignac3%2Fmautic-mailgun-callback-bundle
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require dignac3/mautic-mailgun-callback-bundle`
+- Packagist 仓库：https://repo.packagist.org/p2/dignac3/mautic-mailgun-callback-bundle.json
+- 许可证：MIT

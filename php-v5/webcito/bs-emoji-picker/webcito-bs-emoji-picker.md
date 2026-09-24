@@ -1,0 +1,32 @@
+# webcito/bs-emoji-picker
+
+> 标签: bootstrap, emoji, picker
+
+## 简介
+
+description
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/webcito/bs-emoji-picker
+- 源码仓库：https://github.com/ThomasDev-de/bs-emoji-picker.git
+- Packagist 页面：https://packagist.org/packages/webcito%2Fbs-emoji-picker
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 1.0.0
+- 1.0.1
+- 2.0.2
+
+## 获取地址
+
+- Composer 安装：`composer require webcito/bs-emoji-picker`
+- Packagist 仓库：https://repo.packagist.org/p2/webcito/bs-emoji-picker.json
+- 许可证：proprietary

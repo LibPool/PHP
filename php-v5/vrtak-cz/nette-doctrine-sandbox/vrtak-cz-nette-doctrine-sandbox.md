@@ -1,0 +1,27 @@
+# vrtak-cz/nette-doctrine-sandbox
+
+> 标签: PHP
+
+## 简介
+
+Sandbox for Nette & Doctrine
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/vrtak-cz%2Fnette-doctrine-sandbox
+- 源码仓库：https://github.com/Vrtak-CZ/nette-doctrine-sandbox.git
+- Packagist 页面：https://packagist.org/packages/vrtak-cz%2Fnette-doctrine-sandbox
+
+## 历史版本号
+
+- 当前版本：v3.1
+
+- v3.0
+- v3.1
+
+## 获取地址
+
+- Composer 安装：`composer require vrtak-cz/nette-doctrine-sandbox`
+- Packagist 仓库：https://repo.packagist.org/p2/vrtak-cz/nette-doctrine-sandbox.json

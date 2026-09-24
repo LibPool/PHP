@@ -1,0 +1,31 @@
+# goalio/goalio-rememberme
+
+> 标签: zf2, zfcuser
+
+## 简介
+
+Adding Remember Me functionalitiy to ZfcUser
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/goalio/GoalioRememberMe
+- 源码仓库：https://github.com/goalio/GoalioRememberMe.git
+- Packagist 页面：https://packagist.org/packages/goalio%2Fgoalio-rememberme
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require goalio/goalio-rememberme`
+- Packagist 仓库：https://repo.packagist.org/p2/goalio/goalio-rememberme.json
+- 许可证：BSD-3-Clause

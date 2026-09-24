@@ -1,0 +1,34 @@
+# prokki/warlight2-bot-template
+
+> 标签: Challenge, ai, conquest
+
+## 简介
+
+Bot template for Warlight AI Challenge 2
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/prokki/warlight2-bot
+- 源码仓库：https://github.com/prokki/warlight2-bot-template.git
+- Packagist 页面：https://packagist.org/packages/prokki%2Fwarlight2-bot-template
+
+## 历史版本号
+
+- 当前版本：0.4.0
+
+- 0.0.1
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.2.0
+- 0.3.0
+- 0.4.0
+
+## 获取地址
+
+- Composer 安装：`composer require prokki/warlight2-bot-template`
+- Packagist 仓库：https://repo.packagist.org/p2/prokki/warlight2-bot-template.json
+- 许可证：MIT
+- PHP 要求：>=5.4

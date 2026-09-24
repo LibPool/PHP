@@ -1,0 +1,30 @@
+# riverskies/laravel-newsletter-subscription
+
+> 标签: PHP
+
+## 简介
+
+Simple newsletter subscription for Laravel projects.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/riverskies%2Flaravel-newsletter-subscription
+- 源码仓库：https://github.com/riverskies/laravel-newsletter-subscription.git
+- Packagist 页面：https://packagist.org/packages/riverskies%2Flaravel-newsletter-subscription
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.2.1
+- v1.0
+- v1.1
+- v1.2
+
+## 获取地址
+
+- Composer 安装：`composer require riverskies/laravel-newsletter-subscription`
+- Packagist 仓库：https://repo.packagist.org/p2/riverskies/laravel-newsletter-subscription.json
+- 许可证：MIT

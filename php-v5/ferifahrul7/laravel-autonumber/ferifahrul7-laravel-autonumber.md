@@ -1,0 +1,34 @@
+# ferifahrul7/laravel-autonumber
+
+> 标签: autonumber, eloquent, laravel
+
+## 简介
+
+Laravel package to create autonumber for Eloquent model
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/alfa6661/laravel-autonumber
+- 源码仓库：https://github.com/ferifahrul7/laravel-autonumber.git
+- Packagist 页面：https://packagist.org/packages/ferifahrul7%2Flaravel-autonumber
+
+## 历史版本号
+
+- 当前版本：1.2.5
+
+- 1.0
+- 1.1
+- 1.2
+- 1.2.1
+- 1.2.2
+- 1.2.3
+- 1.2.4
+- 1.2.5
+
+## 获取地址
+
+- Composer 安装：`composer require ferifahrul7/laravel-autonumber`
+- Packagist 仓库：https://repo.packagist.org/p2/ferifahrul7/laravel-autonumber.json
+- 许可证：MIT

@@ -1,0 +1,33 @@
+# dkn/flarum-ext-vietnamese
+
+> 标签: locale, vietnam, vietnamese
+
+## 简介
+
+Vietnam language pack for Flarum. Updated by DKN
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/duongkimngoc/flarum-ext-vietnamese
+- 源码仓库：https://github.com/duongkimngoc/flarum-ext-vietnamese.git
+- Packagist 页面：https://packagist.org/packages/dkn%2Fflarum-ext-vietnamese
+
+## 历史版本号
+
+- 当前版本：0.1.0.13
+
+- 0.1.0.10
+- 0.1.0.11
+- 0.1.0.12
+- 0.1.0.13
+- 0.1.0.7
+- 0.1.0.8
+- 0.1.0.9
+
+## 获取地址
+
+- Composer 安装：`composer require dkn/flarum-ext-vietnamese`
+- Packagist 仓库：https://repo.packagist.org/p2/dkn/flarum-ext-vietnamese.json
+- 许可证：MIT

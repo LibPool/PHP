@@ -1,0 +1,29 @@
+# youshido/silex-graphql
+
+> 标签: api, graphql, provider, silex
+
+## 简介
+
+Silex graphql controller provider
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/youshido%2Fsilex-graphql
+- 源码仓库：https://github.com/Youshido/silex-graphql.git
+- Packagist 页面：https://packagist.org/packages/youshido%2Fsilex-graphql
+
+## 历史版本号
+
+- 当前版本：v0.0.2
+
+- v0.0.1
+- v0.0.2
+
+## 获取地址
+
+- Composer 安装：`composer require youshido/silex-graphql`
+- Packagist 仓库：https://repo.packagist.org/p2/youshido/silex-graphql.json
+- 许可证：proprietary
+- PHP 要求：>=5.5

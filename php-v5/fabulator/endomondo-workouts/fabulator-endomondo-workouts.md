@@ -1,0 +1,31 @@
+# fabulator/endomondo-workouts
+
+> 标签: PHP
+
+## 简介
+
+Endomondo workouts.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/fabulator%2Fendomondo-workouts
+- 源码仓库：https://github.com/fabulator/endomondo-workouts.git
+- Packagist 页面：https://packagist.org/packages/fabulator%2Fendomondo-workouts
+
+## 历史版本号
+
+- 当前版本：v1.0.4
+
+- v1.0.0
+- v1.0.1
+- v1.0.2
+- v1.0.3
+- v1.0.4
+
+## 获取地址
+
+- Composer 安装：`composer require fabulator/endomondo-workouts`
+- Packagist 仓库：https://repo.packagist.org/p2/fabulator/endomondo-workouts.json
+- PHP 要求：>=5.5

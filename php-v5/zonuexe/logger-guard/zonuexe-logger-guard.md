@@ -1,0 +1,27 @@
+# zonuexe/logger-guard
+
+> 标签: debug, monolog, psr-3
+
+## 简介
+
+Logger guard object for debugging.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/zonuexe%2Flogger-guard
+- 源码仓库：https://github.com/BaguettePHP/logger-guard.git
+- Packagist 页面：https://packagist.org/packages/zonuexe%2Flogger-guard
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- Composer 安装：`composer require zonuexe/logger-guard`
+- Packagist 仓库：https://repo.packagist.org/p2/zonuexe/logger-guard.json
+- 许可证：Apache-2.0

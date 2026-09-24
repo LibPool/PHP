@@ -1,0 +1,27 @@
+# rosgear/ge-panel-assets
+
+> 标签: assets, gepanel, rosgear
+
+## 简介
+
+GePanel Control Panel resources
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/rosgear/ge-panel-assets/
+- 源码仓库：https://github.com/rosgear/ge-panel-assets.git
+- Packagist 页面：https://packagist.org/packages/rosgear%2Fge-panel-assets
+
+## 历史版本号
+
+- 当前版本：v1.0
+
+- v1.0
+
+## 获取地址
+
+- Composer 安装：`composer require rosgear/ge-panel-assets`
+- Packagist 仓库：https://repo.packagist.org/p2/rosgear/ge-panel-assets.json
+- 许可证：GPL-3.0-or-later

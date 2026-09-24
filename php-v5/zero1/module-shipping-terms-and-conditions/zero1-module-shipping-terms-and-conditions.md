@@ -1,0 +1,29 @@
+# zero1/module-shipping-terms-and-conditions
+
+> 标签: Shipping Message, Shipping Method Message, Shipping terms and conditions, magento, magento 2, shipping, terms and conditions
+
+## 简介
+
+Add a custom message to 'select shipping' step on checkout, depending on the shipping method selected. With optional confirmation checkbox
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/zero1%2Fmodule-shipping-terms-and-conditions
+- 源码仓库：https://github.com/zero1limited/magento2-module-shipping-terms-and-conditions.git
+- Packagist 页面：https://packagist.org/packages/zero1%2Fmodule-shipping-terms-and-conditions
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- Composer 安装：`composer require zero1/module-shipping-terms-and-conditions`
+- Packagist 仓库：https://repo.packagist.org/p2/zero1/module-shipping-terms-and-conditions.json
+- 许可证：OSL-3.0, AFL-3.0

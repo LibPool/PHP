@@ -1,0 +1,37 @@
+# dlongopinc/php-security-analyzer
+
+> 标签: PHP
+
+## 简介
+
+A comprehensive static analysis tool to find potential security vulnerabilities in PHP code.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/dlongopinc%2Fphp-security-analyzer
+- 源码仓库：https://github.com/dlongopinc/php-security-analyzer.git
+- Packagist 页面：https://packagist.org/packages/dlongopinc%2Fphp-security-analyzer
+
+## 历史版本号
+
+- 当前版本：v1.3.0
+
+- v1.0.0
+- v1.0.1
+- v1.1.0
+- v1.1.1
+- v1.1.2
+- v1.1.3
+- v1.1.4
+- v1.1.5
+- v1.2.0
+- v1.2.1
+- v1.3.0
+
+## 获取地址
+
+- Composer 安装：`composer require dlongopinc/php-security-analyzer`
+- Packagist 仓库：https://repo.packagist.org/p2/dlongopinc/php-security-analyzer.json
+- 许可证：MIT

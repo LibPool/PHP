@@ -1,0 +1,28 @@
+# shen2/zen-oauth2
+
+> 标签: PHP
+
+## 简介
+
+一个更好的OAuth2访问类，同时支持微博、豆瓣、Google等社交网站
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/shen2%2Fzen-oauth2
+- 源码仓库：https://github.com/shen2/ZenOAuth2.git
+- Packagist 页面：https://packagist.org/packages/shen2%2Fzen-oauth2
+
+## 历史版本号
+
+- 当前版本：v0.1.1
+
+- v0.1.1
+
+## 获取地址
+
+- Composer 安装：`composer require shen2/zen-oauth2`
+- Packagist 仓库：https://repo.packagist.org/p2/shen2/zen-oauth2.json
+- 许可证：MIT
+- PHP 要求：>=5.4.0

@@ -1,0 +1,28 @@
+# emanueleminotto/safe-browsing-bundle
+
+> 标签: browsing, bundle, google, safe
+
+## 简介
+
+Symfony Bundle for Google Safe Browsing
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/emanueleminotto%2Fsafe-browsing-bundle
+- 源码仓库：https://github.com/EmanueleMinotto/SafeBrowsingBundle.git
+- Packagist 页面：https://packagist.org/packages/emanueleminotto%2Fsafe-browsing-bundle
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require emanueleminotto/safe-browsing-bundle`
+- Packagist 仓库：https://repo.packagist.org/p2/emanueleminotto/safe-browsing-bundle.json
+- 许可证：MIT
+- PHP 要求：^5.5|^7.0
