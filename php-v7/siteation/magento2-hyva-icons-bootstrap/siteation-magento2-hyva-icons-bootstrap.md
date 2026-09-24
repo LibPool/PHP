@@ -1,0 +1,33 @@
+# siteation/magento2-hyva-icons-bootstrap
+
+> 标签: bootstrap-icons, magento2, magento2-hyva, magento2-module
+
+## 简介
+
+Bootstrap icons for Hyva Themes
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/siteation%2Fmagento2-hyva-icons-bootstrap
+- 源码仓库：https://github.com/Siteation/magento2-hyva-icons-bootstrap.git
+- Packagist 页面：https://packagist.org/packages/siteation%2Fmagento2-hyva-icons-bootstrap
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- Composer 安装：`composer require siteation/magento2-hyva-icons-bootstrap`
+- Packagist 仓库：https://repo.packagist.org/p2/siteation/magento2-hyva-icons-bootstrap.json
+- 许可证：MIT

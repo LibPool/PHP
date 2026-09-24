@@ -1,0 +1,40 @@
+# duro85/roles
+
+> 标签: acl, auth, illuminate, laravel, permissions, roles
+
+## 简介
+
+Powerful package for handling roles and permissions in Laravel 5 forked from romanbican/roles ad update to work with Laravel >= 5.3.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/duro85%2Froles
+- 源码仓库：https://github.com/Duro85/roles.git
+- Packagist 页面：https://packagist.org/packages/duro85%2Froles
+
+## 历史版本号
+
+- 当前版本：2.1.8
+
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 2.1.3
+- 2.1.4
+- 2.1.5
+- 2.1.6
+- 2.1.7
+- 2.1.8
+- 共 31 个稳定版本，完整清单见 Packagist。
+
+## 获取地址
+
+- Composer 安装：`composer require duro85/roles`
+- Packagist 仓库：https://repo.packagist.org/p2/duro85/roles.json
+- 许可证：MIT
+- PHP 要求：>=5.5.9

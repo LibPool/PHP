@@ -1,0 +1,27 @@
+# guru86/laravel-random-display
+
+> 标签: PHP
+
+## 简介
+
+Display string random
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/guru86%2Flaravel-random-display
+- 源码仓库：https://github.com/guru86/laravel-random-display.git
+- Packagist 页面：https://packagist.org/packages/guru86%2Flaravel-random-display
+
+## 历史版本号
+
+- 当前版本：1.1
+
+- 1.1
+
+## 获取地址
+
+- Composer 安装：`composer require guru86/laravel-random-display`
+- Packagist 仓库：https://repo.packagist.org/p2/guru86/laravel-random-display.json
+- 许可证：MIT

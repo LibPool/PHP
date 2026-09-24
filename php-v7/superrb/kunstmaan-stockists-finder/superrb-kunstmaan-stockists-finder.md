@@ -1,0 +1,36 @@
+# superrb/kunstmaan-stockists-finder
+
+> 标签: cms
+
+## 简介
+
+Stockists finder bundle for use with the KunstmaanBundles CMS
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://gitlab.superrb.com/kuma/KunstmaanStockistsFinderBundle
+- 源码仓库：https://github.com/superrbstudio/kunstmaan-stockists-finder.git
+- Packagist 页面：https://packagist.org/packages/superrb%2Fkunstmaan-stockists-finder
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- Composer 安装：`composer require superrb/kunstmaan-stockists-finder`
+- Packagist 仓库：https://repo.packagist.org/p2/superrb/kunstmaan-stockists-finder.json
+- 许可证：MIT

@@ -1,0 +1,28 @@
+# srun/provider
+
+> 标签: provider, srun
+
+## 简介
+
+The srun4-api's ActiveDataProvider is parsed to use the GridView
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/srun%2Fprovider
+- 源码仓库：https://github.com/srunsoft/srun-provider.git
+- Packagist 页面：https://packagist.org/packages/srun%2Fprovider
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require srun/provider`
+- Packagist 仓库：https://repo.packagist.org/p2/srun/provider.json
+- 许可证：proprietary

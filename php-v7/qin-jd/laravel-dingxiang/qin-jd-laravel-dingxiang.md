@@ -1,0 +1,27 @@
+# qin-jd/laravel-dingxiang
+
+> 标签: PHP
+
+## 简介
+
+laravel-dingxiang is a laravel package for dingxiang captcha
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/qin-jd%2Flaravel-dingxiang
+- 源码仓库：https://github.com/qin-jd/laravel-dingxiang.git
+- Packagist 页面：https://packagist.org/packages/qin-jd%2Flaravel-dingxiang
+
+## 历史版本号
+
+- 当前版本：v0.0.1-rc1
+
+- -
+
+## 获取地址
+
+- Composer 安装：`composer require qin-jd/laravel-dingxiang`
+- Packagist 仓库：https://repo.packagist.org/p2/qin-jd/laravel-dingxiang.json
+- 许可证：Apache-2.0

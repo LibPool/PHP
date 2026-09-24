@@ -1,0 +1,37 @@
+# theme-juice/theme-juice-shortcodes
+
+> 标签: HAML, coffeescript, framework, mthaml, sass, theme, wordpress
+
+## 简介
+
+Shortcodes for Theme Juice framework
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/theme-juice/theme-juice-shortcodes
+- 源码仓库：https://github.com/ezekg/theme-juice-shortcodes.git
+- Packagist 页面：https://packagist.org/packages/theme-juice%2Ftheme-juice-shortcodes
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.2.0
+- 0.2.1
+
+## 获取地址
+
+- Composer 安装：`composer require theme-juice/theme-juice-shortcodes`
+- Packagist 仓库：https://repo.packagist.org/p2/theme-juice/theme-juice-shortcodes.json
+- 许可证：MIT

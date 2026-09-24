@@ -1,0 +1,34 @@
+# guikingone/panther-extension
+
+> 标签: Mink, Panther, browser, driver, extension, web
+
+## 简介
+
+Panther extension for Mink
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/guikingone%2Fpanther-extension
+- 源码仓库：https://github.com/Guikingone/panther-extension.git
+- Packagist 页面：https://packagist.org/packages/guikingone%2Fpanther-extension
+
+## 历史版本号
+
+- 当前版本：0.4.1
+
+- 0.1.0
+- 0.2.0
+- 0.2.1
+- 0.3.0
+- 0.3.1
+- 0.4.0
+- 0.4.1
+
+## 获取地址
+
+- Composer 安装：`composer require guikingone/panther-extension`
+- Packagist 仓库：https://repo.packagist.org/p2/guikingone/panther-extension.json
+- 许可证：MIT
+- PHP 要求：>=7.1

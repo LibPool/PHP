@@ -1,0 +1,28 @@
+# thesmart/super-pack
+
+> 标签: css, javascript, optimize, package, package manager, static
+
+## 简介
+
+A package management tool that optimizes CSS and JavaScript download times
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/thesmart/php-SuperPack
+- 源码仓库：https://github.com/thesmart/php-SuperPack.git
+- Packagist 页面：https://packagist.org/packages/thesmart%2Fsuper-pack
+
+## 历史版本号
+
+- 当前版本：v0.0.1
+
+- v0.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require thesmart/super-pack`
+- Packagist 仓库：https://repo.packagist.org/p2/thesmart/super-pack.json
+- 许可证：MIT
+- PHP 要求：>=5.3.0

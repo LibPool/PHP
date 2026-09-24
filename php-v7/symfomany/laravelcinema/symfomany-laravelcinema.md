@@ -1,0 +1,28 @@
+# symfomany/laravelcinema
+
+> 标签: framework, laravel, mongodb
+
+## 简介
+
+Pedagogic Project
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/symfomany%2Flaravelcinema
+- 源码仓库：https://github.com/Symfomany/laravelcinema.git
+- Packagist 页面：https://packagist.org/packages/symfomany%2Flaravelcinema
+
+## 历史版本号
+
+- 当前版本：1.0
+
+- 1.0
+
+## 获取地址
+
+- Composer 安装：`composer require symfomany/laravelcinema`
+- Packagist 仓库：https://repo.packagist.org/p2/symfomany/laravelcinema.json
+- 许可证：MIT
+- PHP 要求：>=5.5.9

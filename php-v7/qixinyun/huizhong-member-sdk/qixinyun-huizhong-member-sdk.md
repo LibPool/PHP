@@ -1,0 +1,30 @@
+# qixinyun/huizhong-member-sdk
+
+> 标签: huizhong, member, sdk
+
+## 简介
+
+huizhong member sdk
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/qixinyun%2Fhuizhong-member-sdk
+- 源码仓库：https://code.aliyun.com/huizhonglianhe/huizhonglianhe-backend-member-sdk.git
+- Packagist 页面：https://packagist.org/packages/qixinyun%2Fhuizhong-member-sdk
+
+## 历史版本号
+
+- 当前版本：0.4
+
+- 0.1
+- 0.2
+- 0.3
+- 0.4
+
+## 获取地址
+
+- Composer 安装：`composer require qixinyun/huizhong-member-sdk`
+- Packagist 仓库：https://repo.packagist.org/p2/qixinyun/huizhong-member-sdk.json
+- 许可证：MIT

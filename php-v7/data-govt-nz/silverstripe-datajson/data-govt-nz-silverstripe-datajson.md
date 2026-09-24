@@ -1,0 +1,27 @@
+# data-govt-nz/silverstripe-datajson
+
+> 标签: data, dcat, harvesting, json
+
+## 简介
+
+Stores dataset records inside SilverStripe and makes them accessible via the data.json DCAT JSON standard
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/data-govt-nz%2Fsilverstripe-datajson
+- 源码仓库：https://github.com/data-govt-nz/silverstripe-datajson.git
+- Packagist 页面：https://packagist.org/packages/data-govt-nz%2Fsilverstripe-datajson
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- Composer 安装：`composer require data-govt-nz/silverstripe-datajson`
+- Packagist 仓库：https://repo.packagist.org/p2/data-govt-nz/silverstripe-datajson.json
+- 许可证：BSD-3-Clause

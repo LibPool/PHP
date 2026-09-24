@@ -1,0 +1,28 @@
+# ramsalt/oauth2-bankid
+
+> 标签: PHP
+
+## 简介
+
+BankID OAuth 2.0 Client Provider for The PHP League OAuth2-Client
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/ramsalt%2Foauth2-bankid
+- 源码仓库：https://github.com/ramsalt/oauth2-bankid.git
+- Packagist 页面：https://packagist.org/packages/ramsalt%2Foauth2-bankid
+
+## 历史版本号
+
+- 当前版本：v1.0.1
+
+- v1.0.0
+- v1.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require ramsalt/oauth2-bankid`
+- Packagist 仓库：https://repo.packagist.org/p2/ramsalt/oauth2-bankid.json
+- 许可证：GPL-3.0-or-later

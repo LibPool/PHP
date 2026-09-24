@@ -1,0 +1,29 @@
+# giovannedev/memed-php
+
+> 标签: digital signature, memed, prescription
+
+## 简介
+
+PHP Wrapper for Memed Digital Prescription API
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://memed.com.br
+- 源码仓库：https://github.com/giovannedev/memed-php.git
+- Packagist 页面：https://packagist.org/packages/giovannedev%2Fmemed-php
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- Composer 安装：`composer require giovannedev/memed-php`
+- Packagist 仓库：https://repo.packagist.org/p2/giovannedev/memed-php.json
+- 许可证：MIT
+- PHP 要求：^7.1

@@ -1,0 +1,28 @@
+# fab/context-hints
+
+> 标签: Context, TYPO3 CMS, info
+
+## 简介
+
+Display hints about the current Application Context
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/fabarea/context_hints
+- 源码仓库：git@github.com:fudriot/context_hints.git
+- Packagist 页面：https://packagist.org/packages/fab%2Fcontext-hints
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- Composer 安装：`composer require fab/context-hints`
+- Packagist 仓库：https://repo.packagist.org/p2/fab/context-hints.json
+- 许可证：GPL-2.0+

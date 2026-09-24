@@ -1,0 +1,36 @@
+# dominicwatts/benchmark
+
+> 标签: PHP
+
+## 简介
+
+Benchmark shell script to test timings on actions
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/dominicwatts%2Fbenchmark
+- 源码仓库：https://github.com/DominicWatts/Benchmark.git
+- Packagist 页面：https://packagist.org/packages/dominicwatts%2Fbenchmark
+
+## 历史版本号
+
+- 当前版本：1.0.8
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+
+## 获取地址
+
+- Composer 安装：`composer require dominicwatts/benchmark`
+- Packagist 仓库：https://repo.packagist.org/p2/dominicwatts/benchmark.json
+- 许可证：proprietary
+- PHP 要求：>=7.0.0

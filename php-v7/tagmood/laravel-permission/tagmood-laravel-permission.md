@@ -1,0 +1,40 @@
+# tagmood/laravel-permission
+
+> 标签: acl, laravel, permission, permissions, rbac, roles, security, spatie, tagmood
+
+## 简介
+
+Permission handling for Laravel 6.0 and up
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/tagmood/laravel-permission
+- 源码仓库：https://github.com/tagmood/laravel-permission.git
+- Packagist 页面：https://packagist.org/packages/tagmood%2Flaravel-permission
+
+## 历史版本号
+
+- 当前版本：5.6.2
+
+- 5.3.0
+- 5.3.1
+- 5.3.2
+- 5.4.0
+- 5.4.1
+- 5.4.2
+- 5.5.0
+- 5.5.1
+- 5.5.2
+- 5.6
+- 5.6.1
+- 5.6.2
+- 共 159 个稳定版本，完整清单见 Packagist。
+
+## 获取地址
+
+- Composer 安装：`composer require tagmood/laravel-permission`
+- Packagist 仓库：https://repo.packagist.org/p2/tagmood/laravel-permission.json
+- 许可证：MIT
+- PHP 要求：^7.3|^8.0|^8.1

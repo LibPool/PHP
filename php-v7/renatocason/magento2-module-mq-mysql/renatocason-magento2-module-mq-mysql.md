@@ -1,0 +1,35 @@
+# renatocason/magento2-module-mq-mysql
+
+> 标签: PHP
+
+## 简介
+
+Magento 2 Message Queue OS MySQL Broker Implementation
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/renatocason%2Fmagento2-module-mq-mysql
+- 源码仓库：https://github.com/renatocason/magento2-module-mq-mysql.git
+- Packagist 页面：https://packagist.org/packages/renatocason%2Fmagento2-module-mq-mysql
+
+## 历史版本号
+
+- 当前版本：1.2.3
+
+- 0.1.0
+- 0.2.0
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.3
+
+## 获取地址
+
+- Composer 安装：`composer require renatocason/magento2-module-mq-mysql`
+- Packagist 仓库：https://repo.packagist.org/p2/renatocason/magento2-module-mq-mysql.json
+- 许可证：OSL-3.0
+- PHP 要求：~7.1.0|~7.2.0|~7.3.0

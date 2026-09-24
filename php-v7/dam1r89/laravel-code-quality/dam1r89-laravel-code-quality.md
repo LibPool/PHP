@@ -1,0 +1,29 @@
+# dam1r89/laravel-code-quality
+
+> 标签: PHP
+
+## 简介
+
+Set of commands that help maintaining code quality in Laravel projects.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/dam1r89%2Flaravel-code-quality
+- 源码仓库：https://github.com/dam1r89/laravel-code-quality.git
+- Packagist 页面：https://packagist.org/packages/dam1r89%2Flaravel-code-quality
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- Composer 安装：`composer require dam1r89/laravel-code-quality`
+- Packagist 仓库：https://repo.packagist.org/p2/dam1r89/laravel-code-quality.json

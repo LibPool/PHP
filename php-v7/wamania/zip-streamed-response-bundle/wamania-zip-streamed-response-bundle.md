@@ -1,0 +1,28 @@
+# wamania/zip-streamed-response-bundle
+
+> 标签: PHP
+
+## 简介
+
+A symfony Response to build and stream Zip on the fly
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/wamania/ZipStreamedResponseBundle
+- 源码仓库：https://github.com/wamania/ZipStreamedResponseBundle.git
+- Packagist 页面：https://packagist.org/packages/wamania%2Fzip-streamed-response-bundle
+
+## 历史版本号
+
+- 当前版本：1.0
+
+- 1.0
+
+## 获取地址
+
+- Composer 安装：`composer require wamania/zip-streamed-response-bundle`
+- Packagist 仓库：https://repo.packagist.org/p2/wamania/zip-streamed-response-bundle.json
+- 许可证：MIT
+- PHP 要求：>=5.3.3

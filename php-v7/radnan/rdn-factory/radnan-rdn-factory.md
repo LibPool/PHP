@@ -1,0 +1,29 @@
+# radnan/rdn-factory
+
+> 标签: factory, plugins, zend, zf2
+
+## 简介
+
+Zend Framework 2 module to help create factory classes
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/radnan%2Frdn-factory
+- 源码仓库：https://github.com/radnan/rdn-factory.git
+- Packagist 页面：https://packagist.org/packages/radnan%2Frdn-factory
+
+## 历史版本号
+
+- 当前版本：v1.0.2
+
+- v1.0.0
+- v1.0.1
+- v1.0.2
+
+## 获取地址
+
+- Composer 安装：`composer require radnan/rdn-factory`
+- Packagist 仓库：https://repo.packagist.org/p2/radnan/rdn-factory.json
+- 许可证：MIT

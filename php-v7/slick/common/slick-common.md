@@ -1,0 +1,27 @@
+# slick/common
+
+> 标签: common, slick
+
+## 简介
+
+Common libraries for Slick Framework
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/slick%2Fcommon
+- 源码仓库：https://github.com/slickframework/common.git
+- Packagist 页面：https://packagist.org/packages/slick%2Fcommon
+
+## 历史版本号
+
+- 当前版本：v1.1.0
+
+- v1.1.0
+
+## 获取地址
+
+- Composer 安装：`composer require slick/common`
+- Packagist 仓库：https://repo.packagist.org/p2/slick/common.json
+- 许可证：MIT

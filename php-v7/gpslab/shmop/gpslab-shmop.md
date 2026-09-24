@@ -1,0 +1,28 @@
+# gpslab/shmop
+
+> 标签: php, shmop
+
+## 简介
+
+Shmop is a simple and small abstraction layer for shared memory manipulation using PHP
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：http://github.com/gpslab/shmop
+- 源码仓库：https://github.com/gpslab/shmop.git
+- Packagist 页面：https://packagist.org/packages/gpslab%2Fshmop
+
+## 历史版本号
+
+- 当前版本：v1.0.0
+
+- v1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require gpslab/shmop`
+- Packagist 仓库：https://repo.packagist.org/p2/gpslab/shmop.json
+- 许可证：MIT
+- PHP 要求：>=5.0

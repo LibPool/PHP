@@ -1,0 +1,28 @@
+# valentinmari/glovo-api-php
+
+> 标签: api, delivery, glovo
+
+## 简介
+
+Glovo Business API
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://business.glovoapp.com/
+- 源码仓库：https://github.com/vmari/glovo-api-php.git
+- Packagist 页面：https://packagist.org/packages/valentinmari%2Fglovo-api-php
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require valentinmari/glovo-api-php`
+- Packagist 仓库：https://repo.packagist.org/p2/valentinmari/glovo-api-php.json
+- 许可证：MIT
+- PHP 要求：>=5.4.0

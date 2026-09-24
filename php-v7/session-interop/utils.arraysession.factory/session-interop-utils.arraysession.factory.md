@@ -1,0 +1,28 @@
+# session-interop/utils.arraysession.factory
+
+> 标签: array-session, immutable-session, interop, interoperability, php, php session, savable-session, session, session-interface, session-interop, sessioninterface
+
+## 简介
+
+This package contains the session factory implementation to be able to create a session object from $_SESSION.
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/Ngob/session-interop
+- 源码仓库：https://github.com/session-interop/utils.arraysession.factory.git
+- Packagist 页面：https://packagist.org/packages/session-interop%2Futils.arraysession.factory
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require session-interop/utils.arraysession.factory`
+- Packagist 仓库：https://repo.packagist.org/p2/session-interop/utils.arraysession.factory.json
+- 许可证：MIT
+- PHP 要求：>=7.1.0
