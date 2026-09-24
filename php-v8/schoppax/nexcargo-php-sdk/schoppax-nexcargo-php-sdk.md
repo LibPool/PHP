@@ -1,0 +1,31 @@
+# schoppax/nexcargo-php-sdk
+
+> 标签: PHP
+
+## 简介
+
+PHP SDK for the NexCargo (Camel Cloud API) carrier integration
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/schoppax/nextcargo-php-sdk
+- 源码仓库：https://github.com/SchoppAx/nexcargo-php-sdk.git
+- Packagist 页面：https://packagist.org/packages/schoppax%2Fnexcargo-php-sdk
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- Composer 安装：`composer require schoppax/nexcargo-php-sdk`
+- Packagist 仓库：https://repo.packagist.org/p2/schoppax/nexcargo-php-sdk.json
+- 许可证：MIT
+- PHP 要求：^8.2

@@ -1,0 +1,31 @@
+# web-id/persil
+
+> 标签: laravel, persil, web-id
+
+## 简介
+
+This is my package persil
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/web-id/persil
+- 源码仓库：https://github.com/web-id-fr/persil.git
+- Packagist 页面：https://packagist.org/packages/web-id%2Fpersil
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 1.0.0
+- 2.0.0
+- 2.0.1
+- 3.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require web-id/persil`
+- Packagist 仓库：https://repo.packagist.org/p2/web-id/persil.json
+- 许可证：MIT
+- PHP 要求：^8.1

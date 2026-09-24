@@ -1,0 +1,29 @@
+# tuxonice/pt-zipcode-finder
+
+> 标签: PHP
+
+## 简介
+
+Portugal zipcode search package with SQLite database
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/tuxonice%2Fpt-zipcode-finder
+- 源码仓库：https://github.com/tuxonice/pt-zipcode-finder.git
+- Packagist 页面：https://packagist.org/packages/tuxonice%2Fpt-zipcode-finder
+
+## 历史版本号
+
+- 当前版本：v1.0.1
+
+- v1.0.0
+- v1.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require tuxonice/pt-zipcode-finder`
+- Packagist 仓库：https://repo.packagist.org/p2/tuxonice/pt-zipcode-finder.json
+- 许可证：MIT
+- PHP 要求：^8.1

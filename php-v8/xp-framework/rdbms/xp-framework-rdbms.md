@@ -1,0 +1,40 @@
+# xp-framework/rdbms
+
+> 标签: module, xp
+
+## 简介
+
+RDBMS support for the XP Framework
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：http://xp-framework.net/
+- 源码仓库：https://github.com/xp-framework/rdbms.git
+- Packagist 页面：https://packagist.org/packages/xp-framework%2Frdbms
+
+## 历史版本号
+
+- 当前版本：v13.5.0
+
+- v8.0.2
+- v8.0.3
+- v8.0.4
+- v9.0.0
+- v9.0.1
+- v9.0.2
+- v9.0.3
+- v9.0.4
+- v9.0.5
+- v9.0.6
+- v9.0.7
+- v9.0.8
+- 共 68 个稳定版本，完整清单见 Packagist。
+
+## 获取地址
+
+- Composer 安装：`composer require xp-framework/rdbms`
+- Packagist 仓库：https://repo.packagist.org/p2/xp-framework/rdbms.json
+- 许可证：BSD-3-Clause
+- PHP 要求：>=7.0.0

@@ -1,0 +1,37 @@
+# emiliolodigiani/laravel-images
+
+> 标签: Webp, images, laravel, resize, responsive, srcset
+
+## 简介
+
+Responsive image resizing with srcset generation for Laravel
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/emiliolodigiani%2Flaravel-images
+- 源码仓库：https://github.com/emiliolodigiani/laravel-images.git
+- Packagist 页面：https://packagist.org/packages/emiliolodigiani%2Flaravel-images
+
+## 历史版本号
+
+- 当前版本：v1.4.2
+
+- v1.0.0
+- v1.1.0
+- v1.1.1
+- v1.1.2
+- v1.2.0
+- v1.3.0
+- v1.3.1
+- v1.4.0
+- v1.4.1
+- v1.4.2
+
+## 获取地址
+
+- Composer 安装：`composer require emiliolodigiani/laravel-images`
+- Packagist 仓库：https://repo.packagist.org/p2/emiliolodigiani/laravel-images.json
+- 许可证：MIT
+- PHP 要求：^8.3

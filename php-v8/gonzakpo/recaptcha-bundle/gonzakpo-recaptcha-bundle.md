@@ -1,0 +1,33 @@
+# gonzakpo/recaptcha-bundle
+
+> 标签: PHP
+
+## 简介
+
+Recaptcha Bundle creates a form element form Google NoCaptcha Recaptcha v2
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/gonzakpo%2Frecaptcha-bundle
+- 源码仓库：https://github.com/gonzakpo/recaptcha-bundle.git
+- Packagist 页面：https://packagist.org/packages/gonzakpo%2Frecaptcha-bundle
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 0.9.0
+- 0.9.1
+- 0.9.2
+- 0.9.3
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require gonzakpo/recaptcha-bundle`
+- Packagist 仓库：https://repo.packagist.org/p2/gonzakpo/recaptcha-bundle.json
+- 许可证：MIT
+- PHP 要求：>=5.3.8

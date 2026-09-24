@@ -1,0 +1,36 @@
+# cyberclick-os/apm-symfony-messenger
+
+> 标签: PHP
+
+## 简介
+
+Elastic APM for Symfony Messenger
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/cyberclick-os%2Fapm-symfony-messenger
+- 源码仓库：https://github.com/cyberclick-os/apm-symfony-messenger.git
+- Packagist 页面：https://packagist.org/packages/cyberclick-os%2Fapm-symfony-messenger
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 0.1.0
+- 0.1.1
+- 0.1.10
+- 0.1.7
+- 0.1.8
+- 0.1.9
+- 1.1.1
+- 1.2.0
+- 1.2.1
+
+## 获取地址
+
+- Composer 安装：`composer require cyberclick-os/apm-symfony-messenger`
+- Packagist 仓库：https://repo.packagist.org/p2/cyberclick-os/apm-symfony-messenger.json
+- 许可证：MIT
+- PHP 要求：^8.0

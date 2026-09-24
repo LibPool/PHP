@@ -1,0 +1,40 @@
+# emerchantpay/magento2-emp-plugin
+
+> 标签: 3DSv2, 3d-secure, POLi, Przelewy24, SDD, apple_pay, aura, authorize, baloto, bancontact, bitpay, blacklist, blik, boleto, cabal, capture, cashu, cencosud, chargeback, consumers, container_store, credit, credit_card, debit_card, e-commerce, eMerchantPay, efecty, elo, eps, ezeecard, ezeewallet, fashioncheque, fraud, fx, fx_rate, fx_rates, fx_search, fx_tier, fx_tiers, genesis, genesisgateway, google_pay, ideal, idebit, idebit_payin, idebit_payout, inpay, insta_debit, insta_debit_payin, insta_debit_payout, interac, intersolve, latipay, magento2_module, magento2_payment_gateway, magento2_payment_module, magento2_payment_processing, mastercard, multibanco, mybank, neosurf, neteller, oxxo, p24, pagofacil, payment_gateway, payment_processing, payments, paypal, paypal_express, paysafecard, paysec, payu, pci-dss, pix, postfinance, preauthorization, preauthorization_incremental, preauthorization_partial, reconcile, recurring, refund, reports, safetypay, sca, sct_payout, sdd_recurring, sdd_refund, sofort, spei, tc40, transfer_to, trustly, trustly_sale, trustpay, upi, visa, void, webmoney, wechat, wpf
+
+## 简介
+
+emerchantpay Payment Gateway for Magento 2
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/emerchantpay%2Fmagento2-emp-plugin
+- 源码仓库：https://github.com/eMerchantPay/magento2-emp-plugin.git
+- Packagist 页面：https://packagist.org/packages/emerchantpay%2Fmagento2-emp-plugin
+
+## 历史版本号
+
+- 当前版本：1.4.4
+
+- 1.3.3
+- 1.3.4
+- 1.3.5
+- 1.3.6
+- 1.3.7
+- 1.3.8
+- 1.3.9
+- 1.4.0
+- 1.4.1
+- 1.4.2
+- 1.4.3
+- 1.4.4
+- 共 44 个稳定版本，完整清单见 Packagist。
+
+## 获取地址
+
+- Composer 安装：`composer require emerchantpay/magento2-emp-plugin`
+- Packagist 仓库：https://repo.packagist.org/p2/emerchantpay/magento2-emp-plugin.json
+- 许可证：GPL-2.0
+- PHP 要求：7.0.2|7.0.4|~7.0.6|7.1.*|7.2.*|7.3.*|7.4.*|8.0.*|8.1.*|8.2.*|8.3.*|8.4.*

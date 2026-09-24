@@ -1,0 +1,28 @@
+# elisad5791/cartcount
+
+> 标签: PHP
+
+## 简介
+
+Product counter for cart
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/elisad5791%2Fcartcount
+- 源码仓库：https://github.com/elisad5791/cartcount.git
+- Packagist 页面：https://packagist.org/packages/elisad5791%2Fcartcount
+
+## 历史版本号
+
+- 当前版本：v1.0.1
+
+- v1.0.0
+- v1.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require elisad5791/cartcount`
+- Packagist 仓库：https://repo.packagist.org/p2/elisad5791/cartcount.json
+- PHP 要求：^8.2

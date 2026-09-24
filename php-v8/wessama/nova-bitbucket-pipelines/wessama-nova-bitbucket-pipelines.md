@@ -1,0 +1,28 @@
+# wessama/nova-bitbucket-pipelines
+
+> 标签: bitbucket, laravel, nova, pipelines
+
+## 简介
+
+A Laravel Nova card for showing the status of the latest Bitbucket Pipelines build.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/wessama%2Fnova-bitbucket-pipelines
+- 源码仓库：https://github.com/wessama/nova-bitbucket-pipelines.git
+- Packagist 页面：https://packagist.org/packages/wessama%2Fnova-bitbucket-pipelines
+
+## 历史版本号
+
+- 当前版本：v1.0.0
+
+- v1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require wessama/nova-bitbucket-pipelines`
+- Packagist 仓库：https://repo.packagist.org/p2/wessama/nova-bitbucket-pipelines.json
+- 许可证：proprietary
+- PHP 要求：^8.2

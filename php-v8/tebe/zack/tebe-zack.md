@@ -1,0 +1,27 @@
+# tebe/zack
+
+> 标签: file-based, http-kernel, microframework, routing, symfony, twig
+
+## 简介
+
+Zack! is a compact, file-based routing microframework based on Symfony's HttpKernel Component with integrated route handlers and Twig template engine, good for small projects.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://zack.tebe.ch
+- 源码仓库：https://github.com/tbreuss/zack.git
+- Packagist 页面：https://packagist.org/packages/tebe%2Fzack
+
+## 历史版本号
+
+- 当前版本：v0.1.0
+
+- v0.1.0
+
+## 获取地址
+
+- Composer 安装：`composer require tebe/zack`
+- Packagist 仓库：https://repo.packagist.org/p2/tebe/zack.json
+- 许可证：MIT

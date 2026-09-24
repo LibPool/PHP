@@ -1,0 +1,28 @@
+# rakhavirgiandi/laravel-apigator
+
+> 标签: PHP
+
+## 简介
+
+Laravel package to auto-generate CRUD API (Controller, Model, Routes) from database tables
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/rakhavirgiandi%2Flaravel-apigator
+- 源码仓库：https://github.com/rakhavirgiandi/laravel-apigator.git
+- Packagist 页面：https://packagist.org/packages/rakhavirgiandi%2Flaravel-apigator
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require rakhavirgiandi/laravel-apigator`
+- Packagist 仓库：https://repo.packagist.org/p2/rakhavirgiandi/laravel-apigator.json
+- 许可证：MIT
+- PHP 要求：^8.1

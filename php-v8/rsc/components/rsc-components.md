@@ -1,0 +1,27 @@
+# rsc/components
+
+> 标签: PHP
+
+## 简介
+
+A collection reusable, discreet components for building various types of commonly-used markup.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/rsc%2Fcomponents
+- 源码仓库：https://github.com/baublet/mage2-components.git
+- Packagist 页面：https://packagist.org/packages/rsc%2Fcomponents
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.1.0
+
+## 获取地址
+
+- Composer 安装：`composer require rsc/components`
+- Packagist 仓库：https://repo.packagist.org/p2/rsc/components.json
+- PHP 要求：~5.6.5|7.0.2|7.0.4|~7.0.6

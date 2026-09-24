@@ -1,0 +1,27 @@
+# grimmlink/pixeden-stroke-7-icon
+
+> 标签: icon, pixeden
+
+## 简介
+
+Shim repository for https://github.com/olimsaidov/pixeden-stroke-7-icon
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/grimmlink%2Fpixeden-stroke-7-icon
+- 源码仓库：https://github.com/grimmlink/pixeden-stroke-7-icon.git
+- Packagist 页面：https://packagist.org/packages/grimmlink%2Fpixeden-stroke-7-icon
+
+## 历史版本号
+
+- 当前版本：1.2.3
+
+- 1.2.3
+
+## 获取地址
+
+- Composer 安装：`composer require grimmlink/pixeden-stroke-7-icon`
+- Packagist 仓库：https://repo.packagist.org/p2/grimmlink/pixeden-stroke-7-icon.json
+- 许可证：MIT

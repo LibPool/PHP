@@ -1,0 +1,28 @@
+# stekycz/nette-date-paginator
+
+> 标签: date, nette, paginator, period
+
+## 简介
+
+DatePaginator - Nette Framework addon for easier paging by any period
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：http://forum.nette.org/cs/11574-datepaginator-strankovani-po-dnech
+- 源码仓库：https://github.com/stekycz/nette-date-paginator.git
+- Packagist 页面：https://packagist.org/packages/stekycz%2Fnette-date-paginator
+
+## 历史版本号
+
+- 当前版本：1.1.0-beta
+
+- -
+
+## 获取地址
+
+- Composer 安装：`composer require stekycz/nette-date-paginator`
+- Packagist 仓库：https://repo.packagist.org/p2/stekycz/nette-date-paginator.json
+- 许可证：MIT
+- PHP 要求：>=5.3.0

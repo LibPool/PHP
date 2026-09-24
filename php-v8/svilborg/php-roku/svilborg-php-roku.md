@@ -1,0 +1,31 @@
+# svilborg/php-roku
+
+> 标签: Roku, http
+
+## 简介
+
+PHP Library for communication with Roku External Control Protocol
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/svilborg%2Fphp-roku
+- 源码仓库：https://github.com/svilborg/php-roku.git
+- Packagist 页面：https://packagist.org/packages/svilborg%2Fphp-roku
+
+## 历史版本号
+
+- 当前版本：v1.0.0
+
+- v0.1.0
+- v0.2.0
+- v0.3.0
+- v1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require svilborg/php-roku`
+- Packagist 仓库：https://repo.packagist.org/p2/svilborg/php-roku.json
+- 许可证：Apache-2.0
+- PHP 要求：>=7.0.0

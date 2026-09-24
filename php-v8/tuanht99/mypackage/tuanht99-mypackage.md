@@ -1,0 +1,26 @@
+# tuanht99/mypackage
+
+> 标签: PHP
+
+## 简介
+
+tuanht99/mypackage - PHP library from Packagist
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/tuanht99%2Fmypackage
+- 源码仓库：https://github.com/tuanht99/mypackage.git
+- Packagist 页面：https://packagist.org/packages/tuanht99%2Fmypackage
+
+## 历史版本号
+
+- 当前版本：v1.0.0
+
+- v1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require tuanht99/mypackage`
+- Packagist 仓库：https://repo.packagist.org/p2/tuanht99/mypackage.json

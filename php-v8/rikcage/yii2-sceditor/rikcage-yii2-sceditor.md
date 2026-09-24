@@ -1,0 +1,27 @@
+# rikcage/yii2-sceditor
+
+> 标签: bbcode, extension, sceditor, xhtml, yii, yii2
+
+## 简介
+
+SCEditor, a lightweight WYSIWYG BBCode & HTML editor extension for Yii 2.0 Framework
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/rikcage%2Fyii2-sceditor
+- 源码仓库：https://github.com/rikcage/yii2-sceditor.git
+- Packagist 页面：https://packagist.org/packages/rikcage%2Fyii2-sceditor
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require rikcage/yii2-sceditor`
+- Packagist 仓库：https://repo.packagist.org/p2/rikcage/yii2-sceditor.json
+- 许可证：MIT

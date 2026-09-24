@@ -1,0 +1,39 @@
+# websedit/we-cookie-consent
+
+> 标签: Consentmode, Cookiecontrol, Klaro, consent, cookie, cookieconsent, dsgvo, gdpr, typo3
+
+## 简介
+
+Cookie consent panel (opt-in) with GDPR-compliant cookie usage. Supports sitesets. Preconfigured modules for Google Analytics, Facebook, and other commonly used services. Fully customizable to include tracking scripts that set cookies on your website. Support for Google Tag Manager, including Google Consent Mode and Google Consent Mode v2. Easy export to Google Tag Manager. Third-party cookies and scripts are only loaded if active consent has been given. Website visitors can edit their privacy settings at any time. Automatic updating of cookie information when new cookies/scripts are added using a secure consent process. Cookies can be automatically incorporated into the privacy policy via a plugin. Multilingual and full support for desktop, tablet, and mobile devices. Four standard modes for displaying the content solution, including the display of an always-visible icon for accessing privacy settings. Based on Klaro!
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://consent.websedit.de/
+- 源码仓库：https://github.com/websedit/we_cookie_consent.git
+- Packagist 页面：https://packagist.org/packages/websedit%2Fwe-cookie-consent
+
+## 历史版本号
+
+- 当前版本：v7.0.1
+
+- v5.0.4
+- v5.0.5
+- v5.0.6
+- v5.0.7
+- v5.0.8
+- v5.0.9
+- v5.1.0
+- v5.1.1
+- v5.1.2
+- v6.0.0
+- v7.0.0
+- v7.0.1
+- 共 56 个稳定版本，完整清单见 Packagist。
+
+## 获取地址
+
+- Composer 安装：`composer require websedit/we-cookie-consent`
+- Packagist 仓库：https://repo.packagist.org/p2/websedit/we-cookie-consent.json
+- 许可证：GPL-2.0-or-later

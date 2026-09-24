@@ -1,0 +1,40 @@
+# wizaplace/sdk
+
+> 标签: PHP
+
+## 简介
+
+Wizaplace's PHP SDK
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/wizaplace%2Fsdk
+- 源码仓库：https://github.com/wizaplace/wizaplace-php-sdk.git
+- Packagist 页面：https://packagist.org/packages/wizaplace%2Fsdk
+
+## 历史版本号
+
+- 当前版本：1.154.0
+
+- v1.44.9
+- v1.45.0
+- v1.46.0
+- v1.46.1
+- v1.5.0
+- v1.5.1
+- v1.5.2
+- v1.57.0
+- v1.6.0
+- v1.7.0
+- v1.8.0
+- v1.9.0
+- 共 634 个稳定版本，完整清单见 Packagist。
+
+## 获取地址
+
+- Composer 安装：`composer require wizaplace/sdk`
+- Packagist 仓库：https://repo.packagist.org/p2/wizaplace/sdk.json
+- 许可证：proprietary
+- PHP 要求：>=7.1.3

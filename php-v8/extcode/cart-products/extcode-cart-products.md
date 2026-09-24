@@ -1,0 +1,40 @@
+# extcode/cart-products
+
+> 标签: TYPO3 CMS, cart, products, shopping cart
+
+## 简介
+
+Shopping Cart(s) for TYPO3 - Products
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://cart.extco.de
+- 源码仓库：https://github.com/extcode/cart_products.git
+- Packagist 页面：https://packagist.org/packages/extcode%2Fcart-products
+
+## 历史版本号
+
+- 当前版本：v8.0.0
+
+- v5.0.5
+- v6.0.0
+- v6.0.1
+- v6.1.0
+- v6.2.0
+- v7.0.0
+- v7.0.1
+- v7.0.2
+- v7.1.0
+- v7.2.0
+- v7.3.0
+- v8.0.0
+- 共 64 个稳定版本，完整清单见 Packagist。
+
+## 获取地址
+
+- Composer 安装：`composer require extcode/cart-products`
+- Packagist 仓库：https://repo.packagist.org/p2/extcode/cart-products.json
+- 许可证：GPL-2.0-or-later
+- PHP 要求：~8.2.0 || ~8.3.0 || ~8.4.0 || ~8.5.0

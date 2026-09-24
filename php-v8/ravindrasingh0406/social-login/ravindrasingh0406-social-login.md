@@ -1,0 +1,30 @@
+# ravindrasingh0406/social-login
+
+> 标签: github, google, laravel, oauth2, social-login
+
+## 简介
+
+Framework-agnostic social login package for PHP with multiple providers (Google, GitHub)
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/codeFreak2020/social-login
+- 源码仓库：https://github.com/codeFreak2020/social-login.git
+- Packagist 页面：https://packagist.org/packages/ravindrasingh0406%2Fsocial-login
+
+## 历史版本号
+
+- 当前版本：v1.0.2
+
+- v1.0.0
+- v1.0.1
+- v1.0.2
+
+## 获取地址
+
+- Composer 安装：`composer require ravindrasingh0406/social-login`
+- Packagist 仓库：https://repo.packagist.org/p2/ravindrasingh0406/social-login.json
+- 许可证：MIT
+- PHP 要求：>=8.0

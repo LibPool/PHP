@@ -1,0 +1,27 @@
+# dierme/loader
+
+> 标签: PHP
+
+## 简介
+
+Downloads an image by a direct link.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/dierme%2Floader
+- 源码仓库：https://github.com/Dierme/loader.git
+- Packagist 页面：https://packagist.org/packages/dierme%2Floader
+
+## 历史版本号
+
+- 当前版本：v1.0.0
+
+- v1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require dierme/loader`
+- Packagist 仓库：https://repo.packagist.org/p2/dierme/loader.json
+- PHP 要求：>=5.3.0

@@ -1,0 +1,32 @@
+# dimtrovich/blitzphp-vite
+
+> 标签: BlitzPHP, blitzphp spa, blitzphp-reactJs, blitzphp-svelteJs, blitzphp-viteJs, blitzphp-vueJs, dimtrovich, vitejs
+
+## 简介
+
+Integration de viteJs au framework BlitzPHP
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/dimtrovich/blitzphp-vitejs
+- 源码仓库：https://github.com/dimtrovich/blitzphp-vite.git
+- Packagist 页面：https://packagist.org/packages/dimtrovich%2Fblitzphp-vite
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 2.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require dimtrovich/blitzphp-vite`
+- Packagist 仓库：https://repo.packagist.org/p2/dimtrovich/blitzphp-vite.json
+- 许可证：MIT
+- PHP 要求：^8.2

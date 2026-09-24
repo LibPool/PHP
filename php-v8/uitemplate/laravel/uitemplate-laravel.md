@@ -1,0 +1,39 @@
+# uitemplate/laravel
+
+> 标签: laravel
+
+## 简介
+
+Template UI berbasis PHP (Laravel) yang ringan dan modern. Dirancang untuk efisiensi tinggi dengan sistem komponen yang siap pakai.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/uitemplate%2Flaravel
+- 源码仓库：https://github.com/Faizilman/uitemplate.git
+- Packagist 页面：https://packagist.org/packages/uitemplate%2Flaravel
+
+## 历史版本号
+
+- 当前版本：v3.0.1
+
+- 1.0.0
+- v1.1.0
+- v1.1.1
+- v1.2.0
+- v1.2.1
+- v1.2.2
+- v2.0.0
+- v2.1.0
+- v2.2.0
+- v2.2.1
+- v3.0.0
+- v3.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require uitemplate/laravel`
+- Packagist 仓库：https://repo.packagist.org/p2/uitemplate/laravel.json
+- 许可证：MIT
+- PHP 要求：^8.0 || ^8.1 || ^8.4

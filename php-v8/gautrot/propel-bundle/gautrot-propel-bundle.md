@@ -1,0 +1,36 @@
+# gautrot/propel-bundle
+
+> 标签: orm, persistence, propel
+
+## 简介
+
+Integration of Propel in Symfony
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/gautrot%2Fpropel-bundle
+- 源码仓库：https://github.com/Gautrot/PropelBundle.git
+- Packagist 页面：https://packagist.org/packages/gautrot%2Fpropel-bundle
+
+## 历史版本号
+
+- 当前版本：7.1.0.2
+
+- 5.2.0
+- 5.2.0.1
+- 5.2.0.2
+- 6.1.0
+- 6.1.0.1
+- 6.1.0.2
+- 7.1.0
+- 7.1.0.1
+- 7.1.0.2
+
+## 获取地址
+
+- Composer 安装：`composer require gautrot/propel-bundle`
+- Packagist 仓库：https://repo.packagist.org/p2/gautrot/propel-bundle.json
+- 许可证：MIT
+- PHP 要求：>=8.2

@@ -1,0 +1,28 @@
+# prinst/validator-polish-pesel
+
+> 标签: PHP
+
+## 简介
+
+Polish PESEL number validator
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://prinst.pl
+- 源码仓库：https://github.com/PrInStPL/Pesel.git
+- Packagist 页面：https://packagist.org/packages/prinst%2Fvalidator-polish-pesel
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require prinst/validator-polish-pesel`
+- Packagist 仓库：https://repo.packagist.org/p2/prinst/validator-polish-pesel.json
+- 许可证：MIT
+- PHP 要求：^8.3

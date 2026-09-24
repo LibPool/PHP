@@ -1,0 +1,33 @@
+# skagarwal/reflection
+
+> 标签: Private Methods, Private Properties, Protected Methods, Protected Properties, php, reflection, testing, unittesting
+
+## 简介
+
+Test any Private/Protected Methods/Properties of any class
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/skagarwal%2Freflection
+- 源码仓库：https://github.com/SachinAgarwal1337/Php-reflection-deflector.git
+- Packagist 页面：https://packagist.org/packages/skagarwal%2Freflection
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- Composer 安装：`composer require skagarwal/reflection`
+- Packagist 仓库：https://repo.packagist.org/p2/skagarwal/reflection.json
+- 许可证：MIT
+- PHP 要求：>=5.4.0

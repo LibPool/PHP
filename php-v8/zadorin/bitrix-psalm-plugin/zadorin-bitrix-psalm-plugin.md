@@ -1,0 +1,28 @@
+# zadorin/bitrix-psalm-plugin
+
+> 标签: PHP
+
+## 简介
+
+Psalm plugin for Bitrix Framework
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/zadorin%2Fbitrix-psalm-plugin
+- 源码仓库：https://github.com/eugenezadorin/bitrix-psalm-plugin.git
+- Packagist 页面：https://packagist.org/packages/zadorin%2Fbitrix-psalm-plugin
+
+## 历史版本号
+
+- 当前版本：v0.0.2
+
+- v0.0.1
+- v0.0.2
+
+## 获取地址
+
+- Composer 安装：`composer require zadorin/bitrix-psalm-plugin`
+- Packagist 仓库：https://repo.packagist.org/p2/zadorin/bitrix-psalm-plugin.json
+- 许可证：MIT

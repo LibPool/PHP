@@ -1,0 +1,40 @@
+# php-notify/notify
+
+> 标签: custom-integrations, flash-notifications, flasher-core, framework-agnostic, open-source, php
+
+## 简介
+
+The foundational PHP library for PHPFlasher, enabling the creation of framework-agnostic flash notifications. Ideal for building custom integrations or for use in PHP projects.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://php-flasher.io
+- 源码仓库：https://github.com/php-flasher/flasher.git
+- Packagist 页面：https://packagist.org/packages/php-notify%2Fnotify
+
+## 历史版本号
+
+- 当前版本：v2.6.3
+
+- v2.2.0
+- v2.2.1
+- v2.2.2
+- v2.3.0
+- v2.4.0
+- v2.5.0
+- v2.5.1
+- v2.5.2
+- v2.6.0
+- v2.6.1
+- v2.6.2
+- v2.6.3
+- 共 137 个稳定版本，完整清单见 Packagist。
+
+## 获取地址
+
+- Composer 安装：`composer require php-notify/notify`
+- Packagist 仓库：https://repo.packagist.org/p2/php-notify/notify.json
+- 许可证：MIT
+- PHP 要求：>=8.2

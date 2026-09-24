@@ -1,0 +1,28 @@
+# gabylis/api-foundation
+
+> 标签: api, laravel, openapi, rest, swagger
+
+## 简介
+
+Opinionated Laravel API base: structured JSON responses, PHP 8 OpenAPI attributes scaffold, and Artisan generator for documented controllers.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/gabylis%2Fapi-foundation
+- 源码仓库：https://github.com/Gabylis/api-foundation.git
+- Packagist 页面：https://packagist.org/packages/gabylis%2Fapi-foundation
+
+## 历史版本号
+
+- 当前版本：v1.0.0
+
+- v1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require gabylis/api-foundation`
+- Packagist 仓库：https://repo.packagist.org/p2/gabylis/api-foundation.json
+- 许可证：MIT
+- PHP 要求：^8.1

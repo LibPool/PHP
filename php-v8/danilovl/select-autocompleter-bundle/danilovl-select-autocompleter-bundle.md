@@ -1,0 +1,40 @@
+# danilovl/select-autocompleter-bundle
+
+> 标签: bundle, php, symfony
+
+## 简介
+
+Symfony select ajax autocomleter bundle
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/danilovl%2Fselect-autocompleter-bundle
+- 源码仓库：https://github.com/danilovl/select-autocompleter-bundle.git
+- Packagist 页面：https://packagist.org/packages/danilovl%2Fselect-autocompleter-bundle
+
+## 历史版本号
+
+- 当前版本：v4.1.0
+
+- v3.7.7
+- v3.7.8
+- v3.8.0
+- v3.9.0
+- v3.9.1
+- v3.9.2
+- v3.9.3
+- v3.9.4
+- v3.9.5
+- v4.0.0
+- v4.0.1
+- v4.1.0
+- 共 79 个稳定版本，完整清单见 Packagist。
+
+## 获取地址
+
+- Composer 安装：`composer require danilovl/select-autocompleter-bundle`
+- Packagist 仓库：https://repo.packagist.org/p2/danilovl/select-autocompleter-bundle.json
+- 许可证：MIT
+- PHP 要求：^8.5

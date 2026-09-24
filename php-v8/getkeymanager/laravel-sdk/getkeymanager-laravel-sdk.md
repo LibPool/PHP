@@ -1,0 +1,39 @@
+# getkeymanager/laravel-sdk
+
+> 标签: DRM, activation, laravel, laravel-package, license, license-management, licensing, software-licensing, validation
+
+## 简介
+
+Official Laravel SDK for License Management Platform - Elegant license validation, activation, and management for Laravel applications
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://getkeymanager.com
+- 源码仓库：https://github.com/getkeymanager/laravel-sdk.git
+- Packagist 页面：https://packagist.org/packages/getkeymanager%2Flaravel-sdk
+
+## 历史版本号
+
+- 当前版本：3.2.0
+
+- 1.0
+- 2.0
+- 2.1
+- 2.2
+- 2.3
+- 2.4
+- 2.5
+- 2.6
+- 2.7
+- 3.0.0
+- 3.1.0
+- 3.2.0
+
+## 获取地址
+
+- Composer 安装：`composer require getkeymanager/laravel-sdk`
+- Packagist 仓库：https://repo.packagist.org/p2/getkeymanager/laravel-sdk.json
+- 许可证：MIT
+- PHP 要求：^8.1 || ^8.2 || ^8.3

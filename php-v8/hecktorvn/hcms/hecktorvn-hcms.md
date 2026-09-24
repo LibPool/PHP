@@ -1,0 +1,28 @@
+# hecktorvn/hcms
+
+> 标签: PHP
+
+## 简介
+
+Pacote para gerenciamento de componentes estilo CMS
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/hecktorvn%2Fhcms
+- 源码仓库：https://github.com/hecktorvn/hcms.git
+- Packagist 页面：https://packagist.org/packages/hecktorvn%2Fhcms
+
+## 历史版本号
+
+- 当前版本：v0.0.1-beta
+
+- -
+
+## 获取地址
+
+- Composer 安装：`composer require hecktorvn/hcms`
+- Packagist 仓库：https://repo.packagist.org/p2/hecktorvn/hcms.json
+- 许可证：MIT
+- PHP 要求：^8.2

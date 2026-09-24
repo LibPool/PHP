@@ -1,0 +1,27 @@
+# pioniro/request-response-model
+
+> 标签: PHP
+
+## 简介
+
+Common interfaces for the Request and Response models
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/pioniro%2Frequest-response-model
+- 源码仓库：https://github.com/pioniro/RequestResponseModels.git
+- Packagist 页面：https://packagist.org/packages/pioniro%2Frequest-response-model
+
+## 历史版本号
+
+- 当前版本：v1.0.0
+
+- v1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require pioniro/request-response-model`
+- Packagist 仓库：https://repo.packagist.org/p2/pioniro/request-response-model.json
+- 许可证：MIT

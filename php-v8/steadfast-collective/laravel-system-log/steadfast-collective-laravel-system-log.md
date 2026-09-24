@@ -1,0 +1,33 @@
+# steadfast-collective/laravel-system-log
+
+> 标签: Steadfast Collective, api-tracking, audit-trail, debugging, laravel, laravel-logging, laravel-system-log
+
+## 简介
+
+Provides a System Log model and helpers for contextful logging with a FilamentPHP Resource panel generator
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/steadfast-collective/laravel-system-log
+- 源码仓库：https://github.com/steadfast-collective/laravel-system-log.git
+- Packagist 页面：https://packagist.org/packages/steadfast-collective%2Flaravel-system-log
+
+## 历史版本号
+
+- 当前版本：v1.5
+
+- v1.0
+- v1.1
+- v1.2
+- v1.3
+- v1.4
+- v1.5
+
+## 获取地址
+
+- Composer 安装：`composer require steadfast-collective/laravel-system-log`
+- Packagist 仓库：https://repo.packagist.org/p2/steadfast-collective/laravel-system-log.json
+- 许可证：MIT
+- PHP 要求：8.3.* || 8.4.* || 8.5.*

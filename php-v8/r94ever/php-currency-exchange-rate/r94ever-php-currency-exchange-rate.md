@@ -1,0 +1,30 @@
+# r94ever/php-currency-exchange-rate
+
+> 标签: php-currency-exchange-rate, r94ever
+
+## 简介
+
+Currency exchange rate package for PHP
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/r94ever/php-currency-exchange-rate
+- 源码仓库：https://github.com/r94ever/php-currency-exchange-rate.git
+- Packagist 页面：https://packagist.org/packages/r94ever%2Fphp-currency-exchange-rate
+
+## 历史版本号
+
+- 当前版本：v1.1.0
+
+- v1.0.0
+- v1.0.1
+- v1.1.0
+
+## 获取地址
+
+- Composer 安装：`composer require r94ever/php-currency-exchange-rate`
+- Packagist 仓库：https://repo.packagist.org/p2/r94ever/php-currency-exchange-rate.json
+- 许可证：MIT
+- PHP 要求：^8.2

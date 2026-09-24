@@ -1,0 +1,30 @@
+# ctrlwebinc/laravel-badgefactor2
+
+> 标签: badgr, laravel, open-badge
+
+## 简介
+
+A marvellous bridge between Laravel and Badgr.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/ctrlwebinc%2Flaravel-badgefactor2
+- 源码仓库：https://github.com/ctrlwebinc/laravel-badgefactor2.git
+- Packagist 页面：https://packagist.org/packages/ctrlwebinc%2Flaravel-badgefactor2
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- Composer 安装：`composer require ctrlwebinc/laravel-badgefactor2`
+- Packagist 仓库：https://repo.packagist.org/p2/ctrlwebinc/laravel-badgefactor2.json
+- 许可证：MIT
+- PHP 要求：^8.0.2

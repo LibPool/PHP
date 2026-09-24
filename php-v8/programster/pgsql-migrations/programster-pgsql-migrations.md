@@ -1,0 +1,34 @@
+# programster/pgsql-migrations
+
+> 标签: migrations, pgsql, postgresql
+
+## 简介
+
+A library for managing migrations for a PostgreSQL database.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/programster/package-pgsql-migrations
+- 源码仓库：https://github.com/programster/package-pgsql-migrations.git
+- Packagist 页面：https://packagist.org/packages/programster%2Fpgsql-migrations
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- Composer 安装：`composer require programster/pgsql-migrations`
+- Packagist 仓库：https://repo.packagist.org/p2/programster/pgsql-migrations.json
+- 许可证：MIT
+- PHP 要求：>=8.2.0

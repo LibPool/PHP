@@ -1,0 +1,28 @@
+# foun10/easysearch
+
+> 标签: OXID, eshop, facets, meilisearch, modules, search, suggest
+
+## 简介
+
+Product search for OXID eShop with typo tolerance, facets and suggest
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://www.foun10.de
+- 源码仓库：https://github.com/foun10/easy-search-oxid.git
+- Packagist 页面：https://packagist.org/packages/foun10%2Feasysearch
+
+## 历史版本号
+
+- 当前版本：v7.0.0
+
+- v7.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require foun10/easysearch`
+- Packagist 仓库：https://repo.packagist.org/p2/foun10/easysearch.json
+- 许可证：GPL-3.0-only
+- PHP 要求：^8.1

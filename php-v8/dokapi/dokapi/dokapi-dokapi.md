@@ -1,0 +1,28 @@
+# dokapi/dokapi
+
+> 标签: documentation
+
+## 简介
+
+Documentation generator
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/dokapi/dokapi
+- 源码仓库：https://github.com/dokapi/dokapi.git
+- Packagist 页面：https://packagist.org/packages/dokapi%2Fdokapi
+
+## 历史版本号
+
+- 当前版本：v0.1.0
+
+- v0.1.0
+
+## 获取地址
+
+- Composer 安装：`composer require dokapi/dokapi`
+- Packagist 仓库：https://repo.packagist.org/p2/dokapi/dokapi.json
+- 许可证：MIT
+- PHP 要求：>=5.3.2

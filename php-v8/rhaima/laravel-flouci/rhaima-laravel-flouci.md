@@ -1,0 +1,28 @@
+# rhaima/laravel-flouci
+
+> 标签: flouci, laravel, payments, tunisia
+
+## 简介
+
+Laravel package for integrating Flouci payments in Tunisia.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/Rhaima96/laravel-flouci
+- 源码仓库：https://github.com/Rhaima96/laravel-flouci.git
+- Packagist 页面：https://packagist.org/packages/rhaima%2Flaravel-flouci
+
+## 历史版本号
+
+- 当前版本：v1.0.0
+
+- v1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require rhaima/laravel-flouci`
+- Packagist 仓库：https://repo.packagist.org/p2/rhaima/laravel-flouci.json
+- 许可证：MIT
+- PHP 要求：^8.2

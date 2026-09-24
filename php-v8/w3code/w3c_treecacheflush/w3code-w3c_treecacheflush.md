@@ -1,0 +1,27 @@
+# w3code/w3c_treecacheflush
+
+> 标签: PHP
+
+## 简介
+
+Flush page and subpages cache recursively from context menu.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/w3code%2Fw3c_treecacheflush
+- 源码仓库：https://github.com/w3code-tn/w3c_treecacheflush.git
+- Packagist 页面：https://packagist.org/packages/w3code%2Fw3c_treecacheflush
+
+## 历史版本号
+
+- 当前版本：v13.0.0
+
+- v13.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require w3code/w3c_treecacheflush`
+- Packagist 仓库：https://repo.packagist.org/p2/w3code/w3c_treecacheflush.json
+- 许可证：GPL-2.0-or-later
