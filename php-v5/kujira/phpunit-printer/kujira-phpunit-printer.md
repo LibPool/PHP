@@ -1,0 +1,29 @@
+# kujira/phpunit-printer
+
+> 标签: phpunit, printer, result, test, unit
+
+## 简介
+
+A PhpUnit result printer
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/cyrilbarragan/kujira-phpunit-printer
+- 源码仓库：https://github.com/adm-husker/kujira-phpunit-printer.git
+- Packagist 页面：https://packagist.org/packages/kujira%2Fphpunit-printer
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require kujira/phpunit-printer`
+- Packagist 仓库：https://repo.packagist.org/p2/kujira/phpunit-printer.json
+- 许可证：MIT
+- PHP 要求：>=5.3.0

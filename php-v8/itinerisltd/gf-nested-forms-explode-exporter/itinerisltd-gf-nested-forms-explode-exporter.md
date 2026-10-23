@@ -1,0 +1,30 @@
+# itinerisltd/gf-nested-forms-explode-exporter
+
+> 标签: exporter, gravity-forms, gravity-perks, nested-forms, wordpress, wp
+
+## 简介
+
+Exporter gravity forms nested entries.
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://itinerisltd.github.io/gf-nested-forms-explode-exporter/
+- 源码仓库：https://github.com/ItinerisLtd/gf-nested-forms-explode-exporter.git
+- Packagist 页面：https://packagist.org/packages/itinerisltd%2Fgf-nested-forms-explode-exporter
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+
+## 获取地址
+
+- Composer 安装：`composer require itinerisltd/gf-nested-forms-explode-exporter`
+- Packagist 仓库：https://repo.packagist.org/p2/itinerisltd/gf-nested-forms-explode-exporter.json
+- 许可证：GPL-2.0-or-later
+- PHP 要求：^7.2

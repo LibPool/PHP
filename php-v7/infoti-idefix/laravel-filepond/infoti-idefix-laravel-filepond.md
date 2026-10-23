@@ -1,0 +1,28 @@
+# infoti-idefix/laravel-filepond
+
+> 标签: filepond, filepond-laravel, laravel-filepond
+
+## 简介
+
+Dead simple Laravel backend support for FilePond
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/rahulhaque/laravel-filepond
+- 源码仓库：https://github.com/infoti-idefix/laravel-filepond.git
+- Packagist 页面：https://packagist.org/packages/infoti-idefix%2Flaravel-filepond
+
+## 历史版本号
+
+- 当前版本：1.4.10
+
+- 1.4.10
+
+## 获取地址
+
+- Composer 安装：`composer require infoti-idefix/laravel-filepond`
+- Packagist 仓库：https://repo.packagist.org/p2/infoti-idefix/laravel-filepond.json
+- 许可证：MIT
+- PHP 要求：^7.3|^8.0

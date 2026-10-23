@@ -1,0 +1,28 @@
+# micschk/silverstripe-excludechildren
+
+> 标签: excludechildren, silverstripe, sitetree
+
+## 简介
+
+Extension to hide pages from the SiteTree
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/micschk%2Fsilverstripe-excludechildren
+- 源码仓库：https://github.com/micschk/silverstripe-excludechildren.git
+- Packagist 页面：https://packagist.org/packages/micschk%2Fsilverstripe-excludechildren
+
+## 历史版本号
+
+- 当前版本：2.0
+
+- 1.0
+- 1.1
+- 2.0
+
+## 获取地址
+
+- Composer 安装：`composer require micschk/silverstripe-excludechildren`
+- Packagist 仓库：https://repo.packagist.org/p2/micschk/silverstripe-excludechildren.json

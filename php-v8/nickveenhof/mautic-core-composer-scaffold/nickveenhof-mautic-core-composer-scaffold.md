@@ -1,0 +1,28 @@
+# nickveenhof/mautic-core-composer-scaffold
+
+> 标签: Mautic
+
+## 简介
+
+A flexible Composer project scaffold builder.
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://www.mautic.org
+- 源码仓库：https://github.com/nickveenhof/mautic-core-composer-scaffold.git
+- Packagist 页面：https://packagist.org/packages/nickveenhof%2Fmautic-core-composer-scaffold
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- Composer 安装：`composer require nickveenhof/mautic-core-composer-scaffold`
+- Packagist 仓库：https://repo.packagist.org/p2/nickveenhof/mautic-core-composer-scaffold.json
+- 许可证：GPL-2.0-or-later
+- PHP 要求：>=7.0.8

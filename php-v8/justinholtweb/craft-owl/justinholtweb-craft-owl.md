@@ -1,0 +1,30 @@
+# justinholtweb/craft-owl
+
+> 标签: Craft, calendar, cms, commerce, craft-plugin, craftcms, events, ics, recurrence, tickets
+
+## 简介
+
+A comprehensive events and calendar plugin for Craft CMS 5 with recurrence, multisite, ICS feeds, and Commerce ticketing.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://craft-owl.com
+- 源码仓库：https://github.com/justinholtweb/craft-owl.git
+- Packagist 页面：https://packagist.org/packages/justinholtweb%2Fcraft-owl
+
+## 历史版本号
+
+- 当前版本：5.2.1
+
+- 5.1.0
+- 5.2.0
+- 5.2.1
+
+## 获取地址
+
+- Composer 安装：`composer require justinholtweb/craft-owl`
+- Packagist 仓库：https://repo.packagist.org/p2/justinholtweb/craft-owl.json
+- 许可证：proprietary
+- PHP 要求：>=8.2

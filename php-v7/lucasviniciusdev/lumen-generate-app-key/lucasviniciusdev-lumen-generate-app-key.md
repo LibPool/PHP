@@ -1,0 +1,27 @@
+# lucasviniciusdev/lumen-generate-app-key
+
+> 标签: PHP
+
+## 简介
+
+Create the application key in Laravel/Lumen Framework with just one command.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/lucasviniciusdev%2Flumen-generate-app-key
+- 源码仓库：https://github.com/LucasViniciusDev/lumen-generate-app-key.git
+- Packagist 页面：https://packagist.org/packages/lucasviniciusdev%2Flumen-generate-app-key
+
+## 历史版本号
+
+- 当前版本：v1.0
+
+- v1.0
+
+## 获取地址
+
+- Composer 安装：`composer require lucasviniciusdev/lumen-generate-app-key`
+- Packagist 仓库：https://repo.packagist.org/p2/lucasviniciusdev/lumen-generate-app-key.json
+- 许可证：MIT

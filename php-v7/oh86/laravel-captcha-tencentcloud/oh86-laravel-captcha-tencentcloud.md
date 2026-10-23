@@ -1,0 +1,28 @@
+# oh86/laravel-captcha-tencentcloud
+
+> 标签: PHP
+
+## 简介
+
+tencentcloud captcha extend for oh86/laravel-captcha
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/oh86%2Flaravel-captcha-tencentcloud
+- 源码仓库：https://github.com/OneHundred86/laravel-captcha-tencentcloud.git
+- Packagist 页面：https://packagist.org/packages/oh86%2Flaravel-captcha-tencentcloud
+
+## 历史版本号
+
+- 当前版本：v1.0.0
+
+- v1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require oh86/laravel-captcha-tencentcloud`
+- Packagist 仓库：https://repo.packagist.org/p2/oh86/laravel-captcha-tencentcloud.json
+- 许可证：MIT
+- PHP 要求：^7.4 || ^8.0

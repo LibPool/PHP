@@ -1,0 +1,28 @@
+# juanchosl/socketclient
+
+> 标签: Streams, Web Sockets, sockets, tcp, udp
+
+## 简介
+
+Little methods collection in order to connect and use some socket connections from distinct types of origins
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/JuanchoSL/SocketClient
+- 源码仓库：https://github.com/JuanchoSL/SocketClient.git
+- Packagist 页面：https://packagist.org/packages/juanchosl%2Fsocketclient
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require juanchosl/socketclient`
+- Packagist 仓库：https://repo.packagist.org/p2/juanchosl/socketclient.json
+- 许可证：MIT
+- PHP 要求：^8.0

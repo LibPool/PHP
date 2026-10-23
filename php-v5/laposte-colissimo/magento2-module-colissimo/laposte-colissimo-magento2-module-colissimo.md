@@ -1,0 +1,28 @@
+# laposte-colissimo/magento2-module-colissimo
+
+> 标签: PHP
+
+## 简介
+
+Magento 2 Colissimo Simplicité module
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/laposte-colissimo%2Fmagento2-module-colissimo
+- 源码仓库：https://github.com/LaPoste-Colissimo/magento2-module-colissimo.git
+- Packagist 页面：https://packagist.org/packages/laposte-colissimo%2Fmagento2-module-colissimo
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 2.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require laposte-colissimo/magento2-module-colissimo`
+- Packagist 仓库：https://repo.packagist.org/p2/laposte-colissimo/magento2-module-colissimo.json
+- 许可证：OSL-3.0

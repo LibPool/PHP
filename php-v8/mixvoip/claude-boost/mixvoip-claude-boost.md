@@ -1,0 +1,34 @@
+# mixvoip/claude-boost
+
+> 标签: ai, claude, codebase, conventions, developer-tools, registry, safety
+
+## 简介
+
+One file. Zero commands. Makes Claude smart about your codebase. Any language. Any framework.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/mixvoip%2Fclaude-boost
+- 源码仓库：https://github.com/Mixvoip/claude-boost.git
+- Packagist 页面：https://packagist.org/packages/mixvoip%2Fclaude-boost
+
+## 历史版本号
+
+- 当前版本：v2.2.0
+
+- v1.0.0
+- v1.0.1
+- v2.0.0
+- v2.1.0
+- v2.1.1
+- v2.1.2
+- v2.2.0
+
+## 获取地址
+
+- Composer 安装：`composer require mixvoip/claude-boost`
+- Packagist 仓库：https://repo.packagist.org/p2/mixvoip/claude-boost.json
+- 许可证：MIT
+- PHP 要求：^8.1

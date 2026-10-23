@@ -1,0 +1,29 @@
+# nerdery/documentation-bundle
+
+> 标签: assets, compression, minification
+
+## 简介
+
+Generate Bundle Documentation for Symfony2
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/symfony/AsseticBundle
+- 源码仓库：https://github.com/thenerdery/documentation-bundle.git
+- Packagist 页面：https://packagist.org/packages/nerdery%2Fdocumentation-bundle
+
+## 历史版本号
+
+- 当前版本：v1.0.1
+
+- v1.0.0
+- v1.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require nerdery/documentation-bundle`
+- Packagist 仓库：https://repo.packagist.org/p2/nerdery/documentation-bundle.json
+- 许可证：BSD-2-Clause
+- PHP 要求：>=5.3.0

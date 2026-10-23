@@ -1,0 +1,29 @@
+# iipokypatop/algorithms
+
+> 标签: Graph algorithms, dijkstra, kruskal, minimum spanning tree, moore-bellman-ford, prim, shortest path
+
+## 简介
+
+Common mathematical graph algorithms
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/graphp/algorithms
+- 源码仓库：https://github.com/iipokypatop/algorithms.git
+- Packagist 页面：https://packagist.org/packages/iipokypatop%2Falgorithms
+
+## 历史版本号
+
+- 当前版本：v0.8.1
+
+- v0.8.0
+- v0.8.1
+
+## 获取地址
+
+- Composer 安装：`composer require iipokypatop/algorithms`
+- Packagist 仓库：https://repo.packagist.org/p2/iipokypatop/algorithms.json
+- 许可证：MIT
+- PHP 要求：>=5.3

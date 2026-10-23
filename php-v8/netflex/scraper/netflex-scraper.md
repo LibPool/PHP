@@ -1,0 +1,27 @@
+# netflex/scraper
+
+> 标签: PHP
+
+## 简介
+
+Library for scraping metadata
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/netflex%2Fscraper
+- 源码仓库：https://github.com/netflex-sdk/scraper.git
+- Packagist 页面：https://packagist.org/packages/netflex%2Fscraper
+
+## 历史版本号
+
+- 当前版本：v1.0.0
+
+- v1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require netflex/scraper`
+- Packagist 仓库：https://repo.packagist.org/p2/netflex/scraper.json
+- 许可证：MIT

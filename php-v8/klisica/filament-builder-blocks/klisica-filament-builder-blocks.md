@@ -1,0 +1,28 @@
+# klisica/filament-builder-blocks
+
+> 标签: filament-builder-blocks, klisica, laravel
+
+## 简介
+
+Flexible builder blocks generator for Filament
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/klisica/filament-builder-blocks
+- 源码仓库：https://github.com/klisica/filament-builder-blocks.git
+- Packagist 页面：https://packagist.org/packages/klisica%2Ffilament-builder-blocks
+
+## 历史版本号
+
+- 当前版本：v1.0.0
+
+- v1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require klisica/filament-builder-blocks`
+- Packagist 仓库：https://repo.packagist.org/p2/klisica/filament-builder-blocks.json
+- 许可证：MIT
+- PHP 要求：^8.2

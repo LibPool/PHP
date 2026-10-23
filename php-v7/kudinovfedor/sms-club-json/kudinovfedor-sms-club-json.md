@@ -1,0 +1,29 @@
+# kudinovfedor/sms-club-json
+
+> 标签: composer, library, package, sms, sms JSON, sms api, sms club
+
+## 简介
+
+SMS CLUB API JSON
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://joompress.biz
+- 源码仓库：https://github.com/kudinovfedor/sms-club-json.git
+- Packagist 页面：https://packagist.org/packages/kudinovfedor%2Fsms-club-json
+
+## 历史版本号
+
+- 当前版本：v1.0.1
+
+- v1.0.0
+- v1.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require kudinovfedor/sms-club-json`
+- Packagist 仓库：https://repo.packagist.org/p2/kudinovfedor/sms-club-json.json
+- 许可证：MIT
+- PHP 要求：>=7.0.0

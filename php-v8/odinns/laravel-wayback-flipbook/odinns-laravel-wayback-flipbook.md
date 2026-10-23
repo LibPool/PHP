@@ -1,0 +1,30 @@
+# odinns/laravel-wayback-flipbook
+
+> 标签: archive, flipbook, internet-archive, laravel, wayback-machine
+
+## 简介
+
+Build PNG timelines for one archived page through Wayback Machine history.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/odinns/laravel-wayback-flipbook
+- 源码仓库：https://github.com/odinns/laravel-wayback-flipbook.git
+- Packagist 页面：https://packagist.org/packages/odinns%2Flaravel-wayback-flipbook
+
+## 历史版本号
+
+- 当前版本：v1.1.0
+
+- v1.0.0
+- v1.0.1
+- v1.1.0
+
+## 获取地址
+
+- Composer 安装：`composer require odinns/laravel-wayback-flipbook`
+- Packagist 仓库：https://repo.packagist.org/p2/odinns/laravel-wayback-flipbook.json
+- 许可证：MIT
+- PHP 要求：8.3.* || 8.4.*

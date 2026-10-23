@@ -1,0 +1,28 @@
+# league-of-legends-api/champion
+
+> 标签: PHP
+
+## 简介
+
+PHP API wrapper for the RiotAPI Champion endpoint
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/league-of-legends-api%2Fchampion
+- 源码仓库：https://github.com/chr0n1x/league-of-legends-api-champion.git
+- Packagist 页面：https://packagist.org/packages/league-of-legends-api%2Fchampion
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require league-of-legends-api/champion`
+- Packagist 仓库：https://repo.packagist.org/p2/league-of-legends-api/champion.json
+- 许可证：MIT

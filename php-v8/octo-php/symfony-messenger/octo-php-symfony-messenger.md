@@ -1,0 +1,28 @@
+# octo-php/symfony-messenger
+
+> 标签: PHP
+
+## 简介
+
+Symfony Messenger transport for the Async PHP Platform — in-process message passing via bounded OpenSwoole channels with backpressure.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/octo-php%2Fsymfony-messenger
+- 源码仓库：https://github.com/LaProgrammerie/octo-php-symfony-messenger.git
+- Packagist 页面：https://packagist.org/packages/octo-php%2Fsymfony-messenger
+
+## 历史版本号
+
+- 当前版本：v0.1.2
+
+- v0.1.2
+
+## 获取地址
+
+- Composer 安装：`composer require octo-php/symfony-messenger`
+- Packagist 仓库：https://repo.packagist.org/p2/octo-php/symfony-messenger.json
+- 许可证：MIT
+- PHP 要求：>=8.4

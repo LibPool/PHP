@@ -1,0 +1,26 @@
+# jungleran/drupal-developer-production
+
+> 标签: drupal
+
+## 简介
+
+Packages for Drupal development applicable in production environment
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/jungleran%2Fdrupal-developer-production
+- 源码仓库：https://github.com/jungleran/drupal-developer-production.git
+- Packagist 页面：https://packagist.org/packages/jungleran%2Fdrupal-developer-production
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require jungleran/drupal-developer-production`
+- Packagist 仓库：https://repo.packagist.org/p2/jungleran/drupal-developer-production.json

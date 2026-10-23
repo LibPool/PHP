@@ -1,0 +1,40 @@
+# ibrows/sylius-shop-bundle
+
+> 标签: ibrows, shop, sylius
+
+## 简介
+
+Ibrows Sylius Shop Bundle integration
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/ibrows%2Fsylius-shop-bundle
+- 源码仓库：https://github.com/ibrows/IbrowsSyliusShopBundle.git
+- Packagist 页面：https://packagist.org/packages/ibrows%2Fsylius-shop-bundle
+
+## 历史版本号
+
+- 当前版本：v8.0.5
+
+- 6.0.2
+- 7.0.0
+- 7.0.1
+- 7.0.2
+- 7.0.3
+- 7.0.4
+- v8.0.0
+- v8.0.1
+- v8.0.2
+- v8.0.3
+- v8.0.4
+- v8.0.5
+- 共 93 个稳定版本，完整清单见 Packagist。
+
+## 获取地址
+
+- Composer 安装：`composer require ibrows/sylius-shop-bundle`
+- Packagist 仓库：https://repo.packagist.org/p2/ibrows/sylius-shop-bundle.json
+- 许可证：MIT
+- PHP 要求：>=5.3.0

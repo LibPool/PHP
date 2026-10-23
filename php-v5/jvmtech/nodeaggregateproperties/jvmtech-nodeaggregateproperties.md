@@ -1,0 +1,29 @@
+# jvmtech/nodeaggregateproperties
+
+> 标签: PHP
+
+## 简介
+
+Node aggregate-properties emulation for Neos 8
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/jvmtech%2Fnodeaggregateproperties
+- 源码仓库：https://github.com/jvm-tech/NodeAggregateProperties.git
+- Packagist 页面：https://packagist.org/packages/jvmtech%2Fnodeaggregateproperties
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- Composer 安装：`composer require jvmtech/nodeaggregateproperties`
+- Packagist 仓库：https://repo.packagist.org/p2/jvmtech/nodeaggregateproperties.json
+- 许可证：MIT

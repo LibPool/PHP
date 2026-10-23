@@ -1,0 +1,28 @@
+# pascalwacker/simple-symfony-inertia-bundle
+
+> 标签: PHP
+
+## 简介
+
+A Simple Symfony adapter for Inertia.js
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/pascalwacker%2Fsimple-symfony-inertia-bundle
+- 源码仓库：https://github.com/pascalwacker/simple-symfony-inertia-bundle.git
+- Packagist 页面：https://packagist.org/packages/pascalwacker%2Fsimple-symfony-inertia-bundle
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require pascalwacker/simple-symfony-inertia-bundle`
+- Packagist 仓库：https://repo.packagist.org/p2/pascalwacker/simple-symfony-inertia-bundle.json
+- 许可证：MIT
+- PHP 要求：>=8.2

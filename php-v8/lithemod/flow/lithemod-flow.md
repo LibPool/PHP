@@ -1,0 +1,28 @@
+# lithemod/flow
+
+> 标签: PHP
+
+## 简介
+
+Interfaces and utilities for handling HTTP requests and responses in Lithe, enabling middleware creation.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/lithemod%2Fflow
+- 源码仓库：https://github.com/lithemod/flow.git
+- Packagist 页面：https://packagist.org/packages/lithemod%2Fflow
+
+## 历史版本号
+
+- 当前版本：v1.0.0
+
+- v1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require lithemod/flow`
+- Packagist 仓库：https://repo.packagist.org/p2/lithemod/flow.json
+- 许可证：MIT
+- PHP 要求：^8.0

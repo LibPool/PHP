@@ -1,0 +1,35 @@
+# jpry/ynab-sdk-php
+
+> 标签: api, client, laravel, php, ynab
+
+## 简介
+
+Framework-agnostic YNAB API client for PHP
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/jpry%2Fynab-sdk-php
+- 源码仓库：https://github.com/JPry/ynab-sdk-php.git
+- Packagist 页面：https://packagist.org/packages/jpry%2Fynab-sdk-php
+
+## 历史版本号
+
+- 当前版本：v2.5.0
+
+- v1.0.0
+- v1.1.0
+- v2.0.0
+- v2.1.0
+- v2.2.0
+- v2.3.0
+- v2.4.0
+- v2.5.0
+
+## 获取地址
+
+- Composer 安装：`composer require jpry/ynab-sdk-php`
+- Packagist 仓库：https://repo.packagist.org/p2/jpry/ynab-sdk-php.json
+- 许可证：MIT
+- PHP 要求：^8.3

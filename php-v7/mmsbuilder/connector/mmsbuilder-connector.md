@@ -1,0 +1,29 @@
+# mmsbuilder/connector
+
+> 标签: PHP
+
+## 简介
+
+Connector for app
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/mmsbuilder%2Fconnector
+- 源码仓库：https://github.com/githubmss/mmsbuilder.git
+- Packagist 页面：https://packagist.org/packages/mmsbuilder%2Fconnector
+
+## 历史版本号
+
+- 当前版本：2.2.5
+
+- 2.2.3
+- 2.2.5
+
+## 获取地址
+
+- Composer 安装：`composer require mmsbuilder/connector`
+- Packagist 仓库：https://repo.packagist.org/p2/mmsbuilder/connector.json
+- 许可证：OSL-3.0, AFL-3.0
+- PHP 要求：~7.0.0|~7.1|~7.1.2

@@ -1,0 +1,31 @@
+# kazin8/klick-tipp
+
+> 标签: PHP
+
+## 简介
+
+Implementation of klick-tipp api php library
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/kazin8%2Fklick-tipp
+- 源码仓库：https://github.com/kazin8/klick-tipp.git
+- Packagist 页面：https://packagist.org/packages/kazin8%2Fklick-tipp
+
+## 历史版本号
+
+- 当前版本：1.1
+
+- 0.0.0
+- 1.0
+- 1.0.1
+- 1.1
+
+## 获取地址
+
+- Composer 安装：`composer require kazin8/klick-tipp`
+- Packagist 仓库：https://repo.packagist.org/p2/kazin8/klick-tipp.json
+- 许可证：MIT
+- PHP 要求：>=5.3.0

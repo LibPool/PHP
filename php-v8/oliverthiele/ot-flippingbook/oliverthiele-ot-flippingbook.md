@@ -1,0 +1,34 @@
+# oliverthiele/ot-flippingbook
+
+> 标签: catalog, content element, embed, flippingbook, typo3
+
+## 简介
+
+CE FlippingBooks - TYPO3 content element for the integration of documents created with the FlippingBook Publisher (https://flippingbook.com/digital-publishing-software)
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://www.oliver-thiele.de/
+- 源码仓库：https://github.com/oliverthiele/ot-flippingbook.git
+- Packagist 页面：https://packagist.org/packages/oliverthiele%2Fot-flippingbook
+
+## 历史版本号
+
+- 当前版本：v3.0.0
+
+- 1.0.0
+- 1.0.1
+- 2.0.0
+- 2.1.0
+- v2.1.1
+- v2.1.2
+- v3.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require oliverthiele/ot-flippingbook`
+- Packagist 仓库：https://repo.packagist.org/p2/oliverthiele/ot-flippingbook.json
+- 许可证：GPL-2.0-or-later
+- PHP 要求：>=8.4

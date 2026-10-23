@@ -1,0 +1,39 @@
+# pavel-janicek/mautic-contact-client-bundle
+
+> 标签: Marketing Automation, Mautic, marketing, plugin
+
+## 简介
+
+Create custom integrations without writing code.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/pavel-janicek%2Fmautic-contact-client-bundle
+- 源码仓库：https://github.com/pavel-janicek/mautic-contact-client.git
+- Packagist 页面：https://packagist.org/packages/pavel-janicek%2Fmautic-contact-client-bundle
+
+## 历史版本号
+
+- 当前版本：2.15.2
+
+- 2.12.2
+- 2.12.4
+- 2.12.5
+- 2.12.6
+- 2.12.7
+- 2.12.8
+- 2.12.9
+- 2.14.0
+- 2.14.2
+- 2.15.0
+- 2.15.1
+- 2.15.2
+- 共 73 个稳定版本，完整清单见 Packagist。
+
+## 获取地址
+
+- Composer 安装：`composer require pavel-janicek/mautic-contact-client-bundle`
+- Packagist 仓库：https://repo.packagist.org/p2/pavel-janicek/mautic-contact-client-bundle.json
+- 许可证：GPL-3.0-only

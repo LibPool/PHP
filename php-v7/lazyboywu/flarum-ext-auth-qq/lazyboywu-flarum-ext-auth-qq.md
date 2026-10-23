@@ -1,0 +1,28 @@
+# lazyboywu/flarum-ext-auth-qq
+
+> 标签: Authentication, qq
+
+## 简介
+
+Allow users to log in with QQ.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/lazyboywu%2Fflarum-ext-auth-qq
+- 源码仓库：https://github.com/lazyboywu/flarum-ext-auth-qq.git
+- Packagist 页面：https://packagist.org/packages/lazyboywu%2Fflarum-ext-auth-qq
+
+## 历史版本号
+
+- 当前版本：v0.1.1
+
+- v0.1.0
+- v0.1.1
+
+## 获取地址
+
+- Composer 安装：`composer require lazyboywu/flarum-ext-auth-qq`
+- Packagist 仓库：https://repo.packagist.org/p2/lazyboywu/flarum-ext-auth-qq.json
+- 许可证：MIT

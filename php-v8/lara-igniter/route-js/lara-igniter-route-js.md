@@ -1,0 +1,31 @@
+# lara-igniter/route-js
+
+> 标签: javascript, laraigniter, route-js, routes
+
+## 简介
+
+Generates a Blade directive exporting all of your named Laraigniter routes. Also provides a nice route() helper function in JavaScript.
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/lara-igniter/route-js
+- 源码仓库：https://github.com/lara-igniter/route-js.git
+- Packagist 页面：https://packagist.org/packages/lara-igniter%2Froute-js
+
+## 历史版本号
+
+- 当前版本：v1.0.3
+
+- v1.0.0
+- v1.0.1
+- v1.0.2
+- v1.0.3
+
+## 获取地址
+
+- Composer 安装：`composer require lara-igniter/route-js`
+- Packagist 仓库：https://repo.packagist.org/p2/lara-igniter/route-js.json
+- 许可证：MIT
+- PHP 要求：^7.3|^8.0

@@ -1,0 +1,30 @@
+# past/paytr
+
+> 标签: direkt api, eft api, gateway, havale api, iframe, iframe api, laravel, payment, paytr, php
+
+## 简介
+
+Laravel Paytr Payment Gateway
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/past%2Fpaytr
+- 源码仓库：https://github.com/pastinternet/paytr.git
+- Packagist 页面：https://packagist.org/packages/past%2Fpaytr
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- Composer 安装：`composer require past/paytr`
+- Packagist 仓库：https://repo.packagist.org/p2/past/paytr.json
+- 许可证：MIT
+- PHP 要求：^8.0|^8.1

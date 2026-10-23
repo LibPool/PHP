@@ -1,0 +1,29 @@
+# onepica/avatax16
+
+> 标签: PHP
+
+## 简介
+
+AvaTax16 PHP lib
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/onepica%2Favatax16
+- 源码仓库：https://github.com/onepica/avatax16-lib.git
+- Packagist 页面：https://packagist.org/packages/onepica%2Favatax16
+
+## 历史版本号
+
+- 当前版本：0.2.2-stable
+
+- 0.1.0-stable
+- 0.2.2-stable
+
+## 获取地址
+
+- Composer 安装：`composer require onepica/avatax16`
+- Packagist 仓库：https://repo.packagist.org/p2/onepica/avatax16.json
+- 许可证：OSL-3.0
+- PHP 要求：~5.3.0|~5.4.0|~5.5.0|~5.6.0|~7.0.0

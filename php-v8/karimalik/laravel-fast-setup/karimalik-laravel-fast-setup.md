@@ -1,0 +1,28 @@
+# karimalik/laravel-fast-setup
+
+> 标签: boilerplate, installer, laravel, packages, scaffolding, setup
+
+## 简介
+
+Automates repetitive Laravel project setup tasks: package installation, environment generation, and folder structure scaffolding.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/karimalik%2Flaravel-fast-setup
+- 源码仓库：https://github.com/karimalik/laravel-fast-setup.git
+- Packagist 页面：https://packagist.org/packages/karimalik%2Flaravel-fast-setup
+
+## 历史版本号
+
+- 当前版本：v1.0.0
+
+- v1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require karimalik/laravel-fast-setup`
+- Packagist 仓库：https://repo.packagist.org/p2/karimalik/laravel-fast-setup.json
+- 许可证：MIT
+- PHP 要求：^8.3|^8.4

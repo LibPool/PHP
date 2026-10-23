@@ -1,0 +1,38 @@
+# luca-simonetti/liform
+
+> 标签: PHP
+
+## 简介
+
+Library to transform Symfony Forms into Json Schema
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/luca-simonetti%2Fliform
+- 源码仓库：https://github.com/luca-simonetti/Liform.git
+- Packagist 页面：https://packagist.org/packages/luca-simonetti%2Fliform
+
+## 历史版本号
+
+- 当前版本：v0.13.1
+
+- v0.10.0
+- v0.10.1
+- v0.10.2
+- v0.11.0
+- v0.12.0
+- v0.13.1
+- v0.8.0
+- v0.8.1
+- v0.8.2
+- v0.8.3
+- v0.9.0
+- v0.9.1
+
+## 获取地址
+
+- Composer 安装：`composer require luca-simonetti/liform`
+- Packagist 仓库：https://repo.packagist.org/p2/luca-simonetti/liform.json
+- 许可证：MIT

@@ -1,0 +1,27 @@
+# justify/container
+
+> 标签: PHP
+
+## 简介
+
+Dependency injection container, implementation of PSR-11
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/justify%2Fcontainer
+- 源码仓库：https://github.com/Cannon431/container.git
+- Packagist 页面：https://packagist.org/packages/justify%2Fcontainer
+
+## 历史版本号
+
+- 当前版本：v1.0.0
+
+- v1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require justify/container`
+- Packagist 仓库：https://repo.packagist.org/p2/justify/container.json
+- 许可证：MIT

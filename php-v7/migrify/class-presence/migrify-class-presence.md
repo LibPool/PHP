@@ -1,0 +1,40 @@
+# migrify/class-presence
+
+> 标签: PHP
+
+## 简介
+
+Check NEON/YAML/TWIG/LATTE files for existing and missing classes
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/migrify%2Fclass-presence
+- 源码仓库：https://github.com/symplify/class-presence.git
+- Packagist 页面：https://packagist.org/packages/migrify%2Fclass-presence
+
+## 历史版本号
+
+- 当前版本：v9.2.4
+
+- v0.3.30
+- v0.3.31
+- v0.3.32
+- v0.3.4
+- v0.3.5
+- v0.3.6
+- v0.3.7
+- v0.3.8
+- v0.3.9
+- v9.2.2
+- v9.2.3
+- v9.2.4
+- 共 124 个稳定版本，完整清单见 Packagist。
+
+## 获取地址
+
+- Composer 安装：`composer require migrify/class-presence`
+- Packagist 仓库：https://repo.packagist.org/p2/migrify/class-presence.json
+- 许可证：MIT
+- PHP 要求：>=7.3

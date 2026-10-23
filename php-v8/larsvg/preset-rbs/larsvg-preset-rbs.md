@@ -1,0 +1,32 @@
+# larsvg/preset-rbs
+
+> 标签: React JS, bootstrap, laravel, laravel preset
+
+## 简介
+
+Laravel preset with ReactJS/Bootstrap en Laravel structure scaffolding.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/larsvg%2Fpreset-rbs
+- 源码仓库：https://github.com/larsvg/lvg-presets.git
+- Packagist 页面：https://packagist.org/packages/larsvg%2Fpreset-rbs
+
+## 历史版本号
+
+- 当前版本：1.4.2
+
+- 1.0
+- 1.1
+- 1.2
+- 1.3
+- 1.4.1
+- 1.4.2
+
+## 获取地址
+
+- Composer 安装：`composer require larsvg/preset-rbs`
+- Packagist 仓库：https://repo.packagist.org/p2/larsvg/preset-rbs.json
+- 许可证：MIT

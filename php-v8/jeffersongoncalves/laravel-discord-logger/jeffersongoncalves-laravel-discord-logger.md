@@ -1,0 +1,37 @@
+# jeffersongoncalves/laravel-discord-logger
+
+> 标签: discord, jeffersongoncalves, laravel, laravel-discord-logger, logging, monolog, webhook
+
+## 简介
+
+Send Laravel logs to Discord with deduplication, configurable error grouping, rate limiting, async delivery and a graceful no-op when the webhook URL is missing.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/jeffersongoncalves/laravel-discord-logger
+- 源码仓库：https://github.com/jeffersongoncalves/laravel-discord-logger.git
+- Packagist 页面：https://packagist.org/packages/jeffersongoncalves%2Flaravel-discord-logger
+
+## 历史版本号
+
+- 当前版本：v2.2.1
+
+- v1.0.0
+- v1.1.0
+- v1.1.1
+- v2.0.0
+- v2.0.1
+- v2.0.2
+- v2.0.3
+- v2.1.0
+- v2.2.0
+- v2.2.1
+
+## 获取地址
+
+- Composer 安装：`composer require jeffersongoncalves/laravel-discord-logger`
+- Packagist 仓库：https://repo.packagist.org/p2/jeffersongoncalves/laravel-discord-logger.json
+- 许可证：MIT
+- PHP 要求：^8.2|^8.3|^8.4

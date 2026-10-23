@@ -1,0 +1,29 @@
+# mgbg/custom-filament-menu-builder
+
+> 标签: datlechin, filament-menu-builder, laravel
+
+## 简介
+
+Custom with fixes - Create and manage menus and menu items
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/datlechin/filament-menu-builder
+- 源码仓库：https://github.com/mgbg/custom-filament-menu-builder.git
+- Packagist 页面：https://packagist.org/packages/mgbg%2Fcustom-filament-menu-builder
+
+## 历史版本号
+
+- 当前版本：0.5.5
+
+- 0.5.4
+- 0.5.5
+
+## 获取地址
+
+- Composer 安装：`composer require mgbg/custom-filament-menu-builder`
+- Packagist 仓库：https://repo.packagist.org/p2/mgbg/custom-filament-menu-builder.json
+- 许可证：MIT
+- PHP 要求：^8.1

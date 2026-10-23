@@ -1,0 +1,28 @@
+# jlpiriz/laravel-helpers
+
+> 标签: Simple, helpers, package, useful
+
+## 简介
+
+Package with useful things for Laravel 5.5 or highest
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/jlpiriz/laravel-helpers
+- 源码仓库：https://github.com/jlpiriz/laravel-helpers.git
+- Packagist 页面：https://packagist.org/packages/jlpiriz%2Flaravel-helpers
+
+## 历史版本号
+
+- 当前版本：v0.1
+
+- v0.1
+
+## 获取地址
+
+- Composer 安装：`composer require jlpiriz/laravel-helpers`
+- Packagist 仓库：https://repo.packagist.org/p2/jlpiriz/laravel-helpers.json
+- 许可证：MIT
+- PHP 要求：>=7.1.0

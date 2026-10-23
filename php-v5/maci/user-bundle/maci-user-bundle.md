@@ -1,0 +1,28 @@
+# maci/user-bundle
+
+> 标签: User Generator, bootstrap, maci, user
+
+## 简介
+
+Symfony MaciUserBundle
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/maci1011/MaciUserBundle
+- 源码仓库：https://github.com/maci1011/MaciUserBundle.git
+- Packagist 页面：https://packagist.org/packages/maci%2Fuser-bundle
+
+## 历史版本号
+
+- 当前版本：v0.6.1
+
+- v0.6
+- v0.6.1
+
+## 获取地址
+
+- Composer 安装：`composer require maci/user-bundle`
+- Packagist 仓库：https://repo.packagist.org/p2/maci/user-bundle.json
+- 许可证：MIT

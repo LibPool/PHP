@@ -1,0 +1,30 @@
+# lunr/ticks.influxdb1
+
+> 标签: event logging, profiler, profiling
+
+## 简介
+
+Lunr.Ticks.InfluxDB1 is a library for profiling and event logging with the InfluxDB 1.x API
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/lunr-php/lunr.ticks.influxdb1
+- 源码仓库：https://github.com/lunr-php/lunr.ticks.influxdb1.git
+- Packagist 页面：https://packagist.org/packages/lunr%2Fticks.influxdb1
+
+## 历史版本号
+
+- 当前版本：0.13.0
+
+- 0.11.0
+- 0.12.0
+- 0.13.0
+
+## 获取地址
+
+- Composer 安装：`composer require lunr/ticks.influxdb1`
+- Packagist 仓库：https://repo.packagist.org/p2/lunr/ticks.influxdb1.json
+- 许可证：MIT
+- PHP 要求：>=8.1

@@ -1,0 +1,34 @@
+# mautic/theme-multi-step
+
+> 标签: Mautic, theme
+
+## 简介
+
+Multi-step theme
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/mautic%2Ftheme-multi-step
+- 源码仓库：https://github.com/mautic/theme-multi-step.git
+- Packagist 页面：https://packagist.org/packages/mautic%2Ftheme-multi-step
+
+## 历史版本号
+
+- 当前版本：7.2.1
+
+- 7.0.0
+- 7.0.1
+- 7.0.2
+- 7.1.0
+- 7.1.1
+- 7.1.2
+- 7.1.3
+- 7.2.0
+- 7.2.1
+
+## 获取地址
+
+- Composer 安装：`composer require mautic/theme-multi-step`
+- Packagist 仓库：https://repo.packagist.org/p2/mautic/theme-multi-step.json

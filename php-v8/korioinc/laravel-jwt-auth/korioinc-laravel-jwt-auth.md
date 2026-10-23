@@ -1,0 +1,28 @@
+# korioinc/laravel-jwt-auth
+
+> 标签: korioinc, laravel, laravel-jwt-auth
+
+## 简介
+
+This is my package laravel-jwt-auth
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/korioinc/laravel-jwt-auth
+- 源码仓库：https://github.com/korioinc/laravel-jwt-auth.git
+- Packagist 页面：https://packagist.org/packages/korioinc%2Flaravel-jwt-auth
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require korioinc/laravel-jwt-auth`
+- Packagist 仓库：https://repo.packagist.org/p2/korioinc/laravel-jwt-auth.json
+- 许可证：MIT
+- PHP 要求：^8.4

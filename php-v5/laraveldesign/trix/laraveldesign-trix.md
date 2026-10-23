@@ -1,0 +1,27 @@
+# laraveldesign/trix
+
+> 标签: laraveldesign, trix
+
+## 简介
+
+Adds Trix editor to Laravel websites using the T.A.L.L. stack.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/laraveldesign/trix
+- 源码仓库：https://github.com/laraveldesign/trix.git
+- Packagist 页面：https://packagist.org/packages/laraveldesign%2Ftrix
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require laraveldesign/trix`
+- Packagist 仓库：https://repo.packagist.org/p2/laraveldesign/trix.json
+- 许可证：MIT

@@ -1,0 +1,29 @@
+# hostmaster/ua
+
+> 标签: domain, epp, hostmaster, registrar, registry, ua
+
+## 简介
+
+Modern PHP 8.2+ EPP client library for the .UA registry (epp.hostmaster.ua).
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/hostmaster-direct/ua
+- 源码仓库：https://github.com/hostmaster-direct/ua.git
+- Packagist 页面：https://packagist.org/packages/hostmaster%2Fua
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require hostmaster/ua`
+- Packagist 仓库：https://repo.packagist.org/p2/hostmaster/ua.json
+- 许可证：MIT
+- PHP 要求：^8.2

@@ -1,0 +1,29 @@
+# jiromm/zf3-rabbitmq
+
+> 标签: rabbitmq, zf3
+
+## 简介
+
+RabbitMQ module for Zend Framework
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/jiromm/zf3-rabbitmq
+- 源码仓库：https://github.com/jiromm/zf3-rabbitmq.git
+- Packagist 页面：https://packagist.org/packages/jiromm%2Fzf3-rabbitmq
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- Composer 安装：`composer require jiromm/zf3-rabbitmq`
+- Packagist 仓库：https://repo.packagist.org/p2/jiromm/zf3-rabbitmq.json
+- 许可证：GPLv3
+- PHP 要求：^5.3 || ^7.0

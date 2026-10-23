@@ -1,0 +1,34 @@
+# kpacha/suricate-php-sdk
+
+> 标签: curator, curator-x-discovery, curator-x-discovery-server, service discovery, suricate, zookeeper
+
+## 简介
+
+sdk for the suricate service.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/kpacha%2Fsuricate-php-sdk
+- 源码仓库：https://github.com/kpacha/suricate-php-sdk.git
+- Packagist 页面：https://packagist.org/packages/kpacha%2Fsuricate-php-sdk
+
+## 历史版本号
+
+- 当前版本：v1.0.6
+
+- v1.0.0
+- v1.0.1
+- v1.0.2
+- v1.0.3
+- v1.0.4
+- v1.0.5
+- v1.0.6
+
+## 获取地址
+
+- Composer 安装：`composer require kpacha/suricate-php-sdk`
+- Packagist 仓库：https://repo.packagist.org/p2/kpacha/suricate-php-sdk.json
+- 许可证：Apache-2.0
+- PHP 要求：>=5.3.3

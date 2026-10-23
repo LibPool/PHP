@@ -1,0 +1,30 @@
+# mywheels/twig-spreadsheet-bundle
+
+> 标签: PHPExcel, excel, phpspreadsheet, spreadsheet, symfony, twig
+
+## 简介
+
+This Symfony bundle integrates PhpSpreadsheet into Symfony using Twig.
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/MyWheels/TwigSpreadsheetBundle
+- 源码仓库：https://github.com/MyWheels/TwigSpreadsheetBundle.git
+- Packagist 页面：https://packagist.org/packages/mywheels%2Ftwig-spreadsheet-bundle
+
+## 历史版本号
+
+- 当前版本：1.2
+
+- 1.0
+- 1.1
+- 1.2
+
+## 获取地址
+
+- Composer 安装：`composer require mywheels/twig-spreadsheet-bundle`
+- Packagist 仓库：https://repo.packagist.org/p2/mywheels/twig-spreadsheet-bundle.json
+- 许可证：MIT
+- PHP 要求：>=7.0

@@ -1,0 +1,33 @@
+# kage-no-neko/osm
+
+> 标签: api, open street map, osm
+
+## 简介
+
+OpenStreetMap API Integration
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/KageNoNeko/osm
+- 源码仓库：https://github.com/KageNoNeko/osm.git
+- Packagist 页面：https://packagist.org/packages/kage-no-neko%2Fosm
+
+## 历史版本号
+
+- 当前版本：0.2.6
+
+- 0.2.0
+- 0.2.1
+- 0.2.3
+- 0.2.4
+- 0.2.5
+- 0.2.6
+
+## 获取地址
+
+- Composer 安装：`composer require kage-no-neko/osm`
+- Packagist 仓库：https://repo.packagist.org/p2/kage-no-neko/osm.json
+- 许可证：MIT
+- PHP 要求：>=5.5.9

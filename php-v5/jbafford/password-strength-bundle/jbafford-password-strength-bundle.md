@@ -1,0 +1,30 @@
+# jbafford/password-strength-bundle
+
+> 标签: bafford, password, strength
+
+## 简介
+
+Provides a password strength validator
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/jbafford/PasswordStrengthBundle
+- 源码仓库：https://github.com/jbafford/PasswordStrengthBundle.git
+- Packagist 页面：https://packagist.org/packages/jbafford%2Fpassword-strength-bundle
+
+## 历史版本号
+
+- 当前版本：v1.0
+
+- v0.1
+- v0.2
+- v1.0
+
+## 获取地址
+
+- Composer 安装：`composer require jbafford/password-strength-bundle`
+- Packagist 仓库：https://repo.packagist.org/p2/jbafford/password-strength-bundle.json
+- 许可证：MIT
+- PHP 要求：>=5.3.2

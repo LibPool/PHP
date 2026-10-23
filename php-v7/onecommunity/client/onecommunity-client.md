@@ -1,0 +1,38 @@
+# onecommunity/client
+
+> 标签: api, onecommunity
+
+## 简介
+
+PHP client to access the One Community API.
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/emolifeconnect/onecommunity-php
+- 源码仓库：https://github.com/emolifeconnect/onecommunity-php.git
+- Packagist 页面：https://packagist.org/packages/onecommunity%2Fclient
+
+## 历史版本号
+
+- 当前版本：v0.10.0
+
+- 0.5.1
+- 0.7.0
+- v0.10.0
+- v0.2.0
+- v0.3.0
+- v0.3.1
+- v0.4.0
+- v0.5.0
+- v0.6.0
+- v0.8.0
+- v0.9.0
+
+## 获取地址
+
+- Composer 安装：`composer require onecommunity/client`
+- Packagist 仓库：https://repo.packagist.org/p2/onecommunity/client.json
+- 许可证：MIT
+- PHP 要求：^7.2|^8.0

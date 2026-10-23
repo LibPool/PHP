@@ -1,0 +1,30 @@
+# thedomeffm/email-canonicalizer
+
+> 标签: canonical, deduplication, email, fastmail, gmail, googlemail, normalize, posteo, proton, signup, yandex
+
+## 简介
+
+Canonicalize addresses at public email providers (Gmail, Outlook, Proton, Fastmail, Yandex, Posteo, mailbox.org) to detect duplicate signups
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/thedomeffm%2Femail-canonicalizer
+- 源码仓库：https://github.com/thedomeffm/email-canonicalizer.git
+- Packagist 页面：https://packagist.org/packages/thedomeffm%2Femail-canonicalizer
+
+## 历史版本号
+
+- 当前版本：v1.2.0
+
+- v1.0.0
+- v1.1.0
+- v1.2.0
+
+## 获取地址
+
+- Composer 安装：`composer require thedomeffm/email-canonicalizer`
+- Packagist 仓库：https://repo.packagist.org/p2/thedomeffm/email-canonicalizer.json
+- 许可证：MIT
+- PHP 要求：>=8.3

@@ -1,0 +1,32 @@
+# iivannov/branchio
+
+> 标签: branch, branch io, branch metrics, branch.io, branchio, client, http, http api, php
+
+## 简介
+
+Branch Metrics (Branch.io) HTTP API client
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/iivannov%2Fbranchio
+- 源码仓库：https://github.com/iivannov/branchio.git
+- Packagist 页面：https://packagist.org/packages/iivannov%2Fbranchio
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- Composer 安装：`composer require iivannov/branchio`
+- Packagist 仓库：https://repo.packagist.org/p2/iivannov/branchio.json
+- 许可证：MIT
+- PHP 要求：>=5.6.0

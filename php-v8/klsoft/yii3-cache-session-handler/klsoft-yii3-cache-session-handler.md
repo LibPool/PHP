@@ -1,0 +1,28 @@
+# klsoft/yii3-cache-session-handler
+
+> 标签: cache, session, yii3
+
+## 简介
+
+The package implements the SessionHandlerInterface using the PSR-16 cache for storage
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/klsoft-web/yii3-cache-session-handler
+- 源码仓库：https://github.com/klsoft-web/yii3-cache-session-handler.git
+- Packagist 页面：https://packagist.org/packages/klsoft%2Fyii3-cache-session-handler
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require klsoft/yii3-cache-session-handler`
+- Packagist 仓库：https://repo.packagist.org/p2/klsoft/yii3-cache-session-handler.json
+- 许可证：MIT
+- PHP 要求：>=8.1

@@ -1,0 +1,30 @@
+# joldnl/jold-acf-additions
+
+> 标签: PHP
+
+## 简介
+
+Add some small but useful additions and improvements to the Advanced Custom Fields Pro plugin.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://bitbucket.org/joldnl/jold-acf-additions
+- 源码仓库：https://bitbucket.org/joldnl/jold-acf-additions.git
+- Packagist 页面：https://packagist.org/packages/joldnl%2Fjold-acf-additions
+
+## 历史版本号
+
+- 当前版本：v0.4.0
+
+- v0.2.8
+- v0.2.9
+- v0.3.0
+- v0.4.0
+
+## 获取地址
+
+- Composer 安装：`composer require joldnl/jold-acf-additions`
+- Packagist 仓库：https://repo.packagist.org/p2/joldnl/jold-acf-additions.json
+- 许可证：GPL-3.0

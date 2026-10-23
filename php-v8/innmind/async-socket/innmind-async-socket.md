@@ -1,0 +1,28 @@
+# innmind/async-socket
+
+> 标签: PHP
+
+## 简介
+
+innmind/async-socket - PHP library from Packagist
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：http://github.com/innmind/async-socket
+- 源码仓库：https://github.com/Innmind/async-socket.git
+- Packagist 页面：https://packagist.org/packages/innmind%2Fasync-socket
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require innmind/async-socket`
+- Packagist 仓库：https://repo.packagist.org/p2/innmind/async-socket.json
+- 许可证：MIT
+- PHP 要求：~8.1

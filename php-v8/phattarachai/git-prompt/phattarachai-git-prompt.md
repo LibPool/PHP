@@ -1,0 +1,31 @@
+# phattarachai/git-prompt
+
+> 标签: branch, cli, git, laravel-prompts, terminal, tui
+
+## 简介
+
+A PHPStorm-style git branch popup for the terminal — search branches and actions, checkout, update, merge, rebase, commit, push and stash through Laravel Prompts. One global command for every repo.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/phattarachai%2Fgit-prompt
+- 源码仓库：https://github.com/phattarachai/git-prompt.git
+- Packagist 页面：https://packagist.org/packages/phattarachai%2Fgit-prompt
+
+## 历史版本号
+
+- 当前版本：v1.1.1
+
+- v1.0.0
+- v1.0.1
+- v1.1.0
+- v1.1.1
+
+## 获取地址
+
+- Composer 安装：`composer require phattarachai/git-prompt`
+- Packagist 仓库：https://repo.packagist.org/p2/phattarachai/git-prompt.json
+- 许可证：MIT
+- PHP 要求：^8.3

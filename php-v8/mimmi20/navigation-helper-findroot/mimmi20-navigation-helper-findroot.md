@@ -1,0 +1,37 @@
+# mimmi20/navigation-helper-findroot
+
+> 标签: PHP
+
+## 简介
+
+Provides a find-root helper for Mezzio Navigation
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://github.com/mimmi20/navigation-helper-findroot
+- 源码仓库：https://github.com/mimmi20/navigation-helper-findroot.git
+- Packagist 页面：https://packagist.org/packages/mimmi20%2Fnavigation-helper-findroot
+
+## 历史版本号
+
+- 当前版本：3.0.2
+
+- 1.0.0
+- 2.0.0
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 2.1.3
+- 2.1.4
+- 3.0.0
+- 3.0.1
+- 3.0.2
+
+## 获取地址
+
+- Composer 安装：`composer require mimmi20/navigation-helper-findroot`
+- Packagist 仓库：https://repo.packagist.org/p2/mimmi20/navigation-helper-findroot.json
+- 许可证：MIT
+- PHP 要求：~8.3.0 || ~8.4.0 || ~8.5.0

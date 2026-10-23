@@ -1,0 +1,38 @@
+# kunstmaan/live-reload-bundle
+
+> 标签: PHP
+
+## 简介
+
+kunstmaan/live-reload-bundle - PHP library from Packagist
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/kunstmaan%2Flive-reload-bundle
+- 源码仓库：https://github.com/Kunstmaan/KunstmaanLiveReloadBundle.git
+- Packagist 页面：https://packagist.org/packages/kunstmaan%2Flive-reload-bundle
+
+## 历史版本号
+
+- 当前版本：3.5.1
+
+- 3.4.0
+- 3.4.1
+- 3.4.2
+- 3.5.0
+- 3.5.1
+- v1.0.0
+- v2.3
+- v2.3.1
+- v2.3.3
+- v2.3.4
+- v2.3.5
+- v2.3.6
+- 共 35 个稳定版本，完整清单见 Packagist。
+
+## 获取地址
+
+- Composer 安装：`composer require kunstmaan/live-reload-bundle`
+- Packagist 仓库：https://repo.packagist.org/p2/kunstmaan/live-reload-bundle.json

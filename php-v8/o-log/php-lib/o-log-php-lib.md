@@ -1,0 +1,38 @@
+# o-log/php-lib
+
+> 标签: PHP
+
+## 简介
+
+Useful PHP libraries
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/o-log%2Fphp-lib
+- 源码仓库：https://github.com/o-log/php-lib.git
+- Packagist 页面：https://packagist.org/packages/o-log%2Fphp-lib
+
+## 历史版本号
+
+- 当前版本：2.0
+
+- 1.40
+- 1.41
+- 1.42
+- 1.43
+- 1.44
+- 1.45
+- 1.5
+- 1.6
+- 1.7
+- 1.8
+- 1.9
+- 2.0
+- 共 47 个稳定版本，完整清单见 Packagist。
+
+## 获取地址
+
+- Composer 安装：`composer require o-log/php-lib`
+- Packagist 仓库：https://repo.packagist.org/p2/o-log/php-lib.json

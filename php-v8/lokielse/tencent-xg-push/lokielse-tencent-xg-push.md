@@ -1,0 +1,32 @@
+# lokielse/tencent-xg-push
+
+> 标签: php, sdk, tencent, xg, xingge
+
+## 简介
+
+The PHP SDK for Tencent XGPush
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://github.com/lokielse/tencent-xg-push
+- 源码仓库：https://github.com/lokielse/php-tencent-xg-push.git
+- Packagist 页面：https://packagist.org/packages/lokielse%2Ftencent-xg-push
+
+## 历史版本号
+
+- 当前版本：v1.0.4
+
+- v1.0.0
+- v1.0.1
+- v1.0.2
+- v1.0.3
+- v1.0.4
+
+## 获取地址
+
+- Composer 安装：`composer require lokielse/tencent-xg-push`
+- Packagist 仓库：https://repo.packagist.org/p2/lokielse/tencent-xg-push.json
+- 许可证：MIT
+- PHP 要求：>=5.3.0

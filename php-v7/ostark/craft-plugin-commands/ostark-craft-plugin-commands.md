@@ -1,0 +1,29 @@
+# ostark/craft-plugin-commands
+
+> 标签: Craft, cms, craftcms, plugins, yii2-extension
+
+## 简介
+
+Manage Craft plugins from the cli
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/ostark%2Fcraft-plugin-commands
+- 源码仓库：https://github.com/ostark/craft-plugin-commands.git
+- Packagist 页面：https://packagist.org/packages/ostark%2Fcraft-plugin-commands
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 1.1.0
+- 2.0.0
+
+## 获取地址
+
+- Composer 安装：`composer require ostark/craft-plugin-commands`
+- Packagist 仓库：https://repo.packagist.org/p2/ostark/craft-plugin-commands.json
+- 许可证：MIT

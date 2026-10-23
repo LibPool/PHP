@@ -1,0 +1,29 @@
+# theaaronlawrence/laravel-culprit
+
+> 标签: PHP
+
+## 简介
+
+Report exceptions from your Laravel app to Culprit.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/theaaronlawrence%2Flaravel-culprit
+- 源码仓库：https://github.com/TheAaronLawrence/culprit-php.git
+- Packagist 页面：https://packagist.org/packages/theaaronlawrence%2Flaravel-culprit
+
+## 历史版本号
+
+- 当前版本：v0.2.0
+
+- v0.1.0
+- v0.2.0
+
+## 获取地址
+
+- Composer 安装：`composer require theaaronlawrence/laravel-culprit`
+- Packagist 仓库：https://repo.packagist.org/p2/theaaronlawrence/laravel-culprit.json
+- 许可证：MIT
+- PHP 要求：^8.2

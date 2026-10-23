@@ -1,0 +1,31 @@
+# jaz303/phake
+
+> 标签: Tasks, automation, cli
+
+## 简介
+
+A wee clone of Ruby's rake for PHP 5.3. Uses closures for ultimate coolness.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：http://github.com/jaz303/phake
+- 源码仓库：https://github.com/jaz303/phake.git
+- Packagist 页面：https://packagist.org/packages/jaz303%2Fphake
+
+## 历史版本号
+
+- 当前版本：v0.6.0
+
+- v0.5.0
+- v0.5.1
+- v0.5.2
+- v0.6.0
+
+## 获取地址
+
+- Composer 安装：`composer require jaz303/phake`
+- Packagist 仓库：https://repo.packagist.org/p2/jaz303/phake.json
+- 许可证：MIT
+- PHP 要求：>=5.3.0

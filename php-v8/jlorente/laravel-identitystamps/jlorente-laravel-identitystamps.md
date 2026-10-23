@@ -1,0 +1,30 @@
+# jlorente/laravel-identitystamps
+
+> 标签: Auditable, created_by, deleted_by, identity, identitystamp, jlorente, laravel, php, updated_by
+
+## 简介
+
+A Laravel plugin to register and keep control of the users who make creations, updates and deletions of models
+
+按 require.php 推断最低支持 PHP 7；已收录于 php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/jlorente%2Flaravel-identitystamps
+- 源码仓库：https://github.com/jlorente/laravel-identitystamps.git
+- Packagist 页面：https://packagist.org/packages/jlorente%2Flaravel-identitystamps
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- Composer 安装：`composer require jlorente/laravel-identitystamps`
+- Packagist 仓库：https://repo.packagist.org/p2/jlorente/laravel-identitystamps.json
+- 许可证：BSD-3-Clause
+- PHP 要求：>=7.0.0

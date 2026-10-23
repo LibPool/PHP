@@ -1,0 +1,28 @@
+# landofcoder/module-image-clean
+
+> 标签: clean unused images, landofcoder, landofcoder clean images, landofcoder clean unuse images magento 2 extension
+
+## 简介
+
+Magento 2 clean unused product images
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/landofcoder%2Fmodule-image-clean
+- 源码仓库：https://github.com/landofcoder/module-magento2-image-clean.git
+- Packagist 页面：https://packagist.org/packages/landofcoder%2Fmodule-image-clean
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- Composer 安装：`composer require landofcoder/module-image-clean`
+- Packagist 仓库：https://repo.packagist.org/p2/landofcoder/module-image-clean.json
+- 许可证：proprietary

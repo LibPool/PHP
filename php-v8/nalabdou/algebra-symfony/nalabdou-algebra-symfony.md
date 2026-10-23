@@ -1,0 +1,29 @@
+# nalabdou/algebra-symfony
+
+> 标签: algebra, bundle, doctrine, pipeline, relational, symfony
+
+## 简介
+
+Symfony 7 bundle for algebra-php DI integration, Doctrine adapter.
+
+按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/nalabdou%2Falgebra-symfony
+- 源码仓库：https://github.com/nalabdou/algebra-symfony.git
+- Packagist 页面：https://packagist.org/packages/nalabdou%2Falgebra-symfony
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- Composer 安装：`composer require nalabdou/algebra-symfony`
+- Packagist 仓库：https://repo.packagist.org/p2/nalabdou/algebra-symfony.json
+- 许可证：MIT
+- PHP 要求：>=8.2

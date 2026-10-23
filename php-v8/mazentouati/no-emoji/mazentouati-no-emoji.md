@@ -1,0 +1,29 @@
+# mazentouati/no-emoji
+
+> 标签: PHP
+
+## 简介
+
+Generates a RegEx pattern that detect emojis presence.
+
+按 require.php 推断最低支持 PHP 5；已收录于 php-v5, php-v7, php-v8。
+
+## 官网
+
+- 官网：https://packagist.org/packages/mazentouati%2Fno-emoji
+- 源码仓库：https://github.com/mazentouati/no-emoji.git
+- Packagist 页面：https://packagist.org/packages/mazentouati%2Fno-emoji
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+
+## 获取地址
+
+- Composer 安装：`composer require mazentouati/no-emoji`
+- Packagist 仓库：https://repo.packagist.org/p2/mazentouati/no-emoji.json
+- 许可证：MIT
