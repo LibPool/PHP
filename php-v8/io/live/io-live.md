@@ -16,9 +16,10 @@ Live components for Io under Tenma: server-side PHP components, events and rende
 
 ## 历史版本号
 
-- 当前版本：v0.1.0
+- 当前版本：v0.1.1
 
 - v0.1.0
+- v0.1.1
 
 ## 获取地址
 

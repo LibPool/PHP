@@ -16,7 +16,7 @@ juhedata/pay - PHP library from Packagist
 
 ## 历史版本号
 
-- 当前版本：v3.7.999
+- 当前版本：v3.7.1000
 
 - v3.7.18
 - v3.7.19
@@ -30,7 +30,7 @@ juhedata/pay - PHP library from Packagist
 - v3.7.8
 - v3.7.9
 - v3.7.999
-- 共 197 个稳定版本，完整清单见 Packagist。
+- 共 198 个稳定版本，完整清单见 Packagist。
 
 ## 获取地址
 

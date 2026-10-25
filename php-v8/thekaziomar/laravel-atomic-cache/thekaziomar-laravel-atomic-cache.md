@@ -1,10 +1,10 @@
 # thekaziomar/laravel-atomic-cache
 
-> 标签: atomic, cache, laravel, redis, stampede-protection
+> 标签: auto-invalidation, cache, compression, eloquent, laravel, performance, query-cache, redis, stampede-protection
 
 ## 简介
 
-A simple, stampede-proof, and tag-aware caching package for Laravel.
+Zero-headache, stampede-proof, and auto-invalidating caching for Laravel. Cache database queries in 2 lines without managing keys or observers.
 
 按 require.php 推断最低支持 PHP 8；已收录于 php-v8。
 
@@ -16,11 +16,21 @@ A simple, stampede-proof, and tag-aware caching package for Laravel.
 
 ## 历史版本号
 
-- 当前版本：v1.1.1
+- 当前版本：v1.3.3
 
-- v1.0.0
 - v1.1.0
 - v1.1.1
+- v1.1.2
+- v1.2.0
+- v1.2.1
+- v1.2.2
+- v1.2.3
+- v1.2.4
+- v1.3.0
+- v1.3.1
+- v1.3.2
+- v1.3.3
+- 共 13 个稳定版本，完整清单见 Packagist。
 
 ## 获取地址
 

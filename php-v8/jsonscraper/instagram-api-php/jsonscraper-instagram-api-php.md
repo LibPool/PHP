@@ -16,8 +16,9 @@ Instagram Scraper API client for PHP with Composer and response models
 
 ## 历史版本号
 
-- 当前版本：v0.1.0
+- 当前版本：0.1.1
 
+- 0.1.1
 - v0.1.0
 
 ## 获取地址

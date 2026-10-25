@@ -16,8 +16,9 @@ TikTok Scraper API for PHP — typed response models, video, profiles, comments 
 
 ## 历史版本号
 
-- 当前版本：v0.1.0
+- 当前版本：0.1.1
 
+- 0.1.1
 - v0.1.0
 
 ## 获取地址

@@ -16,10 +16,11 @@ Scheduled, model-routed log analysis that reports problems to Slack.
 
 ## 历史版本号
 
-- 当前版本：v0.1.2
+- 当前版本：v0.1.3
 
 - v0.1.0
 - v0.1.2
+- v0.1.3
 
 ## 获取地址
 

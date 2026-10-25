@@ -16,9 +16,10 @@ Flat-file exchange with an ERP for Sylius 2: orders exported as CSV files (docum
 
 ## 历史版本号
 
-- 当前版本：v0.1.0
+- 当前版本：v0.2.0
 
 - v0.1.0
+- v0.2.0
 
 ## 获取地址
 

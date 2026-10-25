@@ -16,7 +16,7 @@ Redis Streams task queue for ThinkPHP 8 and PHP 8.2+
 
 ## 历史版本号
 
-- 当前版本：v0.2.4
+- 当前版本：v0.3.0
 
 - v0.1.0
 - v0.2.0
@@ -24,6 +24,7 @@ Redis Streams task queue for ThinkPHP 8 and PHP 8.2+
 - v0.2.2
 - v0.2.3
 - v0.2.4
+- v0.3.0
 
 ## 获取地址
 
