@@ -16,11 +16,12 @@ Daily menu (Tageskarte) for Kirby CMS 5: dishes with a validity date and window,
 
 ## 历史版本号
 
-- 当前版本：v1.3.0
+- 当前版本：v1.4.0
 
 - v1.1.0
 - v1.2.0
 - v1.3.0
+- v1.4.0
 
 ## 获取地址
 

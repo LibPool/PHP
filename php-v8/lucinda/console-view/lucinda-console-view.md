@@ -16,9 +16,11 @@ HTML-like terminal view language and renderer for console MVC applications
 
 ## 历史版本号
 
-- 当前版本：v1.0.0
+- 当前版本：v1.0.2
 
 - v1.0.0
+- v1.0.1
+- v1.0.2
 
 ## 获取地址
 

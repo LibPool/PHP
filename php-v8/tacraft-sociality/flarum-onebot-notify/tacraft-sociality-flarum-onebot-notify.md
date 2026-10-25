@@ -16,9 +16,10 @@ Send OneBot (QQ) notifications about new discussions and posts from Flarum
 
 ## 历史版本号
 
-- 当前版本：v1.0.0
+- 当前版本：v1.0.1
 
 - v1.0.0
+- v1.0.1
 
 ## 获取地址
 

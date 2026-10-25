@@ -16,9 +16,10 @@ Symfony bundle that turns Markdown content into a static site.
 
 ## 历史版本号
 
-- 当前版本：v0.1.0
+- 当前版本：v0.2.0
 
 - v0.1.0
+- v0.2.0
 
 ## 获取地址
 

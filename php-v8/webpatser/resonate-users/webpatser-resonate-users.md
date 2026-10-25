@@ -16,13 +16,14 @@ Signed-in user identity and direct messaging for Resonate: pusher:signin, user c
 
 ## 历史版本号
 
-- 当前版本：v1.0.0
+- 当前版本：v1.1.0
 
 - v0.1.0
 - v0.1.1
 - v0.7.0
 - v0.7.1
 - v1.0.0
+- v1.1.0
 
 ## 获取地址
 
