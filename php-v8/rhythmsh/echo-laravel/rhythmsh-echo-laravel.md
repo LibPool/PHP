@@ -16,11 +16,12 @@ Rhythm Echo connector for Laravel: capture and seal the mail and HTTP calls a st
 
 ## 历史版本号
 
-- 当前版本：v1.1.1
+- 当前版本：v1.1.2
 
 - v1.0.0
 - v1.1.0
 - v1.1.1
+- v1.1.2
 
 ## 获取地址
 

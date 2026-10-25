@@ -16,10 +16,11 @@ Cached geocoding and timezone lookups for BMLT-enabled applications. Every endpo
 
 ## 历史版本号
 
-- 当前版本：1.0.1
+- 当前版本：1.0.2
 
 - 1.0.0
 - 1.0.1
+- 1.0.2
 
 ## 获取地址
 

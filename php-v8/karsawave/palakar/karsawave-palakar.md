@@ -16,10 +16,11 @@ Palakar Framework: a simple and secure PHP 8.2+ framework, fork of Panada Framew
 
 ## 历史版本号
 
-- 当前版本：v0.2.0
+- 当前版本：v0.3.0
 
 - v0.1.0
 - v0.2.0
+- v0.3.0
 
 ## 获取地址
 
